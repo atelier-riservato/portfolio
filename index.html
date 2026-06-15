@@ -1,1 +1,823 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estúdio — Portfólio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+:root {
+  --bg: #FAFAF8;
+  --text: #1A1A1A;
+  --text-secondary: #6B6560;
+  --accent: #C8B89A;
+  --border: #E8E4DC;
+  --overlay-bg: rgba(26,26,26,0.82);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* NAV */
+nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 48px;
+  background: rgba(250,250,248,0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s;
+}
+nav.scrolled { border-bottom-color: var(--border); }
+.nav-logo {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 32px;
+  list-style: none;
+}
+.nav-links a {
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.nav-links a:hover { color: var(--text); }
+
+/* HERO */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 48px 72px;
+  position: relative;
+  overflow: hidden;
+}
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, #F2EDE6 0%, #FAFAF8 55%);
+  z-index: 0;
+}
+.hero-line {
+  position: absolute;
+  top: 0; right: 120px;
+  width: 1px;
+  height: 45%;
+  background: var(--border);
+  z-index: 1;
+}
+.hero-line-2 {
+  position: absolute;
+  bottom: 0; left: 220px;
+  width: 1px;
+  height: 30%;
+  background: var(--border);
+  z-index: 1;
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 780px;
+}
+.hero-eyebrow {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 20px;
+}
+.hero-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(52px, 7vw, 96px);
+  font-weight: 300;
+  line-height: 1.0;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  margin-bottom: 28px;
+}
+.hero-title em {
+  font-style: italic;
+  color: var(--text-secondary);
+}
+.hero-desc {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  max-width: 440px;
+  margin-bottom: 44px;
+}
+.hero-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid var(--text);
+  padding-bottom: 3px;
+  transition: opacity 0.2s;
+}
+.hero-cta:hover { opacity: 0.6; }
+.hero-cta-arrow { font-size: 16px; transition: transform 0.2s; }
+.hero-cta:hover .hero-cta-arrow { transform: translateX(4px); }
+.hero-scroll {
+  position: absolute;
+  bottom: 40px;
+  right: 48px;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+.scroll-line {
+  width: 1px;
+  height: 48px;
+  background: var(--accent);
+  animation: scrollPulse 2s ease-in-out infinite;
+}
+@keyframes scrollPulse {
+  0%, 100% { opacity: 0.4; transform: scaleY(1); }
+  50% { opacity: 1; transform: scaleY(1.15); }
+}
+
+/* SECTION WRAPPER */
+section { padding: 100px 48px; }
+.section-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 56px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+.section-eyebrow {
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.section-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+.project-count {
+  font-size: 12px;
+  color: var(--text-secondary);
+  letter-spacing: 0.06em;
+}
+
+/* FILTERS */
+.filters {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.filter-btn {
+  padding: 6px 16px;
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  background: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.2s;
+  letter-spacing: 0.04em;
+}
+.filter-btn:hover { border-color: var(--text); color: var(--text); }
+.filter-btn.active {
+  background: var(--text);
+  border-color: var(--text);
+  color: var(--bg);
+}
+
+/* GRID */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 16px;
+  margin-top: 40px;
+}
+
+/* Grid layout alternado — proporção áurea */
+.proj-item {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  background: var(--border);
+}
+.proj-item:nth-child(6n+1) { grid-column: span 7; aspect-ratio: 16/10; }
+.proj-item:nth-child(6n+2) { grid-column: span 5; aspect-ratio: 16/10; }
+.proj-item:nth-child(6n+3) { grid-column: span 4; aspect-ratio: 4/5; }
+.proj-item:nth-child(6n+4) { grid-column: span 4; aspect-ratio: 4/5; }
+.proj-item:nth-child(6n+5) { grid-column: span 4; aspect-ratio: 4/5; }
+.proj-item:nth-child(6n+6) { grid-column: span 12; aspect-ratio: 21/8; }
+
+.proj-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.7s cubic-bezier(0.25,0.46,0.45,0.94);
+}
+.proj-placeholder {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #EAE5DD 0%, #D8D0C4 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.7s cubic-bezier(0.25,0.46,0.45,0.94);
+}
+.proj-placeholder-icon {
+  font-size: 28px;
+  color: var(--accent);
+  opacity: 0.5;
+}
+.proj-item:hover .proj-img,
+.proj-item:hover .proj-placeholder { transform: scale(1.04); }
+
+.proj-overlay {
+  position: absolute;
+  inset: 0;
+  background: var(--overlay-bg);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 28px;
+  opacity: 0;
+  transition: opacity 0.35s ease;
+}
+.proj-item:hover .proj-overlay { opacity: 1; }
+.proj-overlay-arch {
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.proj-overlay-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 24px;
+  font-weight: 400;
+  color: #FAFAF8;
+  line-height: 1.2;
+  margin-bottom: 4px;
+}
+.proj-overlay-meta {
+  font-size: 12px;
+  color: rgba(250,250,248,0.6);
+  font-weight: 300;
+}
+
+/* EMPTY STATE */
+.empty-projects {
+  grid-column: span 12;
+  text-align: center;
+  padding: 80px 20px;
+  color: var(--text-secondary);
+}
+.empty-projects p:first-child {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 28px;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+.empty-projects p:last-child {
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+/* SOBRE */
+.about-section {
+  background: #F2EDE6;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+.about-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: center;
+}
+.about-label {
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 20px;
+}
+.about-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(32px, 3.5vw, 52px);
+  font-weight: 300;
+  line-height: 1.15;
+  margin-bottom: 24px;
+}
+.about-title em { font-style: italic; color: var(--text-secondary); }
+.about-text {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.8;
+  color: var(--text-secondary);
+}
+.about-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2px;
+}
+.stat-box {
+  background: var(--bg);
+  padding: 32px 28px;
+}
+.stat-num {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 52px;
+  font-weight: 300;
+  line-height: 1;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+.stat-desc {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--text-secondary);
+  letter-spacing: 0.04em;
+}
+
+/* EQUIPE */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  margin-top: 0;
+}
+.team-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.team-avatar {
+  aspect-ratio: 3/4;
+  background: linear-gradient(145deg, #EAE5DD, #D8D0C4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+.team-initials {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 42px;
+  font-weight: 300;
+  color: var(--accent);
+}
+.team-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+.team-role {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  margin-top: -10px;
+}
+.team-proj-count {
+  font-size: 12px;
+  color: var(--text-secondary);
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+}
+
+/* CONTATO */
+.contact-section {
+  text-align: center;
+  padding: 120px 48px;
+}
+.contact-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(40px, 6vw, 82px);
+  font-weight: 300;
+  line-height: 1.05;
+  margin-bottom: 28px;
+}
+.contact-title em { font-style: italic; color: var(--text-secondary); }
+.contact-sub {
+  font-size: 14px;
+  font-weight: 300;
+  color: var(--text-secondary);
+  margin-bottom: 44px;
+  line-height: 1.6;
+}
+.contact-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 36px;
+  background: var(--text);
+  color: var(--bg);
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+.contact-btn:hover { opacity: 0.75; }
+
+/* FOOTER */
+footer {
+  padding: 28px 48px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-logo {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.footer-copy {
+  font-size: 11px;
+  color: var(--text-secondary);
+  letter-spacing: 0.04em;
+}
+
+/* FADE IN */
+.fade-in {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+.fade-in.visible {
+  opacity: 1;
+  transform: none;
+}
+
+@media (max-width: 900px) {
+  nav { padding: 18px 24px; }
+  .hero { padding: 0 24px 60px; }
+  section { padding: 72px 24px; }
+  .about-inner { grid-template-columns: 1fr; gap: 40px; }
+  .team-grid { grid-template-columns: repeat(2, 1fr); }
+  .proj-item:nth-child(n) { grid-column: span 12; aspect-ratio: 4/3; }
+  footer { padding: 24px; flex-direction: column; gap: 10px; text-align: center; }
+}
+</style>
+</head>
+<body>
+
+<nav id="mainNav">
+  <a href="#" class="nav-logo">Estúdio</a>
+  <ul class="nav-links">
+    <li><a href="#projetos">Projetos</a></li>
+    <li><a href="#sobre">Sobre</a></li>
+    <li><a href="#equipe">Equipe</a></li>
+    <li><a href="#contato">Contato</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="inicio">
+  <div class="hero-bg"></div>
+  <div class="hero-line"></div>
+  <div class="hero-line-2"></div>
+  <div class="hero-content fade-in">
+    <p class="hero-eyebrow">Arquitetura · Interiores · Projetos</p>
+    <h1 class="hero-title">Cada espaço<br><em>conta uma história</em></h1>
+    <p class="hero-desc">Um estúdio dedicado a criar ambientes que equilibram função, beleza e identidade. Do briefing à entrega, cada detalhe importa.</p>
+    <a href="#projetos" class="hero-cta">Ver projetos <span class="hero-cta-arrow">→</span></a>
+  </div>
+  <div class="hero-scroll">
+    <div class="scroll-line"></div>
+    <span>Scroll</span>
+  </div>
+</section>
+
+<!-- PROJETOS -->
+<section id="projetos">
+  <div class="section-header fade-in">
+    <div>
+      <p class="section-eyebrow">Portfólio</p>
+      <h2 class="section-title">Projetos concluídos</h2>
+    </div>
+    <div style="display:flex;flex-direction:column;align-items:flex-end;gap:14px">
+      <span class="project-count" id="projectCount">— projetos</span>
+      <div class="filters" id="filterBar">
+        <button class="filter-btn active" data-filter="all">Todos</button>
+      </div>
+    </div>
+  </div>
+  <div class="projects-grid fade-in" id="projectsGrid"></div>
+</section>
+
+<!-- SOBRE -->
+<section class="about-section" id="sobre">
+  <div class="about-inner fade-in">
+    <div>
+      <p class="about-label">Sobre o estúdio</p>
+      <h2 class="about-title">Arquitetura como <em>escuta ativa</em></h2>
+      <p class="about-text">Acreditamos que bons projetos nascem de uma compreensão profunda do cliente, do espaço e do contexto. Nossa abordagem começa pelo diálogo — entender como cada pessoa vive, trabalha e se relaciona com o ambiente ao seu redor.<br><br>Da residência ao espaço corporativo, levamos o mesmo cuidado e atenção a cada etapa do processo.</p>
+    </div>
+    <div class="about-stats" id="aboutStats">
+      <div class="stat-box fade-in">
+        <div class="stat-num" id="statProj">—</div>
+        <div class="stat-desc">Projetos entregues</div>
+      </div>
+      <div class="stat-box fade-in">
+        <div class="stat-num" id="statArch">—</div>
+        <div class="stat-desc">Arquitetos</div>
+      </div>
+      <div class="stat-box fade-in">
+        <div class="stat-num">100%</div>
+        <div class="stat-desc">Satisfação dos clientes</div>
+      </div>
+      <div class="stat-box fade-in">
+        <div class="stat-num">SP</div>
+        <div class="stat-desc">Base de operação</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- EQUIPE -->
+<section id="equipe">
+  <div class="section-header fade-in">
+    <div>
+      <p class="section-eyebrow">Equipe</p>
+      <h2 class="section-title">Quem faz acontecer</h2>
+    </div>
+  </div>
+  <div class="team-grid fade-in" id="teamGrid"></div>
+</section>
+
+<!-- CONTATO -->
+<section class="contact-section" id="contato">
+  <h2 class="contact-title fade-in">Tem um projeto<br><em>em mente?</em></h2>
+  <p class="contact-sub fade-in">Conte para nós. Adoramos ouvir sobre novas ideias e desafios.</p>
+  <a href="mailto:contato@estudio.com.br" class="contact-btn fade-in">Entrar em contato →</a>
+</section>
+
+<footer>
+  <span class="footer-logo">Estúdio</span>
+  <span class="footer-copy">© 2025 Estúdio de Arquitetura</span>
+</footer>
+
+<script>
+// Lê dados do dashboard (mesmo localStorage)
+function getDashData() {
+  const raw = localStorage.getItem('arq_dash_v2');
+  return raw ? JSON.parse(raw) : null;
+}
+
+function initials(name) {
+  return name.split(' ').slice(0, 2).map(w => w[0]).join('').toUpperCase();
+}
+
+function fmtDate(d) {
+  if (!d) return '';
+  return new Date(d + 'T00:00:00').toLocaleDateString('pt-BR', { year: 'numeric', month: 'short' });
+}
+
+// Placeholders arquitetônicos (SVG inline para não depender de fotos)
+const placeholderPatterns = [
+  `<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <rect width="400" height="300" fill="#EAE5DD"/>
+    <rect x="80" y="80" width="120" height="160" fill="none" stroke="#C8B89A" stroke-width="1.5"/>
+    <rect x="220" y="110" width="90" height="130" fill="none" stroke="#C8B89A" stroke-width="1.5"/>
+    <line x1="80" y1="240" x2="310" y2="240" stroke="#C8B89A" stroke-width="1"/>
+    <rect x="120" y="180" width="30" height="60" fill="#D8D0C4"/>
+    <rect x="240" y="160" width="30" height="80" fill="#D8D0C4"/>
+    <line x1="0" y1="240" x2="400" y2="240" stroke="#C8B89A" stroke-width="0.5" opacity="0.4"/>
+  </svg>`,
+  `<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <rect width="400" height="300" fill="#E8E2D8"/>
+    <circle cx="200" cy="150" r="80" fill="none" stroke="#C8B89A" stroke-width="1.5"/>
+    <circle cx="200" cy="150" r="50" fill="none" stroke="#C8B89A" stroke-width="0.8"/>
+    <line x1="120" y1="150" x2="280" y2="150" stroke="#C8B89A" stroke-width="0.8"/>
+    <line x1="200" y1="70" x2="200" y2="230" stroke="#C8B89A" stroke-width="0.8"/>
+    <rect x="160" y="130" width="80" height="40" fill="#D8D0C4" opacity="0.6"/>
+  </svg>`,
+  `<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <rect width="400" height="300" fill="#EDE8E0"/>
+    <rect x="40" y="60" width="320" height="180" fill="none" stroke="#C8B89A" stroke-width="1.5"/>
+    <line x1="40" y1="120" x2="360" y2="120" stroke="#C8B89A" stroke-width="0.8"/>
+    <line x1="200" y1="60" x2="200" y2="240" stroke="#C8B89A" stroke-width="0.8"/>
+    <rect x="80" y="160" width="60" height="80" fill="#D8D0C4"/>
+    <rect x="260" y="130" width="60" height="110" fill="#D8D0C4"/>
+    <rect x="160" y="120" width="80" height="120" fill="#C8B89A" opacity="0.3"/>
+  </svg>`,
+  `<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <rect width="400" height="300" fill="#F0EBE3"/>
+    <polygon points="200,40 340,240 60,240" fill="none" stroke="#C8B89A" stroke-width="1.5"/>
+    <polygon points="200,90 290,240 110,240" fill="#E8E2D8"/>
+    <line x1="200" y1="40" x2="200" y2="240" stroke="#C8B89A" stroke-width="0.8"/>
+    <rect x="175" y="190" width="50" height="50" fill="#D8D0C4"/>
+  </svg>`,
+  `<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <rect width="400" height="300" fill="#E5E0D8"/>
+    <rect x="60" y="100" width="280" height="140" fill="#EDE8E0"/>
+    <rect x="60" y="80" width="280" height="20" fill="#D8D0C4"/>
+    <line x1="60" y1="240" x2="340" y2="240" stroke="#C8B89A" stroke-width="2"/>
+    <rect x="100" y="160" width="40" height="80" fill="#C8B89A" opacity="0.5"/>
+    <rect x="180" y="140" width="40" height="100" fill="#C8B89A" opacity="0.5"/>
+    <rect x="260" y="155" width="40" height="85" fill="#C8B89A" opacity="0.5"/>
+    <line x1="30" y1="240" x2="370" y2="240" stroke="#C8B89A" stroke-width="0.5"/>
+  </svg>`
+];
+
+let allProjects = [];
+let currentFilter = 'all';
+
+function buildPage() {
+  const data = getDashData();
+
+  // Coleta projetos concluídos
+  if (data && data.architects) {
+    data.architects.forEach(arch => {
+      arch.projects.forEach(p => {
+        if (p.stage === 'concluido') {
+          allProjects.push({ ...p, archName: arch.name });
+        }
+      });
+    });
+
+    // Stats
+    document.getElementById('statProj').textContent = allProjects.length || '0';
+    document.getElementById('statArch').textContent = data.architects.length;
+
+    // Filtros por arquiteto
+    const filterBar = document.getElementById('filterBar');
+    data.architects.forEach(arch => {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn';
+      btn.dataset.filter = arch.id;
+      btn.textContent = arch.name.split(' ')[0];
+      btn.addEventListener('click', () => setFilter(arch.id, btn));
+      filterBar.appendChild(btn);
+    });
+
+    // Equipe
+    renderTeam(data.architects);
+  } else {
+    // Sem dados — mostra equipe padrão e aviso
+    document.getElementById('statProj').textContent = '0';
+    document.getElementById('statArch').textContent = '4';
+    renderTeamDefault();
+  }
+
+  renderProjects();
+}
+
+function setFilter(filter, btnEl) {
+  currentFilter = filter;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btnEl.classList.add('active');
+  renderProjects();
+}
+
+function renderProjects() {
+  const grid = document.getElementById('projectsGrid');
+  const filtered = currentFilter === 'all'
+    ? allProjects
+    : allProjects.filter(p => p.archId === currentFilter);
+
+  document.getElementById('projectCount').textContent =
+    filtered.length + ' projeto' + (filtered.length !== 1 ? 's' : '');
+
+  if (filtered.length === 0) {
+    grid.innerHTML = `
+      <div class="empty-projects">
+        <p>Nenhum projeto concluído ainda</p>
+        <p>Os projetos marcados como "Concluído" no dashboard aparecerão aqui automaticamente.</p>
+      </div>`;
+    return;
+  }
+
+  grid.innerHTML = filtered.map((p, i) => {
+    const pat = placeholderPatterns[i % placeholderPatterns.length];
+    const hasPhoto = p.photos && p.photos.length > 0;
+    const imgContent = hasPhoto
+      ? `<img class="proj-img" src="${p.photos[0].url}" alt="${p.name}">`
+      : `<div class="proj-placeholder">${pat}</div>`;
+
+    return `<div class="proj-item fade-in">
+      ${imgContent}
+      <div class="proj-overlay">
+        <div class="proj-overlay-arch">${p.archName}</div>
+        <div class="proj-overlay-name">${p.name}</div>
+        <div class="proj-overlay-meta">${[p.client, p.address].filter(Boolean).join(' · ')}</div>
+      </div>
+    </div>`;
+  }).join('');
+
+  // Reativa fade-in
+  setTimeout(() => {
+    document.querySelectorAll('.fade-in:not(.visible)').forEach(el => {
+      observer.observe(el);
+    });
+  }, 50);
+}
+
+function renderTeam(architects) {
+  const roles = ['Arquiteta Sênior', 'Arquiteta Plena', 'Arquiteto Pleno', 'Arquiteta Jr.'];
+  const grid = document.getElementById('teamGrid');
+  grid.innerHTML = architects.map((arch, i) => {
+    const projCount = arch.projects.filter(p => p.stage === 'concluido').length;
+    return `<div class="team-card fade-in">
+      <div class="team-avatar">
+        <span class="team-initials">${initials(arch.name)}</span>
+      </div>
+      <div class="team-name">${arch.name}</div>
+      <div class="team-role">${arch.role || roles[i] || 'Arquiteto(a)'}</div>
+      <div class="team-proj-count">${projCount} projeto${projCount !== 1 ? 's' : ''} concluído${projCount !== 1 ? 's' : ''}</div>
+    </div>`;
+  }).join('');
+}
+
+function renderTeamDefault() {
+  const names = ['Monica', 'Giovana', 'Claudio', 'Rita'];
+  const roles = ['Arquiteta Sênior', 'Arquiteta Plena', 'Arquiteto Pleno', 'Arquiteta Jr.'];
+  const grid = document.getElementById('teamGrid');
+  grid.innerHTML = names.map((name, i) => `
+    <div class="team-card fade-in">
+      <div class="team-avatar">
+        <span class="team-initials">${name[0]}</span>
+      </div>
+      <div class="team-name">${name}</div>
+      <div class="team-role">${roles[i]}</div>
+      <div class="team-proj-count">0 projetos concluídos</div>
+    </div>`).join('');
+}
+
+// Intersection Observer para fade-in
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(el => {
+    if (el.isIntersecting) { el.target.classList.add('visible'); observer.unobserve(el.target); }
+  });
+}, { threshold: 0.1 });
+
+document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+// Nav scroll
+window.addEventListener('scroll', () => {
+  document.getElementById('mainNav').classList.toggle('scrolled', window.scrollY > 40);
+});
+
+buildPage();
+</script>
+</body>
+</html>
