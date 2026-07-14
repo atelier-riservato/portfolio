@@ -1,5 +1,17 @@
 [
   {
+    "id": "44bec92005",
+    "date_iso": "2026-07-14T18:00:03.184389",
+    "date_pt": "14 de julho de 2026",
+    "date_en": "July 14, 2026",
+    "title_pt": "Felice Flatiron brings Tuscan warmth to a neo-Gothic corner of Fifth Avenue",
+    "title_en": "Felice Flatiron brings Tuscan warmth to a neo-Gothic corner of Fifth Avenue",
+    "text_pt": "The family-run Italian restaurant series arrives in Flatiron with a Bonetti/Kozerski-designed dining room, ambitious wine programme and tableside tiramisu cart",
+    "text_en": "The family-run Italian restaurant series arrives in Flatiron with a Bonetti/Kozerski-designed dining room, ambitious wine programme and tableside tiramisu cart",
+    "img": "https://images.pexels.com/photos/12277197/pexels-photo-12277197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/travel/restaurants/felice-flatiron-new-york-review"
+  },
+  {
     "id": "6e05e014c3",
     "date_iso": "2026-07-14T09:00:01.764291",
     "date_pt": "14 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "As festival line-up posters become more abstract, we look at what is driving the increasingly complicated designs",
     "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/art/why-are-festival-line-up-poster-designs-getting-so-hard-to-read"
-  },
-  {
-    "id": "4a563fa17d",
-    "date_iso": "2026-06-15T16:02:42.588642",
-    "date_pt": "15 de junho de 2026",
-    "date_en": "June 15, 2026",
-    "title_pt": "After a decade in the making, La Hacienda, a Mexican temple to tequila, welcomes visitors",
-    "title_en": "After a decade in the making, La Hacienda, a Mexican temple to tequila, welcomes visitors",
-    "text_pt": "How five architecture firms created La Hacienda by Clase Azul as a testament to multidisciplinary collaboration and cultural heritage near Guadalajara",
-    "text_en": "How five architecture firms created La Hacienda by Clase Azul as a testament to multidisciplinary collaboration and cultural heritage near Guadalajara",
-    "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/la-hacienda-by-clase-azul-tequila-mexico"
   }
 ]
