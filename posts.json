@@ -1,5 +1,17 @@
 [
   {
+    "id": "dd16601109",
+    "date_iso": "2026-07-15T09:00:01.672082",
+    "date_pt": "15 de julho de 2026",
+    "date_en": "July 15, 2026",
+    "title_pt": "Anatomy of a logo: McDonald’s Golden Arches by Jim Schindler",
+    "title_en": "Anatomy of a logo: McDonald’s Golden Arches by Jim Schindler",
+    "text_pt": "Distilled into a single letter atop a pole or on the side of a building, the McDonald's arches are a throwback to a forgotten era of cinematic, aspirational roadside architecture",
+    "text_en": "Distilled into a single letter atop a pole or on the side of a building, the McDonald's arches are a throwback to a forgotten era of cinematic, aspirational roadside architecture",
+    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/corporate-design-branding/mcdonalds-logo-design-golden-arches"
+  },
+  {
     "id": "44bec92005",
     "date_iso": "2026-07-14T18:00:03.184389",
     "date_pt": "14 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Republic Design The post Golden Reverie appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/golden-reverie/"
-  },
-  {
-    "id": "510fa8e176",
-    "date_iso": "2026-06-15T16:04:23.660992",
-    "date_pt": "15 de junho de 2026",
-    "date_en": "June 15, 2026",
-    "title_pt": "Why are festival line-up poster designs getting so hard to read?",
-    "title_en": "Why are festival line-up poster designs getting so hard to read?",
-    "text_pt": "As festival line-up posters become more abstract, we look at what is driving the increasingly complicated designs",
-    "text_en": "As festival line-up posters become more abstract, we look at what is driving the increasingly complicated designs",
-    "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/art/why-are-festival-line-up-poster-designs-getting-so-hard-to-read"
   }
 ]
