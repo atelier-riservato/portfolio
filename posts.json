@@ -1,5 +1,17 @@
 [
   {
+    "id": "b55d5d4f0d",
+    "date_iso": "2026-07-15T18:00:03.282447",
+    "date_pt": "15 de julho de 2026",
+    "date_en": "July 15, 2026",
+    "title_pt": "Vila Talha / Contacto Atlântico",
+    "title_en": "Vila Talha / Contacto Atlântico",
+    "text_pt": "Villa Talha, located at the Costa Terra Golf &amp; Ocean Club in Melides , stands as a consistent example of contemporary Portuguese architecture. Designed by Contacto Atlântico, the villa reflects an approach that balances formal clarity with contextual sensitivity.",
+    "text_en": "Villa Talha, located at the Costa Terra Golf &amp; Ocean Club in Melides , stands as a consistent example of contemporary Portuguese architecture. Designed by Contacto Atlântico, the villa reflects an approach that balances formal clarity with contextual sensitivity.",
+    "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1148745/vila-talha-contacto-atlantico"
+  },
+  {
     "id": "dd16601109",
     "date_iso": "2026-07-15T09:00:01.672082",
     "date_pt": "15 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Cateto Club channels the glamour, roughness, and roadside spectacle of the Costa del Sol into a contemporary meditation on place.",
     "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/cateto-club-an-architecture-of-afterglow/"
-  },
-  {
-    "id": "fd143419c2",
-    "date_iso": "2026-06-15T18:00:02.069097",
-    "date_pt": "15 de junho de 2026",
-    "date_en": "June 15, 2026",
-    "title_pt": "Golden Reverie",
-    "title_en": "Golden Reverie",
-    "text_pt": "Republic Design The post Golden Reverie appeared first on Leibal .",
-    "text_en": "Republic Design The post Golden Reverie appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/golden-reverie/"
   }
 ]
