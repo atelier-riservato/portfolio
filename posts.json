@@ -1,5 +1,17 @@
 [
   {
+    "id": "70a17cdca5",
+    "date_iso": "2026-07-16T09:00:02.368566",
+    "date_pt": "16 de julho de 2026",
+    "date_en": "July 16, 2026",
+    "title_pt": "Luxury Hospitality Brands Bring Their Design DNA to the Sea",
+    "title_en": "Luxury Hospitality Brands Bring Their Design DNA to the Sea",
+    "text_pt": "As Aman, Four Seasons, Ritz-Carlton, Waldorf Astoria, and Orient Express launch branded yachts, each is translating its signature design philosophy into a new form of luxury travel.",
+    "text_en": "As Aman, Four Seasons, Ritz-Carlton, Waldorf Astoria, and Orient Express launch branded yachts, each is translating its signature design philosophy into a new form of luxury travel.",
+    "img": "https://images.pexels.com/photos/19740269/pexels-photo-19740269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/luxury-hospitality-brands-yacht-design/"
+  },
+  {
     "id": "b55d5d4f0d",
     "date_iso": "2026-07-15T18:00:03.282447",
     "date_pt": "15 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "From a wooden crate and a whistle to cutlery sets and curtains, these are some of the everyday objects that caught our eye at 3 Days of Design 2026 in Copenhagen last week",
     "img": "https://images.pexels.com/photos/7193646/pexels-photo-7193646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/3-days-of-design-designers-focused-on-the-small-stuff"
-  },
-  {
-    "id": "608ab9ffc7",
-    "date_iso": "2026-06-16T09:00:02.164410",
-    "date_pt": "16 de junho de 2026",
-    "date_en": "June 16, 2026",
-    "title_pt": "Cateto Club: An Architecture of Afterglow",
-    "title_en": "Cateto Club: An Architecture of Afterglow",
-    "text_pt": "Cateto Club channels the glamour, roughness, and roadside spectacle of the Costa del Sol into a contemporary meditation on place.",
-    "text_en": "Cateto Club channels the glamour, roughness, and roadside spectacle of the Costa del Sol into a contemporary meditation on place.",
-    "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/cateto-club-an-architecture-of-afterglow/"
   }
 ]
