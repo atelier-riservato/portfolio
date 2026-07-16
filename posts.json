@@ -1,5 +1,17 @@
 [
   {
+    "id": "bdbc944b3f",
+    "date_iso": "2026-07-16T18:00:02.584381",
+    "date_pt": "16 de julho de 2026",
+    "date_en": "July 16, 2026",
+    "title_pt": "Federico Stefanovich looks under the sea for his ethereal new lighting collection",
+    "title_en": "Federico Stefanovich looks under the sea for his ethereal new lighting collection",
+    "text_pt": "Presented by Mexico City gallery Ago Projects, Stefanovich’s Salina Collection harnesses the structural quality of marine organisms in fibreglass and bronze",
+    "text_en": "Presented by Mexico City gallery Ago Projects, Stefanovich’s Salina Collection harnesses the structural quality of marine organisms in fibreglass and bronze",
+    "img": "https://images.pexels.com/photos/33257666/pexels-photo-33257666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/lighting/federico-stefanovich-salina-collection"
+  },
+  {
     "id": "70a17cdca5",
     "date_iso": "2026-07-16T09:00:02.368566",
     "date_pt": "16 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Yh2 Architecture has completed a lakeside retreat on a sloping site alongside Québec's Lake Memphremagog",
     "img": "https://images.pexels.com/photos/5563473/pexels-photo-5563473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/residential/lakeside-retreat-yh2-canada"
-  },
-  {
-    "id": "d81839e977",
-    "date_iso": "2026-06-16T18:00:02.674105",
-    "date_pt": "16 de junho de 2026",
-    "date_en": "June 16, 2026",
-    "title_pt": "At 3 Days of Design, designers focused on the small stuff",
-    "title_en": "At 3 Days of Design, designers focused on the small stuff",
-    "text_pt": "From a wooden crate and a whistle to cutlery sets and curtains, these are some of the everyday objects that caught our eye at 3 Days of Design 2026 in Copenhagen last week",
-    "text_en": "From a wooden crate and a whistle to cutlery sets and curtains, these are some of the everyday objects that caught our eye at 3 Days of Design 2026 in Copenhagen last week",
-    "img": "https://images.pexels.com/photos/7193646/pexels-photo-7193646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/3-days-of-design-designers-focused-on-the-small-stuff"
   }
 ]
