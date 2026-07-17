@@ -1,5 +1,17 @@
 [
   {
+    "id": "f63b921a82",
+    "date_iso": "2026-07-17T18:00:02.770020",
+    "date_pt": "17 de julho de 2026",
+    "date_en": "July 17, 2026",
+    "title_pt": "‘We all need a little madness’: Mario Cucinella brings a living garden to Palermo’s Festino di Santa Rosalia",
+    "title_en": "‘We all need a little madness’: Mario Cucinella brings a living garden to Palermo’s Festino di Santa Rosalia",
+    "text_pt": "A towering garden chariot designed by MCA takes centre stage at Palermo's centuries-old Festino di Santa Rosalia –a celebration of life, faith, liberation and belonging",
+    "text_en": "A towering garden chariot designed by MCA takes centre stage at Palermo's centuries-old Festino di Santa Rosalia –a celebration of life, faith, liberation and belonging",
+    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/festino-di-santa-rosalia-palermo-mario-cucinella-mca"
+  },
+  {
     "id": "3c0b6b98c0",
     "date_iso": "2026-07-17T09:00:01.882035",
     "date_pt": "17 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Areas where land and water meet have always played a fundamental role in the formation and development of cities. From historic commercial ports to today's multifunctional waterfronts , maritime and riverfront areas represent spaces of significant economic and social potential .",
     "img": "https://images.pexels.com/photos/705194/pexels-photo-705194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1042227/stitching-the-waterfront-how-marinas-are-reconnecting-cities-to-the-water"
-  },
-  {
-    "id": "d945fd45b4",
-    "date_iso": "2026-06-17T18:00:02.966866",
-    "date_pt": "17 de junho de 2026",
-    "date_en": "June 17, 2026",
-    "title_pt": "The Titular Green Box at the Heart of This Greek Home",
-    "title_en": "The Titular Green Box at the Heart of This Greek Home",
-    "text_pt": "Archiwave Architects center their transformation of an office space into a home around a sculptural, space-delineating bookcase.",
-    "text_en": "Archiwave Architects center their transformation of an office space into a home around a sculptural, space-delineating bookcase.",
-    "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/the-titular-green-box-at-the-heart-of-this-greek-home/"
   }
 ]
