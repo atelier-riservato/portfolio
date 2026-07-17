@@ -1,5 +1,17 @@
 [
   {
+    "id": "3c0b6b98c0",
+    "date_iso": "2026-07-17T09:00:01.882035",
+    "date_pt": "17 de julho de 2026",
+    "date_en": "July 17, 2026",
+    "title_pt": "Inspired by its rare double-corner site, a brick pavilion in Australia ‘redefines suburban living’",
+    "title_en": "Inspired by its rare double-corner site, a brick pavilion in Australia ‘redefines suburban living’",
+    "text_pt": "Hanslope House in Victoria, designed by Olaver Architecture, is a reimagined suburban house for the future",
+    "text_en": "Hanslope House in Victoria, designed by Olaver Architecture, is a reimagined suburban house for the future",
+    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/residential/brick-pavilion-house-australia"
+  },
+  {
     "id": "bdbc944b3f",
     "date_iso": "2026-07-16T18:00:02.584381",
     "date_pt": "16 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Archiwave Architects center their transformation of an office space into a home around a sculptural, space-delineating bookcase.",
     "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/the-titular-green-box-at-the-heart-of-this-greek-home/"
-  },
-  {
-    "id": "9f2eaddf45",
-    "date_iso": "2026-06-17T09:00:02.192018",
-    "date_pt": "17 de junho de 2026",
-    "date_en": "June 17, 2026",
-    "title_pt": "A lakeside retreat in Canada creates a platform for contemplation in the forest",
-    "title_en": "A lakeside retreat in Canada creates a platform for contemplation in the forest",
-    "text_pt": "Yh2 Architecture has completed a lakeside retreat on a sloping site alongside Québec's Lake Memphremagog",
-    "text_en": "Yh2 Architecture has completed a lakeside retreat on a sloping site alongside Québec's Lake Memphremagog",
-    "img": "https://images.pexels.com/photos/5563473/pexels-photo-5563473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/residential/lakeside-retreat-yh2-canada"
   }
 ]
