@@ -1,5 +1,17 @@
 [
   {
+    "id": "5d9188b73b",
+    "date_iso": "2026-07-18T18:00:02.687519",
+    "date_pt": "18 de julho de 2026",
+    "date_en": "July 18, 2026",
+    "title_pt": "Umbral Floral Pavilion / Cerron Arquitectos",
+    "title_en": "Umbral Floral Pavilion / Cerron Arquitectos",
+    "text_pt": "The Umbral Floral Pavilion was conceived to regenerate the main access path to CASACOR Peru 2026, located at the Jockey Club del Perú, transforming a circulation route into a sequence of public spaces.",
+    "text_en": "The Umbral Floral Pavilion was conceived to regenerate the main access path to CASACOR Peru 2026, located at the Jockey Club del Perú, transforming a circulation route into a sequence of public spaces.",
+    "img": "https://images.pexels.com/photos/1796724/pexels-photo-1796724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos"
+  },
+  {
     "id": "7d04ecb9e6",
     "date_iso": "2026-07-18T09:00:02.174890",
     "date_pt": "18 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Norwegian sustainable aluminum purveyor Hydro erected a pavilion in the shape of the 90-year-old Iittala vase its commemorating",
     "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/at-3daysofdesign-the-iconic-aalto-vase-inspired-a-monumental-pavilion/"
-  },
-  {
-    "id": "11908beef0",
-    "date_iso": "2026-06-18T18:00:02.685062",
-    "date_pt": "18 de junho de 2026",
-    "date_en": "June 18, 2026",
-    "title_pt": "Brastemp House / Bezerra Panobianco",
-    "title_en": "Brastemp House / Bezerra Panobianco",
-    "text_pt": "In its sixth participation in CASACOR Goi&aacute;s, the Bezerra Panobianco Architecture office presents \"Casa Brastemp,\" a 100 m&sup2; environment that showcases contemporary living through the relationships between memory, welcome, and innovation.",
-    "text_en": "In its sixth participation in CASACOR Goi&aacute;s, the Bezerra Panobianco Architecture office presents \"Casa Brastemp,\" a 100 m&sup2; environment that showcases contemporary living through the relationships between memory, welcome, and innovation.",
-    "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1042523/brastemp-house-bezerra-panobianco"
   }
 ]
