@@ -1,5 +1,17 @@
 [
   {
+    "id": "7d04ecb9e6",
+    "date_iso": "2026-07-18T09:00:02.174890",
+    "date_pt": "18 de julho de 2026",
+    "date_en": "July 18, 2026",
+    "title_pt": "14 logos that defined American graphic design history",
+    "title_en": "14 logos that defined American graphic design history",
+    "text_pt": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
+    "text_en": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
+    "img": "https://images.pexels.com/photos/7518747/pexels-photo-7518747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/corporate-design-branding/legendary-usa-logos-explained"
+  },
+  {
     "id": "f63b921a82",
     "date_iso": "2026-07-17T18:00:02.770020",
     "date_pt": "17 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "In its sixth participation in CASACOR Goi&aacute;s, the Bezerra Panobianco Architecture office presents \"Casa Brastemp,\" a 100 m&sup2; environment that showcases contemporary living through the relationships between memory, welcome, and innovation.",
     "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1042523/brastemp-house-bezerra-panobianco"
-  },
-  {
-    "id": "b884db0eb6",
-    "date_iso": "2026-06-18T09:00:01.280940",
-    "date_pt": "18 de junho de 2026",
-    "date_en": "June 18, 2026",
-    "title_pt": "Stitching the Waterfront: How Marinas Are Reconnecting Cities to the Water",
-    "title_en": "Stitching the Waterfront: How Marinas Are Reconnecting Cities to the Water",
-    "text_pt": "Areas where land and water meet have always played a fundamental role in the formation and development of cities. From historic commercial ports to today's multifunctional waterfronts , maritime and riverfront areas represent spaces of significant economic and social potential .",
-    "text_en": "Areas where land and water meet have always played a fundamental role in the formation and development of cities. From historic commercial ports to today's multifunctional waterfronts , maritime and riverfront areas represent spaces of significant economic and social potential .",
-    "img": "https://images.pexels.com/photos/705194/pexels-photo-705194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1042227/stitching-the-waterfront-how-marinas-are-reconnecting-cities-to-the-water"
   }
 ]
