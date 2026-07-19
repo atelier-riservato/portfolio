@@ -1,5 +1,17 @@
 [
   {
+    "id": "bba734cc7d",
+    "date_iso": "2026-07-19T18:00:01.885892",
+    "date_pt": "19 de julho de 2026",
+    "date_en": "July 19, 2026",
+    "title_pt": "Remembering Teruo Kurosaki, a creative entrepreneur who embodied Japan in the 1980s",
+    "title_en": "Remembering Teruo Kurosaki, a creative entrepreneur who embodied Japan in the 1980s",
+    "text_pt": "Wallpaper* celebrates the legacy of Teruo Kurosaki, founder of the Tokyo-based furniture company Idée and custodian of aspiring designers from Marc Newson to Philippe Starck",
+    "text_en": "Wallpaper* celebrates the legacy of Teruo Kurosaki, founder of the Tokyo-based furniture company Idée and custodian of aspiring designers from Marc Newson to Philippe Starck",
+    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/remembering-teruo-kurosaki-idee-aoyama-founder"
+  },
+  {
     "id": "223a0d6c3d",
     "date_iso": "2026-07-19T09:00:02.290733",
     "date_pt": "19 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "'Dancing the Revolution: From Dancehall to Reggaetón' at the Museum of Contemporary Art Chicago unites 40 artists including Jean-Michel Basquiat, Phil Collins and Reggie Burrows Hodges, to consider the history of Black Atlantic performance",
     "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/art/exhibitions-shows/inside-the-exhibition-tracing-dancehall-and-reggaetons-radical-legacy"
-  },
-  {
-    "id": "b2ec8bbaf3",
-    "date_iso": "2026-06-19T18:00:02.984550",
-    "date_pt": "19 de junho de 2026",
-    "date_en": "June 19, 2026",
-    "title_pt": "Studio & Guest House",
-    "title_en": "Studio & Guest House",
-    "text_pt": "Neil Logan The post Studio &amp; Guest House appeared first on Leibal .",
-    "text_en": "Neil Logan The post Studio &amp; Guest House appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/29354637/pexels-photo-29354637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/studio-guest-house/"
   }
 ]
