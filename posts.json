@@ -1,5 +1,17 @@
 [
   {
+    "id": "a9508f49ce",
+    "date_iso": "2026-07-21T18:00:03.268313",
+    "date_pt": "21 de julho de 2026",
+    "date_en": "July 21, 2026",
+    "title_pt": "A Wellesley Home Where Quiet Luxury Meets Everyday Life",
+    "title_en": "A Wellesley Home Where Quiet Luxury Meets Everyday Life",
+    "text_pt": "Natural materials, subtle textures, and durable finishes prove minimalist interiors can be both elegant and eminently livable",
+    "text_en": "Natural materials, subtle textures, and durable finishes prove minimalist interiors can be both elegant and eminently livable",
+    "img": "https://images.pexels.com/photos/17531832/pexels-photo-17531832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/tharon-anderson-design-wellesley-home/"
+  },
+  {
     "id": "eb0cec27cf",
     "date_iso": "2026-07-21T09:00:02.288379",
     "date_pt": "21 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "ANG 3 STUDIO The post Smart Park Residence appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/31737859/pexels-photo-31737859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/smart-park-residence/"
-  },
-  {
-    "id": "371cb44b8f",
-    "date_iso": "2026-06-21T18:00:01.661472",
-    "date_pt": "21 de junho de 2026",
-    "date_en": "June 21, 2026",
-    "title_pt": "A waterfront house in Miami is arranged as a sequence of densely planted courtyards",
-    "title_en": "A waterfront house in Miami is arranged as a sequence of densely planted courtyards",
-    "text_pt": "KODA has completed a waterfront house, Pine Tree Residence, in Miami Beach, using planting to shape protected sightlines to create a private waterfront space",
-    "text_en": "KODA has completed a waterfront house, Pine Tree Residence, in Miami Beach, using planting to shape protected sightlines to create a private waterfront space",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/residential/a-waterfront-house-koda-miami-usa"
   }
 ]
