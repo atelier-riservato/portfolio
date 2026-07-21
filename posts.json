@@ -1,5 +1,17 @@
 [
   {
+    "id": "eb0cec27cf",
+    "date_iso": "2026-07-21T09:00:02.288379",
+    "date_pt": "21 de julho de 2026",
+    "date_en": "July 21, 2026",
+    "title_pt": "Land of Peace",
+    "title_en": "Land of Peace",
+    "text_pt": "Design Chou The post Land of Peace appeared first on Leibal .",
+    "text_en": "Design Chou The post Land of Peace appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/14809401/pexels-photo-14809401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/land-of-peace/"
+  },
+  {
     "id": "46878c0d25",
     "date_iso": "2026-07-20T18:00:03.166701",
     "date_pt": "20 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "KODA has completed a waterfront house, Pine Tree Residence, in Miami Beach, using planting to shape protected sightlines to create a private waterfront space",
     "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/residential/a-waterfront-house-koda-miami-usa"
-  },
-  {
-    "id": "22b5d92e7c",
-    "date_iso": "2026-06-21T09:00:02.063551",
-    "date_pt": "21 de junho de 2026",
-    "date_en": "June 21, 2026",
-    "title_pt": "At 3daysofdesign, Aesop Tests Out a Bioplastic Window Decal Alternative",
-    "title_en": "At 3daysofdesign, Aesop Tests Out a Bioplastic Window Decal Alternative",
-    "text_pt": "Developed by Melbourne practice Other Matter, the new algae-based solution opens up a new paradigm of communicative and interactive signage",
-    "text_en": "Developed by Melbourne practice Other Matter, the new algae-based solution opens up a new paradigm of communicative and interactive signage",
-    "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/at-3daysofdesign-aesop-tests-out-a-bioplastic-window-decal-alternative/"
   }
 ]
