@@ -1,5 +1,17 @@
 [
   {
+    "id": "c4d52c9d94",
+    "date_iso": "2026-07-22T18:00:03.383889",
+    "date_pt": "22 de julho de 2026",
+    "date_en": "July 22, 2026",
+    "title_pt": "Sharmistha Ray Turns Pickleball Courts Into a Playable Work of Public Art",
+    "title_en": "Sharmistha Ray Turns Pickleball Courts Into a Playable Work of Public Art",
+    "text_pt": "'Geometry of Play' transforms Pittsburgh’s newest civic space with a colorful mural that invites players to become part of the composition",
+    "text_en": "'Geometry of Play' transforms Pittsburgh’s newest civic space with a colorful mural that invites players to become part of the composition",
+    "img": "https://images.pexels.com/photos/28505501/pexels-photo-28505501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/sharmistha-ray-turns-pickleball-courts-into-a-playable-work-of-public-art/"
+  },
+  {
     "id": "eefce3dd92",
     "date_iso": "2026-07-22T09:00:01.721810",
     "date_pt": "22 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Debuted at 3daysofdesign, Emisferi is a ceramic building block suitable for any number of furniture configurations and architectural applications",
     "img": "https://images.pexels.com/photos/36248317/pexels-photo-36248317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/note-design-studio-turns-two-dimensional-mutina-tiles-into-geometric-bricks/"
-  },
-  {
-    "id": "1d17db08b2",
-    "date_iso": "2026-06-22T18:00:03.074260",
-    "date_pt": "22 de junho de 2026",
-    "date_en": "June 22, 2026",
-    "title_pt": "This Toronto Law Firm Lounge by Studio Ha/Wa Makes the Case for a Better Return to Office",
-    "title_en": "This Toronto Law Firm Lounge by Studio Ha/Wa Makes the Case for a Better Return to Office",
-    "text_pt": "Studio Ha/Wa turns a Toronto law firm’s former lunchroom into a hospitality-minded lounge with lessons for making return-to-office life more appealing.",
-    "text_en": "Studio Ha/Wa turns a Toronto law firm’s former lunchroom into a hospitality-minded lounge with lessons for making return-to-office life more appealing.",
-    "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/this-toronto-law-firm-lounge-by-studio-ha-wa-makes-the-case-for-a-better-return-to-office/"
   }
 ]
