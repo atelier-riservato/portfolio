@@ -1,5 +1,17 @@
 [
   {
+    "id": "eefce3dd92",
+    "date_iso": "2026-07-22T09:00:01.721810",
+    "date_pt": "22 de julho de 2026",
+    "date_en": "July 22, 2026",
+    "title_pt": "Museum of Humanity / studio apaaar",
+    "title_en": "Museum of Humanity / studio apaaar",
+    "text_pt": "A journey showcasing love, the inferiority complex it brought, and how I overcame it. It all started when society brutally declared that expressing love was a 'sin'.",
+    "text_en": "A journey showcasing love, the inferiority complex it brought, and how I overcame it. It all started when society brutally declared that expressing love was a 'sin'.",
+    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1181267/museum-of-humanity-studio-apaaar"
+  },
+  {
     "id": "a9508f49ce",
     "date_iso": "2026-07-21T18:00:03.268313",
     "date_pt": "21 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Studio Ha/Wa turns a Toronto law firm’s former lunchroom into a hospitality-minded lounge with lessons for making return-to-office life more appealing.",
     "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/this-toronto-law-firm-lounge-by-studio-ha-wa-makes-the-case-for-a-better-return-to-office/"
-  },
-  {
-    "id": "6c85db8ee5",
-    "date_iso": "2026-06-22T09:00:01.465064",
-    "date_pt": "22 de junho de 2026",
-    "date_en": "June 22, 2026",
-    "title_pt": "Smart Park Residence",
-    "title_en": "Smart Park Residence",
-    "text_pt": "ANG 3 STUDIO The post Smart Park Residence appeared first on Leibal .",
-    "text_en": "ANG 3 STUDIO The post Smart Park Residence appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/31737859/pexels-photo-31737859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/smart-park-residence/"
   }
 ]
