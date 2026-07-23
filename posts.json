@@ -1,5 +1,17 @@
 [
   {
+    "id": "78b534dba1",
+    "date_iso": "2026-07-23T09:00:02.198666",
+    "date_pt": "23 de julho de 2026",
+    "date_en": "July 23, 2026",
+    "title_pt": "Hotel Hubertus Completes Its Architectural Vision With a Spa Expansion",
+    "title_en": "Hotel Hubertus Completes Its Architectural Vision With a Spa Expansion",
+    "text_pt": "The Dolomites resort extends the design language behind its iconic Sky Pool and Heaven &#038; Hell sauna into a reimagined lobby and panoramic wellness spaces",
+    "text_en": "The Dolomites resort extends the design language behind its iconic Sky Pool and Heaven &#038; Hell sauna into a reimagined lobby and panoramic wellness spaces",
+    "img": "https://images.pexels.com/photos/28586227/pexels-photo-28586227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/hotel-hubertus-spa-expansion/"
+  },
+  {
     "id": "c4d52c9d94",
     "date_iso": "2026-07-22T18:00:03.383889",
     "date_pt": "22 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The proposal seeks to strike a balance between architecture, landscape, and materials, with the view of the reservoir as the central element. Inspired by vernacular architecture, the project highlights natural materials such as wood and stone, combined with contemporary concrete.",
     "img": "https://images.pexels.com/photos/13012256/pexels-photo-13012256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1042665/kh-house-ngstudio"
-  },
-  {
-    "id": "a35b278bb4",
-    "date_iso": "2026-06-23T09:00:02.213047",
-    "date_pt": "23 de junho de 2026",
-    "date_en": "June 23, 2026",
-    "title_pt": "Note Design Studio Turns-Two Dimensional Mutina Tiles into Geometric Bricks",
-    "title_en": "Note Design Studio Turns-Two Dimensional Mutina Tiles into Geometric Bricks",
-    "text_pt": "Debuted at 3daysofdesign, Emisferi is a ceramic building block suitable for any number of furniture configurations and architectural applications",
-    "text_en": "Debuted at 3daysofdesign, Emisferi is a ceramic building block suitable for any number of furniture configurations and architectural applications",
-    "img": "https://images.pexels.com/photos/36248317/pexels-photo-36248317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/note-design-studio-turns-two-dimensional-mutina-tiles-into-geometric-bricks/"
   }
 ]
