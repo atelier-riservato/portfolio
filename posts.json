@@ -1,5 +1,17 @@
 [
   {
+    "id": "24625a6366",
+    "date_iso": "2026-07-23T18:00:03.571313",
+    "date_pt": "23 de julho de 2026",
+    "date_en": "July 23, 2026",
+    "title_pt": "Alessandro Isola Studio creates a unique space for a client with a passion for Porsches",
+    "title_en": "Alessandro Isola Studio creates a unique space for a client with a passion for Porsches",
+    "text_pt": "A full-scale vitrine for automotive display, this city structure is home to an impressive collection of Porsches old and new, with architecture designed to show off the collection from every angle",
+    "text_en": "A full-scale vitrine for automotive display, this city structure is home to an impressive collection of Porsches old and new, with architecture designed to show off the collection from every angle",
+    "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/alessandro-isola-studio-porsche-collectors-garage"
+  },
+  {
     "id": "78b534dba1",
     "date_iso": "2026-07-23T09:00:02.198666",
     "date_pt": "23 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Sashya Thind brings warmth and definition to a light-filled Massachusetts new build through color, texture, and a global modernist point of view.",
     "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/sashya-thind-gives-this-new-build-a-warm-worldly-modernist-soul/"
-  },
-  {
-    "id": "1c7913379c",
-    "date_iso": "2026-06-23T18:00:03.384017",
-    "date_pt": "23 de junho de 2026",
-    "date_en": "June 23, 2026",
-    "title_pt": "KH House / NGSTUDIO",
-    "title_en": "KH House / NGSTUDIO",
-    "text_pt": "The proposal seeks to strike a balance between architecture, landscape, and materials, with the view of the reservoir as the central element. Inspired by vernacular architecture, the project highlights natural materials such as wood and stone, combined with contemporary concrete.",
-    "text_en": "The proposal seeks to strike a balance between architecture, landscape, and materials, with the view of the reservoir as the central element. Inspired by vernacular architecture, the project highlights natural materials such as wood and stone, combined with contemporary concrete.",
-    "img": "https://images.pexels.com/photos/13012256/pexels-photo-13012256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1042665/kh-house-ngstudio"
   }
 ]
