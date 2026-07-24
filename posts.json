@@ -1,5 +1,17 @@
 [
   {
+    "id": "9cf89a109d",
+    "date_iso": "2026-07-24T09:00:01.767483",
+    "date_pt": "24 de julho de 2026",
+    "date_en": "July 24, 2026",
+    "title_pt": "A Historic New Orleans Car Dealership Finds New Life as a Cocktail Lounge",
+    "title_en": "A Historic New Orleans Car Dealership Finds New Life as a Cocktail Lounge",
+    "text_pt": "Inside Hotel Perle, Charles &#038; Julia reimagines a historic car dealership with vintage furnishings, rich materials, and quiet references to the city",
+    "text_en": "Inside Hotel Perle, Charles &#038; Julia reimagines a historic car dealership with vintage furnishings, rich materials, and quiet references to the city",
+    "img": "https://images.pexels.com/photos/10508622/pexels-photo-10508622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/charles-julia-hotel-perle-new-orleans/"
+  },
+  {
     "id": "24625a6366",
     "date_iso": "2026-07-23T18:00:03.571313",
     "date_pt": "23 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "‘It’s about juxtaposing the historic and the contemporary and bringing Fred Again’s music into this typically quiet place,’ says the designer, who presented his S/S 2027 menswear collection this morning (24 June 2026), exploring the idea of ‘sampling and remixing’",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/fashion-beauty/dior-ss-2027-menswear-jonathan-anderson-show-set-fred-again"
-  },
-  {
-    "id": "ff3dcaff11",
-    "date_iso": "2026-06-24T09:00:01.867315",
-    "date_pt": "24 de junho de 2026",
-    "date_en": "June 24, 2026",
-    "title_pt": "Sashya Thind Gives This New Build a Warm, Worldly Modernist Soul",
-    "title_en": "Sashya Thind Gives This New Build a Warm, Worldly Modernist Soul",
-    "text_pt": "Sashya Thind brings warmth and definition to a light-filled Massachusetts new build through color, texture, and a global modernist point of view.",
-    "text_en": "Sashya Thind brings warmth and definition to a light-filled Massachusetts new build through color, texture, and a global modernist point of view.",
-    "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/sashya-thind-gives-this-new-build-a-warm-worldly-modernist-soul/"
   }
 ]
