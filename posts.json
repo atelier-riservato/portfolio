@@ -1,5 +1,17 @@
 [
   {
+    "id": "b8bbf2a164",
+    "date_iso": "2026-07-25T09:00:01.623735",
+    "date_pt": "25 de julho de 2026",
+    "date_en": "July 25, 2026",
+    "title_pt": "Range Rover is readying a trio of EVs, all with a fresh focus on refined interior luxury",
+    "title_en": "Range Rover is readying a trio of EVs, all with a fresh focus on refined interior luxury",
+    "text_pt": "As Range Rover reveals the forthcoming GT EV, we take a look inside and explore the ways in which the manufacturer’s interior approach is evolving",
+    "text_en": "As Range Rover reveals the forthcoming GT EV, we take a look inside and explore the ways in which the manufacturer’s interior approach is evolving",
+    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/transportation/range-rover-evs-2026"
+  },
+  {
     "id": "0aee7c59fb",
     "date_iso": "2026-07-24T18:00:03.083854",
     "date_pt": "24 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "When the New Museum's original SANAA-designed building, a stack of shifted opaque boxes wrapped in a metal mesh skin, opened in 2007, it already seemed destined for some form of expansion to relieve the vertical pressure created by its constrained circulation and limited footprin...",
     "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1042708/i-dont-separate-architecture-and-infrastructure-interview-with-shohei-shigematsu-on-omas-new-museum-addition"
-  },
-  {
-    "id": "d0400f8bfc",
-    "date_iso": "2026-06-25T09:00:01.781262",
-    "date_pt": "25 de junho de 2026",
-    "date_en": "June 25, 2026",
-    "title_pt": "Casa Estudio F36 / Estudio Tecalli",
-    "title_en": "Casa Estudio F36 / Estudio Tecalli",
-    "text_pt": "Located in San Crist&oacute;bal Tepontla, a locality adjacent to San Pedro Cholula in the Puebla valley, Mexico, this project represents the second intervention by the office in a territory profoundly defined by its productive identity.",
-    "text_en": "Located in San Crist&oacute;bal Tepontla, a locality adjacent to San Pedro Cholula in the Puebla valley, Mexico, this project represents the second intervention by the office in a territory profoundly defined by its productive identity.",
-    "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1042728/casa-estudio-f36-estudio-tecalli"
   }
 ]
