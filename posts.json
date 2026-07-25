@@ -1,5 +1,17 @@
 [
   {
+    "id": "63c8efcd22",
+    "date_iso": "2026-07-25T18:00:02.283520",
+    "date_pt": "25 de julho de 2026",
+    "date_en": "July 25, 2026",
+    "title_pt": "Emilia Wickstead on celebrating the every day: ‘Why wait for a special occasion?'",
+    "title_en": "Emilia Wickstead on celebrating the every day: ‘Why wait for a special occasion?'",
+    "text_pt": "On the heels of her expanded homeware collection, the celebrated fashion designer shares how to transform the ordinary into something spectacular, from homemade pavlova or heirloom cocktail napkins",
+    "text_en": "On the heels of her expanded homeware collection, the celebrated fashion designer shares how to transform the ordinary into something spectacular, from homemade pavlova or heirloom cocktail napkins",
+    "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/entertaining/how-we-host-emilia-wickstead"
+  },
+  {
     "id": "b8bbf2a164",
     "date_iso": "2026-07-25T09:00:01.623735",
     "date_pt": "25 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "In the current context of rapid urban environmental changes, such as heatwaves and droughts, new priorities are emerging in the design of public spaces.",
     "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1042738/rewilding-the-city-6-unbuilt-projects-from-the-archdaily-community"
-  },
-  {
-    "id": "8e069e49f3",
-    "date_iso": "2026-06-25T18:00:02.861482",
-    "date_pt": "25 de junho de 2026",
-    "date_en": "June 25, 2026",
-    "title_pt": "\"I Don't Separate Architecture and Infrastructure\": Interview With Shohei Shigematsu on OMA's New Museum Addition",
-    "title_en": "\"I Don't Separate Architecture and Infrastructure\": Interview With Shohei Shigematsu on OMA's New Museum Addition",
-    "text_pt": "When the New Museum's original SANAA-designed building, a stack of shifted opaque boxes wrapped in a metal mesh skin, opened in 2007, it already seemed destined for some form of expansion to relieve the vertical pressure created by its constrained circulation and limited footprin...",
-    "text_en": "When the New Museum's original SANAA-designed building, a stack of shifted opaque boxes wrapped in a metal mesh skin, opened in 2007, it already seemed destined for some form of expansion to relieve the vertical pressure created by its constrained circulation and limited footprin...",
-    "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1042708/i-dont-separate-architecture-and-infrastructure-interview-with-shohei-shigematsu-on-omas-new-museum-addition"
   }
 ]
