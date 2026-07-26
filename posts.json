@@ -1,5 +1,17 @@
 [
   {
+    "id": "2273c1ffa5",
+    "date_iso": "2026-07-26T18:00:02.770384",
+    "date_pt": "26 de julho de 2026",
+    "date_en": "July 26, 2026",
+    "title_pt": "When Renault took to the sky: revisiting the elegant 1930s Caudron Rafale racing plane",
+    "title_en": "When Renault took to the sky: revisiting the elegant 1930s Caudron Rafale racing plane",
+    "text_pt": "Renault’s history includes this superb piece of aviation design, the 1934 Caudron Rafale C.460, a name that's gone on to grace a contemporary car",
+    "text_en": "Renault’s history includes this superb piece of aviation design, the 1934 Caudron Rafale C.460, a name that's gone on to grace a contemporary car",
+    "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/transportation/renault-1930s-caudron-rafale-racing-plane"
+  },
+  {
     "id": "68082daa16",
     "date_iso": "2026-07-26T09:00:02.570880",
     "date_pt": "26 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Zylia is a contemporary haunt shaped by childhood memory, family recipes and an obsession for charcoal grills",
     "img": "https://images.pexels.com/photos/11469002/pexels-photo-11469002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/travel/restaurants/zylia-london-review"
-  },
-  {
-    "id": "a335074412",
-    "date_iso": "2026-06-26T18:00:03.162354",
-    "date_pt": "26 de junho de 2026",
-    "date_en": "June 26, 2026",
-    "title_pt": "Caiçara House / Studio Carlito e Renata Pascucci",
-    "title_en": "Caiçara House / Studio Carlito e Renata Pascucci",
-    "text_pt": "The project stemmed from a twofold request: to build a home with a &ldquo;cai&ccedil;ara&rdquo; identity that was also designed for short-term rentals and a possible future sale.",
-    "text_en": "The project stemmed from a twofold request: to build a home with a &ldquo;cai&ccedil;ara&rdquo; identity that was also designed for short-term rentals and a possible future sale.",
-    "img": "https://images.pexels.com/photos/12277631/pexels-photo-12277631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1042651/caicara-house-studio-carlito-e-renata-pascucci"
   }
 ]
