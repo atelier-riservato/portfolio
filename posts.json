@@ -1,5 +1,17 @@
 [
   {
+    "id": "68082daa16",
+    "date_iso": "2026-07-26T09:00:02.570880",
+    "date_pt": "26 de julho de 2026",
+    "date_en": "July 26, 2026",
+    "title_pt": "Richard Lareau's 1961 Bone Residence, a landmark of San Diego modernism, is for sale",
+    "title_en": "Richard Lareau's 1961 Bone Residence, a landmark of San Diego modernism, is for sale",
+    "text_pt": "Set in the canyons of Mission Hills, this post-and-beam residence – with its cedar walls and glass expanses framing views to the Pacific – is one of the finest-preserved works from the architect's career",
+    "text_en": "Set in the canyons of Mission Hills, this post-and-beam residence – with its cedar walls and glass expanses framing views to the Pacific – is one of the finest-preserved works from the architect's career",
+    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/residential/richard-lareau-bone-residence-san-diego-modernism"
+  },
+  {
     "id": "63c8efcd22",
     "date_iso": "2026-07-25T18:00:02.283520",
     "date_pt": "25 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The project stemmed from a twofold request: to build a home with a &ldquo;cai&ccedil;ara&rdquo; identity that was also designed for short-term rentals and a possible future sale.",
     "img": "https://images.pexels.com/photos/12277631/pexels-photo-12277631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1042651/caicara-house-studio-carlito-e-renata-pascucci"
-  },
-  {
-    "id": "2502c153cc",
-    "date_iso": "2026-06-26T09:00:01.678927",
-    "date_pt": "26 de junho de 2026",
-    "date_en": "June 26, 2026",
-    "title_pt": "Rewilding the City: 6 Unbuilt Projects from the ArchDaily Community",
-    "title_en": "Rewilding the City: 6 Unbuilt Projects from the ArchDaily Community",
-    "text_pt": "In the current context of rapid urban environmental changes, such as heatwaves and droughts, new priorities are emerging in the design of public spaces.",
-    "text_en": "In the current context of rapid urban environmental changes, such as heatwaves and droughts, new priorities are emerging in the design of public spaces.",
-    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1042738/rewilding-the-city-6-unbuilt-projects-from-the-archdaily-community"
   }
 ]
