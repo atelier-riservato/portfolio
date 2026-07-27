@@ -1,5 +1,17 @@
 [
   {
+    "id": "c574681b2c",
+    "date_iso": "2026-07-27T09:00:02.347269",
+    "date_pt": "27 de julho de 2026",
+    "date_en": "July 27, 2026",
+    "title_pt": "Apartment 1701",
+    "title_en": "Apartment 1701",
+    "text_pt": "Studio Hasta The post Apartment 1701 appeared first on Leibal .",
+    "text_en": "Studio Hasta The post Apartment 1701 appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/apartment-1701/"
+  },
+  {
     "id": "2273c1ffa5",
     "date_iso": "2026-07-26T18:00:02.770384",
     "date_pt": "26 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "In Chicago, these standout product launches, installations, and pop-ups from NeoCon 2026 and Design Days stole the show.",
     "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/our-top-12-picks-from-neocon-2026-design-days/"
-  },
-  {
-    "id": "eefbcb68ed",
-    "date_iso": "2026-06-27T09:00:01.697316",
-    "date_pt": "27 de junho de 2026",
-    "date_en": "June 27, 2026",
-    "title_pt": "Feast at a new Greek-Cypriot taverna in buzzy Covent Garden",
-    "title_en": "Feast at a new Greek-Cypriot taverna in buzzy Covent Garden",
-    "text_pt": "Zylia is a contemporary haunt shaped by childhood memory, family recipes and an obsession for charcoal grills",
-    "text_en": "Zylia is a contemporary haunt shaped by childhood memory, family recipes and an obsession for charcoal grills",
-    "img": "https://images.pexels.com/photos/11469002/pexels-photo-11469002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/travel/restaurants/zylia-london-review"
   }
 ]
