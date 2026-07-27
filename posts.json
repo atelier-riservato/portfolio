@@ -1,5 +1,17 @@
 [
   {
+    "id": "1fcdb2ae33",
+    "date_iso": "2026-07-27T18:00:03.378379",
+    "date_pt": "27 de julho de 2026",
+    "date_en": "July 27, 2026",
+    "title_pt": "The Mah Jong sofa has officially entered pop culture",
+    "title_en": "The Mah Jong sofa has officially entered pop culture",
+    "text_pt": "What's a Mah Jong sofa? Inspired by Charli XCX's shopping list in 'Card Declined', we take you on a deep dive into the history of one of contemporary design's most eclectic pieces of furniture",
+    "text_en": "What's a Mah Jong sofa? Inspired by Charli XCX's shopping list in 'Card Declined', we take you on a deep dive into the history of one of contemporary design's most eclectic pieces of furniture",
+    "img": "https://images.pexels.com/photos/14300937/pexels-photo-14300937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/furniture/mah-jong-sofa-hans-hopfer-design-icon"
+  },
+  {
     "id": "c574681b2c",
     "date_iso": "2026-07-27T09:00:02.347269",
     "date_pt": "27 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Studio Plenty The post Lindelli Pitt Street appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/lindelli-pitt-street/"
-  },
-  {
-    "id": "65578bd9a1",
-    "date_iso": "2026-06-27T18:00:02.404717",
-    "date_pt": "27 de junho de 2026",
-    "date_en": "June 27, 2026",
-    "title_pt": "Our Top 12 Picks from NeoCon 2026 & Design Days",
-    "title_en": "Our Top 12 Picks from NeoCon 2026 & Design Days",
-    "text_pt": "In Chicago, these standout product launches, installations, and pop-ups from NeoCon 2026 and Design Days stole the show.",
-    "text_en": "In Chicago, these standout product launches, installations, and pop-ups from NeoCon 2026 and Design Days stole the show.",
-    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/our-top-12-picks-from-neocon-2026-design-days/"
   }
 ]
