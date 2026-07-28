@@ -1,5 +1,17 @@
 [
   {
+    "id": "cd37b0c534",
+    "date_iso": "2026-07-28T09:00:01.688438",
+    "date_pt": "28 de julho de 2026",
+    "date_en": "July 28, 2026",
+    "title_pt": "Gillian Gillies Reimagines Sustainable Design as a Warm Embrace",
+    "title_en": "Gillian Gillies Reimagines Sustainable Design as a Warm Embrace",
+    "text_pt": "The Toronto-based designer layers color, texture, and personality into a Net Zero Ready suburban home built for everyday life",
+    "text_en": "The Toronto-based designer layers color, texture, and personality into a Net Zero Ready suburban home built for everyday life",
+    "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/gillian-gillies-net-zero-ready-toronto-home/"
+  },
+  {
     "id": "1fcdb2ae33",
     "date_iso": "2026-07-27T18:00:03.378379",
     "date_pt": "27 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Draper Studio The post Hackney House appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/hackney-house-2/"
-  },
-  {
-    "id": "850f362c0b",
-    "date_iso": "2026-06-28T09:00:01.597480",
-    "date_pt": "28 de junho de 2026",
-    "date_en": "June 28, 2026",
-    "title_pt": "Lindelli Pitt Street",
-    "title_en": "Lindelli Pitt Street",
-    "text_pt": "Studio Plenty The post Lindelli Pitt Street appeared first on Leibal .",
-    "text_en": "Studio Plenty The post Lindelli Pitt Street appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/lindelli-pitt-street/"
   }
 ]
