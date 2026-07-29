@@ -1,5 +1,17 @@
 [
   {
+    "id": "4422e61161",
+    "date_iso": "2026-07-29T18:00:03.567631",
+    "date_pt": "29 de julho de 2026",
+    "date_en": "July 29, 2026",
+    "title_pt": "Living Canvas",
+    "title_en": "Living Canvas",
+    "text_pt": "EWEN. DESIGN The post Living Canvas appeared first on Leibal .",
+    "text_en": "EWEN. DESIGN The post Living Canvas appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/living-canvas/"
+  },
+  {
     "id": "c74fa4ddb0",
     "date_iso": "2026-07-29T09:00:01.708821",
     "date_pt": "29 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "When NYC starts to heat up in the summer, things change. The city blooms as people travel from across the globe to experience the confluence of history, modernity, and culture. There&#8217;s also the hustle, the speed, and the smells.",
     "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/stefon-diggs-if-you-want-peace-tuleste-factor-exhibition/"
-  },
-  {
-    "id": "49e8f75e98",
-    "date_iso": "2026-06-29T18:00:03.564409",
-    "date_pt": "29 de junho de 2026",
-    "date_en": "June 29, 2026",
-    "title_pt": "Trestle Cabin / Miller Hull Partnership",
-    "title_en": "Trestle Cabin / Miller Hull Partnership",
-    "text_pt": "This project seeks to develop a prototype for the development of low-impact cabins on challenging and remote sites.",
-    "text_en": "This project seeks to develop a prototype for the development of low-impact cabins on challenging and remote sites.",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1030999/trestle-cabin-miller-hull-partnership"
   }
 ]
