@@ -1,5 +1,17 @@
 [
   {
+    "id": "c74fa4ddb0",
+    "date_iso": "2026-07-29T09:00:01.708821",
+    "date_pt": "29 de julho de 2026",
+    "date_en": "July 29, 2026",
+    "title_pt": "London’s Olympia has been under renovation for years. Now we can step inside",
+    "title_en": "London’s Olympia has been under renovation for years. Now we can step inside",
+    "text_pt": "After five years of construction, the Victorian landmark, reimagined as a vibrant cultural hub by Heatherwick Studio and SPPARC, is nearly complete. Take a look inside",
+    "text_en": "After five years of construction, the Victorian landmark, reimagined as a vibrant cultural hub by Heatherwick Studio and SPPARC, is nearly complete. Take a look inside",
+    "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/inside-olympia-london-uk"
+  },
+  {
     "id": "11fed93ec3",
     "date_iso": "2026-07-28T18:00:02.975856",
     "date_pt": "28 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "This project seeks to develop a prototype for the development of low-impact cabins on challenging and remote sites.",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1030999/trestle-cabin-miller-hull-partnership"
-  },
-  {
-    "id": "e98ef82e89",
-    "date_iso": "2026-06-29T09:00:01.785181",
-    "date_pt": "29 de junho de 2026",
-    "date_en": "June 29, 2026",
-    "title_pt": "Pedagogy in Space: Architecture Schools' Hidden Curriculum",
-    "title_en": "Pedagogy in Space: Architecture Schools' Hidden Curriculum",
-    "text_pt": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
-    "text_en": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
-    "img": "https://images.pexels.com/photos/29354637/pexels-photo-29354637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1042669/pedagogy-in-space-architecture-schools-hidden-curriculum"
   }
 ]
