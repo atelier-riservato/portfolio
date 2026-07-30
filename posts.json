@@ -1,5 +1,17 @@
 [
   {
+    "id": "5757baf9b4",
+    "date_iso": "2026-07-30T09:00:01.593974",
+    "date_pt": "30 de julho de 2026",
+    "date_en": "July 30, 2026",
+    "title_pt": "Sawtooth House / Francesco Pierazzi Architects",
+    "title_en": "Sawtooth House / Francesco Pierazzi Architects",
+    "text_pt": "Sawtooth House transforms a Victorian terrace in Kingston upon Thames through the replacement of an outdated rear extension with a contemporary addition inspired by the town's industrial heritage.",
+    "text_en": "Sawtooth House transforms a Victorian terrace in Kingston upon Thames through the replacement of an outdated rear extension with a contemporary addition inspired by the town's industrial heritage.",
+    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1181754/sawtooth-house-francesco-pierazzi-architects"
+  },
+  {
     "id": "4422e61161",
     "date_iso": "2026-07-29T18:00:03.567631",
     "date_pt": "29 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "JG Neukomm Architecture The post Schoolhouse appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/schoolhouse-2/"
-  },
-  {
-    "id": "078130c278",
-    "date_iso": "2026-06-30T09:00:02.408000",
-    "date_pt": "30 de junho de 2026",
-    "date_en": "June 30, 2026",
-    "title_pt": "Stefon Diggs Shares Imaginative Exhibition at Tuleste Factory",
-    "title_en": "Stefon Diggs Shares Imaginative Exhibition at Tuleste Factory",
-    "text_pt": "When NYC starts to heat up in the summer, things change. The city blooms as people travel from across the globe to experience the confluence of history, modernity, and culture. There&#8217;s also the hustle, the speed, and the smells.",
-    "text_en": "When NYC starts to heat up in the summer, things change. The city blooms as people travel from across the globe to experience the confluence of history, modernity, and culture. There&#8217;s also the hustle, the speed, and the smells.",
-    "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/stefon-diggs-if-you-want-peace-tuleste-factor-exhibition/"
   }
 ]
