@@ -1,5 +1,17 @@
 [
   {
+    "id": "182246b6c9",
+    "date_iso": "2026-07-31T18:00:03.269452",
+    "date_pt": "31 de julho de 2026",
+    "date_en": "July 31, 2026",
+    "title_pt": "Crystal Portal",
+    "title_en": "Crystal Portal",
+    "text_pt": "Horizontal Studio The post Crystal Portal appeared first on Leibal .",
+    "text_en": "Horizontal Studio The post Crystal Portal appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/705194/pexels-photo-705194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/crystal-portal/"
+  },
+  {
     "id": "ec58b9a6ca",
     "date_iso": "2026-07-31T09:00:02.591607",
     "date_pt": "31 de julho de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Set between an industrial area and the natural landscape surrounding Glisholm Lake, Dymak's new headquarters in Odense is conceived as a circular building wrapped around a sheltered green courtyard.",
     "img": "https://images.pexels.com/photos/14300937/pexels-photo-14300937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1042958/dymak-hq-big"
-  },
-  {
-    "id": "c72f8e1d85",
-    "date_iso": "2026-07-01T18:00:02.878962",
-    "date_pt": "1 de julho de 2026",
-    "date_en": "July 1, 2026",
-    "title_pt": "The Architecture Edit: 10 amazing houses that made an impression in June",
-    "title_en": "The Architecture Edit: 10 amazing houses that made an impression in June",
-    "text_pt": "A selection of the month's most exceptional homes, chosen by the Wallpaper* editors, from a subterranean home in south London to a reimagined watchtower in Tuscany",
-    "text_en": "A selection of the month's most exceptional homes, chosen by the Wallpaper* editors, from a subterranean home in south London to a reimagined watchtower in Tuscany",
-    "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/residential/best-residential-architecture-june-2026"
   }
 ]
