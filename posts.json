@@ -1,5 +1,17 @@
 [
   {
+    "id": "f7ab423207",
+    "date_iso": "2026-08-02T18:00:02.692496",
+    "date_pt": "2 de agosto de 2026",
+    "date_en": "August 2, 2026",
+    "title_pt": "Lauren Rottet Shares the Places, Projects, and Inspirations That Shape Her Design",
+    "title_en": "Lauren Rottet Shares the Places, Projects, and Inspirations That Shape Her Design",
+    "text_pt": "From a George Nelson home in Montauk to the beaches that fuel her creativity, the architect and designer shares 5 personal inspirations—and 5 projects that define her work.",
+    "text_en": "From a George Nelson home in Montauk to the beaches that fuel her creativity, the architect and designer shares 5 personal inspirations—and 5 projects that define her work.",
+    "img": "https://images.pexels.com/photos/12277013/pexels-photo-12277013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/lauren-rottet-friday-five/"
+  },
+  {
     "id": "7c8484c487",
     "date_iso": "2026-08-02T09:00:01.716738",
     "date_pt": "2 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "IFDO’s Eagle House for Hastings Commons transforms a neglected Victorian building into a youth centre, affordable workspace and community hub",
     "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/eagle-house-ifdo-hastings-uk"
-  },
-  {
-    "id": "3f404e61ac",
-    "date_iso": "2026-07-03T18:00:03.161750",
-    "date_pt": "3 de julho de 2026",
-    "date_en": "July 3, 2026",
-    "title_pt": "Luxury Frontiers Designs a Lodge That Belongs to Its Landscape",
-    "title_en": "Luxury Frontiers Designs a Lodge That Belongs to Its Landscape",
-    "text_pt": "Six decades after Abercrombie &#038; Kent's first safari, the company returns to Amboseli with a lodge that abandons the canvas tent for walls plastered with the earth beneath it.",
-    "text_en": "Six decades after Abercrombie &#038; Kent's first safari, the company returns to Amboseli with a lodge that abandons the canvas tent for walls plastered with the earth beneath it.",
-    "img": "https://images.pexels.com/photos/13012256/pexels-photo-13012256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/luxury-frontiers-designs-a-lodge-that-belongs-to-its-landscape/"
   }
 ]
