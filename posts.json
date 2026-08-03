@@ -1,5 +1,17 @@
 [
   {
+    "id": "99cdf29360",
+    "date_iso": "2026-08-03T18:00:03.570371",
+    "date_pt": "3 de agosto de 2026",
+    "date_en": "August 3, 2026",
+    "title_pt": "A Toronto Penthouse Finds New Life by Celebrating Its 1980s Roots",
+    "title_en": "A Toronto Penthouse Finds New Life by Celebrating Its 1980s Roots",
+    "text_pt": "Dvira Interiors leaned into the penthouse’s late-’80s character by pairing its curved architecture with global influences, tactile materials, and immersive interiors",
+    "text_en": "Dvira Interiors leaned into the penthouse’s late-’80s character by pairing its curved architecture with global influences, tactile materials, and immersive interiors",
+    "img": "https://images.pexels.com/photos/7518747/pexels-photo-7518747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/dvira-interiors-toronto-penthouse-1980s-renovation/"
+  },
+  {
     "id": "2b9af50eea",
     "date_iso": "2026-08-03T09:00:01.772616",
     "date_pt": "3 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Our resident drinks writer, Neil Ridley recently visited the sun-kissed streets of Porto to discover why Port & Tonic is the talk of the town",
     "img": "https://images.pexels.com/photos/11469002/pexels-photo-11469002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/entertaining/porto-port-review"
-  },
-  {
-    "id": "176c138058",
-    "date_iso": "2026-07-04T18:00:02.193693",
-    "date_pt": "4 de julho de 2026",
-    "date_en": "July 4, 2026",
-    "title_pt": "A Brutalist Home Becomes a Canvas for a Milanese Art Collector",
-    "title_en": "A Brutalist Home Becomes a Canvas for a Milanese Art Collector",
-    "text_pt": "Board-formed concrete and industrial stainless steel create an intense and tactile atmosphere in this home by Nick Maltese Studio.",
-    "text_en": "Board-formed concrete and industrial stainless steel create an intense and tactile atmosphere in this home by Nick Maltese Studio.",
-    "img": "https://images.pexels.com/photos/19740269/pexels-photo-19740269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/brutalist-milan-home-nick-maltese-studio/"
   }
 ]
