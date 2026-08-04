@@ -1,5 +1,17 @@
 [
   {
+    "id": "91a5d5e5b7",
+    "date_iso": "2026-08-04T18:00:02.774564",
+    "date_pt": "4 de agosto de 2026",
+    "date_en": "August 4, 2026",
+    "title_pt": "An ‘elegantly austere’ Arizona home celebrates its site and an unexpected, humble material",
+    "title_en": "An ‘elegantly austere’ Arizona home celebrates its site and an unexpected, humble material",
+    "text_pt": "At this Arizona home by architecture studio A-I-R, light, shadow, and form interplay in a minimalist elegance constructed using simple concrete masonry units and stucco",
+    "text_en": "At this Arizona home by architecture studio A-I-R, light, shadow, and form interplay in a minimalist elegance constructed using simple concrete masonry units and stucco",
+    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/residential/arizona-home-shifted-horizon-usa"
+  },
+  {
     "id": "b285ff7133",
     "date_iso": "2026-08-04T09:00:02.012607",
     "date_pt": "4 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Studio Idà The post Gravilliers appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/14809401/pexels-photo-14809401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/gravilliers/"
-  },
-  {
-    "id": "ec1ea06358",
-    "date_iso": "2026-07-05T18:00:01.762582",
-    "date_pt": "5 de julho de 2026",
-    "date_en": "July 5, 2026",
-    "title_pt": "A New Assouline Book Captures the Many Faces of America",
-    "title_en": "A New Assouline Book Captures the Many Faces of America",
-    "text_pt": "'America: The Imagination of a Nation' explores the country’s enduring spirit through photography, art, and design",
-    "text_en": "'America: The Imagination of a Nation' explores the country’s enduring spirit through photography, art, and design",
-    "img": "https://images.pexels.com/photos/13083032/pexels-photo-13083032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/assouline-america-the-imagination-of-a-nation/"
   }
 ]
