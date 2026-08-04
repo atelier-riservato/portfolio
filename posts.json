@@ -1,5 +1,17 @@
 [
   {
+    "id": "b285ff7133",
+    "date_iso": "2026-08-04T09:00:02.012607",
+    "date_pt": "4 de agosto de 2026",
+    "date_en": "August 4, 2026",
+    "title_pt": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors",
+    "title_en": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors",
+    "text_pt": "The idea of a \"Great Green Wall\" designates a large-scale reforestation initiative undertaken specifically to halt desertification.",
+    "text_en": "The idea of a \"Great Green Wall\" designates a large-scale reforestation initiative undertaken specifically to halt desertification.",
+    "img": "https://images.pexels.com/photos/19740269/pexels-photo-19740269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1182133/africa-and-china-advance-great-green-walls-as-continental-wildlife-corridors"
+  },
+  {
     "id": "99cdf29360",
     "date_iso": "2026-08-03T18:00:03.570371",
     "date_pt": "3 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "'America: The Imagination of a Nation' explores the country’s enduring spirit through photography, art, and design",
     "img": "https://images.pexels.com/photos/13083032/pexels-photo-13083032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/assouline-america-the-imagination-of-a-nation/"
-  },
-  {
-    "id": "0266c2b47a",
-    "date_iso": "2026-07-05T09:00:02.100100",
-    "date_pt": "5 de julho de 2026",
-    "date_en": "July 5, 2026",
-    "title_pt": "Porto's new vintage: culture, creativity and a modern love affair with port",
-    "title_en": "Porto's new vintage: culture, creativity and a modern love affair with port",
-    "text_pt": "Our resident drinks writer, Neil Ridley recently visited the sun-kissed streets of Porto to discover why Port & Tonic is the talk of the town",
-    "text_en": "Our resident drinks writer, Neil Ridley recently visited the sun-kissed streets of Porto to discover why Port & Tonic is the talk of the town",
-    "img": "https://images.pexels.com/photos/11469002/pexels-photo-11469002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/entertaining/porto-port-review"
   }
 ]
