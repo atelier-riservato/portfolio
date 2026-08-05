@@ -1,5 +1,17 @@
 [
   {
+    "id": "0760bde5ba",
+    "date_iso": "2026-08-05T18:00:02.479412",
+    "date_pt": "5 de agosto de 2026",
+    "date_en": "August 5, 2026",
+    "title_pt": "RDH House / Čechvala Architects",
+    "title_en": "RDH House / Čechvala Architects",
+    "text_pt": "The site sits in Bratislava's Sihoť district along Devínska Road, at a rare meeting point of two contrasting landscapes: the wooded rise of the Carpathian massif on one side and a quiet arm of the Danube on the other.",
+    "text_en": "The site sits in Bratislava's Sihoť district along Devínska Road, at a rare meeting point of two contrasting landscapes: the wooded rise of the Carpathian massif on one side and a quiet arm of the Danube on the other.",
+    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1181952/rdh-house-cechvala-architects"
+  },
+  {
     "id": "6fe10ed958",
     "date_iso": "2026-08-05T09:00:02.231420",
     "date_pt": "5 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Nearly five decades after opening, New York's New Museum unveils its first permanent restaurant. Designed by OMA, Oberon combines sculptural cork interiors, contemporary art commissions and a menu rooted in downtown culture",
     "img": "https://images.pexels.com/photos/14300937/pexels-photo-14300937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/travel/restaurants/new-museum-restaurant-tktktk"
-  },
-  {
-    "id": "e33b3070dd",
-    "date_iso": "2026-07-06T18:00:03.902243",
-    "date_pt": "6 de julho de 2026",
-    "date_en": "July 6, 2026",
-    "title_pt": "A Chylak Lace Installation That Weaves Together Cultural History and Heritage Craft",
-    "title_en": "A Chylak Lace Installation That Weaves Together Cultural History and Heritage Craft",
-    "text_pt": "At Baum und Pferdgarten’s Copenhagen flagship, a large-scale 3daysofdesign installation connects Polish lace traditions with Danish cultural history.",
-    "text_en": "At Baum und Pferdgarten’s Copenhagen flagship, a large-scale 3daysofdesign installation connects Polish lace traditions with Danish cultural history.",
-    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/chylak-lace-installation-3daysofdesign-2026/"
   }
 ]
