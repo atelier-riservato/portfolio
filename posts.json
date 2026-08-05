@@ -1,5 +1,17 @@
 [
   {
+    "id": "6fe10ed958",
+    "date_iso": "2026-08-05T09:00:02.231420",
+    "date_pt": "5 de agosto de 2026",
+    "date_en": "August 5, 2026",
+    "title_pt": "MAD Completes Shenzhen Bay Culture Square, a Coastal Design Museum and Public Park in China",
+    "title_en": "MAD Completes Shenzhen Bay Culture Square, a Coastal Design Museum and Public Park in China",
+    "text_pt": "MAD / Ma Yansong 's Shenzhen Bay Culture Square exhibition hall and park project began in 2018, with the project completed in 2020.",
+    "text_en": "MAD / Ma Yansong 's Shenzhen Bay Culture Square exhibition hall and park project began in 2018, with the project completed in 2020.",
+    "img": "https://images.pexels.com/photos/1955549/pexels-photo-1955549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1182207/mad-completes-shenzhen-bay-culture-square-a-coastal-design-museum-and-public-park-in-china"
+  },
+  {
     "id": "91a5d5e5b7",
     "date_iso": "2026-08-04T18:00:02.774564",
     "date_pt": "4 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "At Baum und Pferdgarten’s Copenhagen flagship, a large-scale 3daysofdesign installation connects Polish lace traditions with Danish cultural history.",
     "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/chylak-lace-installation-3daysofdesign-2026/"
-  },
-  {
-    "id": "7710a4cd00",
-    "date_iso": "2026-07-06T09:00:01.994071",
-    "date_pt": "6 de julho de 2026",
-    "date_en": "July 6, 2026",
-    "title_pt": "Gravilliers",
-    "title_en": "Gravilliers",
-    "text_pt": "Studio Idà The post Gravilliers appeared first on Leibal .",
-    "text_en": "Studio Idà The post Gravilliers appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/14809401/pexels-photo-14809401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/gravilliers/"
   }
 ]
