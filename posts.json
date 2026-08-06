@@ -1,5 +1,17 @@
 [
   {
+    "id": "6ad723309b",
+    "date_iso": "2026-08-06T09:00:01.938573",
+    "date_pt": "6 de agosto de 2026",
+    "date_en": "August 6, 2026",
+    "title_pt": "Chengdu Pavilion / IwamotoScott Architecture",
+    "title_en": "Chengdu Pavilion / IwamotoScott Architecture",
+    "text_pt": "The Chengdu pavilion was commissioned as an exhibition pavilion with a project brief seeking a decidedly future-forward design.",
+    "text_en": "The Chengdu pavilion was commissioned as an exhibition pavilion with a project brief seeking a decidedly future-forward design.",
+    "img": "https://images.pexels.com/photos/18074245/pexels-photo-18074245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1182047/chengdu-pavilion-iwamotoscott-architecture"
+  },
+  {
     "id": "0760bde5ba",
     "date_iso": "2026-08-05T18:00:02.479412",
     "date_pt": "5 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A unique Range Rover Long Wheelbase Autobiography has been created by Urban Automotive in collaboration with Visionnaire",
     "img": "https://images.pexels.com/photos/20047163/pexels-photo-20047163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/transportation/urban-automotive-and-visionnaire-range-rover-long-wheelbase-autobiography"
-  },
-  {
-    "id": "abb01bae2c",
-    "date_iso": "2026-07-07T09:00:02.014746",
-    "date_pt": "7 de julho de 2026",
-    "date_en": "July 7, 2026",
-    "title_pt": "The New Museum finally has a restaurant",
-    "title_en": "The New Museum finally has a restaurant",
-    "text_pt": "Nearly five decades after opening, New York's New Museum unveils its first permanent restaurant. Designed by OMA, Oberon combines sculptural cork interiors, contemporary art commissions and a menu rooted in downtown culture",
-    "text_en": "Nearly five decades after opening, New York's New Museum unveils its first permanent restaurant. Designed by OMA, Oberon combines sculptural cork interiors, contemporary art commissions and a menu rooted in downtown culture",
-    "img": "https://images.pexels.com/photos/14300937/pexels-photo-14300937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/travel/restaurants/new-museum-restaurant-tktktk"
   }
 ]
