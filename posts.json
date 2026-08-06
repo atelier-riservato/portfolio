@@ -1,5 +1,17 @@
 [
   {
+    "id": "f2e3b86c60",
+    "date_iso": "2026-08-06T18:00:03.370599",
+    "date_pt": "6 de agosto de 2026",
+    "date_en": "August 6, 2026",
+    "title_pt": "Feliza Bursztyn School / AR-AR (Martínez Arquitectura)",
+    "title_en": "Feliza Bursztyn School / AR-AR (Martínez Arquitectura)",
+    "text_pt": "The Feliza Bursztyn School is conceived as an urban link that integrates, through its design, the neighborhood dynamics and the serenity of a landscaped public space in Bogotá.",
+    "text_en": "The Feliza Bursztyn School is conceived as an urban link that integrates, through its design, the neighborhood dynamics and the serenity of a landscaped public space in Bogotá.",
+    "img": "https://images.pexels.com/photos/12277013/pexels-photo-12277013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1182339/feliza-bursztyn-school-ar-ar-martinez-arquitectura"
+  },
+  {
     "id": "6ad723309b",
     "date_iso": "2026-08-06T09:00:01.938573",
     "date_pt": "6 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Přerov's 1969 town hall - a functional, institutionally focused example of Czechoslovak modernist public architecture - turns itself inside out with a new monolithic staircase that makes the everyday workings of local government legible to the public square it once turned away fr...",
     "img": "https://images.pexels.com/photos/31737859/pexels-photo-31737859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1054029/city-hall-in-prerov-atelier-gram-plus-anagram-architecture"
-  },
-  {
-    "id": "3a3b42058e",
-    "date_iso": "2026-07-07T18:00:02.470549",
-    "date_pt": "7 de julho de 2026",
-    "date_en": "July 7, 2026",
-    "title_pt": "Urban Automotive and Visionnaire take Range Rover luxury to new heights and lengths",
-    "title_en": "Urban Automotive and Visionnaire take Range Rover luxury to new heights and lengths",
-    "text_pt": "A unique Range Rover Long Wheelbase Autobiography has been created by Urban Automotive in collaboration with Visionnaire",
-    "text_en": "A unique Range Rover Long Wheelbase Autobiography has been created by Urban Automotive in collaboration with Visionnaire",
-    "img": "https://images.pexels.com/photos/20047163/pexels-photo-20047163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/transportation/urban-automotive-and-visionnaire-range-rover-long-wheelbase-autobiography"
   }
 ]
