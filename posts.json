@@ -1,5 +1,17 @@
 [
   {
+    "id": "2d3bb31e91",
+    "date_iso": "2026-08-07T09:00:01.617608",
+    "date_pt": "7 de agosto de 2026",
+    "date_en": "August 7, 2026",
+    "title_pt": "Tan France Brings His Eye for Layering to a Furniture Collection With Castlery",
+    "title_en": "Tan France Brings His Eye for Layering to a Furniture Collection With Castlery",
+    "text_pt": "Inspired by British and South Asian design traditions, Tan France’s debut furniture collection for Castlery explores how timeless pieces, personal history, and everyday rituals shape the modern home.",
+    "text_en": "Inspired by British and South Asian design traditions, Tan France’s debut furniture collection for Castlery explores how timeless pieces, personal history, and everyday rituals shape the modern home.",
+    "img": "https://images.pexels.com/photos/16808496/pexels-photo-16808496.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/tan-france-castlery-first-furniture-collection/"
+  },
+  {
     "id": "f2e3b86c60",
     "date_iso": "2026-08-06T18:00:03.370599",
     "date_pt": "6 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Ahead of Donald Judd’s 2028 centennial, Cunningham Cameron talks Marfa archives and the legacy of Judd design",
     "img": "https://images.pexels.com/photos/10612649/pexels-photo-10612649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/alexandra-cunningham-cameron-the-judd-foundation"
-  },
-  {
-    "id": "01fbd31388",
-    "date_iso": "2026-07-08T09:00:01.775006",
-    "date_pt": "8 de julho de 2026",
-    "date_en": "July 8, 2026",
-    "title_pt": "City Hall in Přerov / atelier gram + anagram architecture",
-    "title_en": "City Hall in Přerov / atelier gram + anagram architecture",
-    "text_pt": "Přerov's 1969 town hall - a functional, institutionally focused example of Czechoslovak modernist public architecture - turns itself inside out with a new monolithic staircase that makes the everyday workings of local government legible to the public square it once turned away fr...",
-    "text_en": "Přerov's 1969 town hall - a functional, institutionally focused example of Czechoslovak modernist public architecture - turns itself inside out with a new monolithic staircase that makes the everyday workings of local government legible to the public square it once turned away fr...",
-    "img": "https://images.pexels.com/photos/31737859/pexels-photo-31737859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1054029/city-hall-in-prerov-atelier-gram-plus-anagram-architecture"
   }
 ]
