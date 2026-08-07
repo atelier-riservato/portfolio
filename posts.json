@@ -1,5 +1,17 @@
 [
   {
+    "id": "fc3323630e",
+    "date_iso": "2026-08-07T18:00:03.665958",
+    "date_pt": "7 de agosto de 2026",
+    "date_en": "August 7, 2026",
+    "title_pt": "Dive Into ‘Pastel,’ Cj Hendry’s Million-Bead Installation at Salon 94 Design",
+    "title_en": "Dive Into ‘Pastel,’ Cj Hendry’s Million-Bead Installation at Salon 94 Design",
+    "text_pt": "The artist transforms the Upper East Side gallery into an interactive bead pit where visitors can dive in, make jewelry, and take home pieces of the installation",
+    "text_en": "The artist transforms the Upper East Side gallery into an interactive bead pit where visitors can dive in, make jewelry, and take home pieces of the installation",
+    "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/cj-hendry-pastel-salon-94-bead-installation/"
+  },
+  {
     "id": "2d3bb31e91",
     "date_iso": "2026-08-07T09:00:01.617608",
     "date_pt": "7 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Photographer Paul Clemence has documented West Bund Orbit , Heatherwick Studio 's public exhibition hall on Shanghai 's West Bund waterfront , in a photo series exploring the project's evolving architectural identity.",
     "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1092350/paul-clemence-captures-heatherwick-studios-west-bund-orbit-along-shanghais-huangpu-river"
-  },
-  {
-    "id": "d99d7bd596",
-    "date_iso": "2026-07-08T18:00:03.766365",
-    "date_pt": "8 de julho de 2026",
-    "date_en": "July 8, 2026",
-    "title_pt": "In conversation with Alexandra Cunningham Cameron, Judd Foundation’s first director of design",
-    "title_en": "In conversation with Alexandra Cunningham Cameron, Judd Foundation’s first director of design",
-    "text_pt": "Ahead of Donald Judd’s 2028 centennial, Cunningham Cameron talks Marfa archives and the legacy of Judd design",
-    "text_en": "Ahead of Donald Judd’s 2028 centennial, Cunningham Cameron talks Marfa archives and the legacy of Judd design",
-    "img": "https://images.pexels.com/photos/10612649/pexels-photo-10612649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/alexandra-cunningham-cameron-the-judd-foundation"
   }
 ]
