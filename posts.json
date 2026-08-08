@@ -1,5 +1,17 @@
 [
   {
+    "id": "07a599add5",
+    "date_iso": "2026-08-08T18:00:02.272413",
+    "date_pt": "8 de agosto de 2026",
+    "date_en": "August 8, 2026",
+    "title_pt": "Mediterranean House / Dom Arquitectura",
+    "title_en": "Mediterranean House / Dom Arquitectura",
+    "text_pt": "This residence enjoys a south orientation and a gentle slope towards the back of the plot. The house is strategically located at the top of the plot, leaving a large front space where the pool and garden are located.",
+    "text_en": "This residence enjoys a south orientation and a gentle slope towards the back of the plot. The house is strategically located at the top of the plot, leaving a large front space where the pool and garden are located.",
+    "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1148800/mediterranean-house-dom-arquitectura"
+  },
+  {
     "id": "332611defd",
     "date_iso": "2026-08-08T09:00:02.013937",
     "date_pt": "8 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The duo’s largest museum exhibition to date traces 15 years of work that blurs the boundaries between art, design, craft, and technology.",
     "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/haas-brothers-uncanny-valley-mad-nyc/"
-  },
-  {
-    "id": "38afd82949",
-    "date_iso": "2026-07-09T18:00:03.577274",
-    "date_pt": "9 de julho de 2026",
-    "date_en": "July 9, 2026",
-    "title_pt": "Anduhyaun Emergency Shelter / LGA Architectural Partners",
-    "title_en": "Anduhyaun Emergency Shelter / LGA Architectural Partners",
-    "text_pt": "Anduhyaun, owner and operator of Toronto's only Indigenous Violence Against Women shelter, partnered with LGA to design a new 18-room shelter that supports women and their children on their healing journeys.",
-    "text_en": "Anduhyaun, owner and operator of Toronto's only Indigenous Violence Against Women shelter, partnered with LGA to design a new 18-room shelter that supports women and their children on their healing journeys.",
-    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1054063/anduhyaun-emergency-shelter-lga-architectural-partners"
   }
 ]
