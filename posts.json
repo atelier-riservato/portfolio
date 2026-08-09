@@ -1,5 +1,17 @@
 [
   {
+    "id": "e1973d72e9",
+    "date_iso": "2026-08-09T18:00:02.268336",
+    "date_pt": "9 de agosto de 2026",
+    "date_en": "August 9, 2026",
+    "title_pt": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+    "title_en": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
+    "text_pt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+    "text_en": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
+    "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy"
+  },
+  {
     "id": "c49bacbe0e",
     "date_iso": "2026-08-09T09:00:01.681457",
     "date_pt": "9 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Yanlord Arcadia is conceived around the philosophy of a \"Garden within Gardens,\" where a sequence of themed landscapes creates an ever-changing dialogue between nature, architecture, and daily life.",
     "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1092344/yanlord-arcadia-sunken-garden-lacy-steps-trop-terrains-plus-open-space"
-  },
-  {
-    "id": "d7ac61b5dd",
-    "date_iso": "2026-07-10T18:00:04.166951",
-    "date_pt": "10 de julho de 2026",
-    "date_en": "July 10, 2026",
-    "title_pt": "In Chicago, the Coalesse Co.Lab Pop-Up Championed Collaborative Design",
-    "title_en": "In Chicago, the Coalesse Co.Lab Pop-Up Championed Collaborative Design",
-    "text_pt": "At Fulton Market Design Days, the group installation featured Tom Dixon, Extremis, Flos, and more.",
-    "text_en": "At Fulton Market Design Days, the group installation featured Tom Dixon, Extremis, Flos, and more.",
-    "img": "https://images.pexels.com/photos/30776070/pexels-photo-30776070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/in-chicago-the-coalesse-co-lab-pop-up-championed-collaborative-design/"
   }
 ]
