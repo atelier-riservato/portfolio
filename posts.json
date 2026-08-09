@@ -1,5 +1,17 @@
 [
   {
+    "id": "c49bacbe0e",
+    "date_iso": "2026-08-09T09:00:01.681457",
+    "date_pt": "9 de agosto de 2026",
+    "date_en": "August 9, 2026",
+    "title_pt": "The Bristle Collection",
+    "title_en": "The Bristle Collection",
+    "text_pt": "Studio Linde Hermans The post The Bristle Collection appeared first on Leibal .",
+    "text_en": "Studio Linde Hermans The post The Bristle Collection appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/13012256/pexels-photo-13012256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/furniture/the-bristle-collection/"
+  },
+  {
     "id": "07a599add5",
     "date_iso": "2026-08-08T18:00:02.272413",
     "date_pt": "8 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "At Fulton Market Design Days, the group installation featured Tom Dixon, Extremis, Flos, and more.",
     "img": "https://images.pexels.com/photos/30776070/pexels-photo-30776070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/in-chicago-the-coalesse-co-lab-pop-up-championed-collaborative-design/"
-  },
-  {
-    "id": "12b387d94e",
-    "date_iso": "2026-07-10T09:00:01.494937",
-    "date_pt": "10 de julho de 2026",
-    "date_en": "July 10, 2026",
-    "title_pt": "The Haas Brothers Bring ‘Uncanny Valley’ to New York",
-    "title_en": "The Haas Brothers Bring ‘Uncanny Valley’ to New York",
-    "text_pt": "The duo’s largest museum exhibition to date traces 15 years of work that blurs the boundaries between art, design, craft, and technology.",
-    "text_en": "The duo’s largest museum exhibition to date traces 15 years of work that blurs the boundaries between art, design, craft, and technology.",
-    "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/haas-brothers-uncanny-valley-mad-nyc/"
   }
 ]
