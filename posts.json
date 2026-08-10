@@ -1,5 +1,17 @@
 [
   {
+    "id": "be2fb13be2",
+    "date_iso": "2026-08-10T18:00:03.263358",
+    "date_pt": "10 de agosto de 2026",
+    "date_en": "August 10, 2026",
+    "title_pt": "1970s Italian design is having a moment: here are this year's best reissues",
+    "title_en": "1970s Italian design is having a moment: here are this year's best reissues",
+    "text_pt": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
+    "text_en": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
+    "img": "https://images.pexels.com/photos/37968493/pexels-photo-37968493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/furniture/1970s-italian-design-reissues"
+  },
+  {
     "id": "e1973d72e9",
     "date_iso": "2026-08-09T18:00:02.268336",
     "date_pt": "9 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Designed to be wrapped, the modular Slate Truck celebrates creativity and self-expression",
     "img": "https://images.pexels.com/photos/1389430/pexels-photo-1389430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/slate-truck-crayola-wraps/"
-  },
-  {
-    "id": "0b2411bdc9",
-    "date_iso": "2026-07-11T09:00:02.174171",
-    "date_pt": "11 de julho de 2026",
-    "date_en": "July 11, 2026",
-    "title_pt": "Yanlord Arcadia Sunken Garden —— Lacy Steps / TROP : terrains + open space",
-    "title_en": "Yanlord Arcadia Sunken Garden —— Lacy Steps / TROP : terrains + open space",
-    "text_pt": "Yanlord Arcadia is conceived around the philosophy of a \"Garden within Gardens,\" where a sequence of themed landscapes creates an ever-changing dialogue between nature, architecture, and daily life.",
-    "text_en": "Yanlord Arcadia is conceived around the philosophy of a \"Garden within Gardens,\" where a sequence of themed landscapes creates an ever-changing dialogue between nature, architecture, and daily life.",
-    "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1092344/yanlord-arcadia-sunken-garden-lacy-steps-trop-terrains-plus-open-space"
   }
 ]
