@@ -1,5 +1,17 @@
 [
   {
+    "id": "fe2526c8d2",
+    "date_iso": "2026-08-11T18:00:03.175301",
+    "date_pt": "11 de agosto de 2026",
+    "date_en": "August 11, 2026",
+    "title_pt": "A Michelin-starred Edinburgh favourite adds rooms to its restaurant",
+    "title_en": "A Michelin-starred Edinburgh favourite adds rooms to its restaurant",
+    "text_pt": "At Lyla, Stuart Ralston’s seafood-led tasting-menu experience now continues upstairs, with four Scarinish-designed bedrooms and breakfast in bed",
+    "text_en": "At Lyla, Stuart Ralston’s seafood-led tasting-menu experience now continues upstairs, with four Scarinish-designed bedrooms and breakfast in bed",
+    "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/travel/restaurants/lyla-restaurant-and-rooms-edinburgh-review"
+  },
+  {
     "id": "d88d906d7a",
     "date_iso": "2026-08-11T09:00:01.724073",
     "date_pt": "11 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "From her studio in Taos, New Mexico, Anna Sheffield creates space for different ways of making, thinking and being",
     "img": "https://images.pexels.com/photos/12277631/pexels-photo-12277631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/watches-jewellery/for-jewellery-designer-anna-sheffield-location-and-landscape-shape-an-innate-understanding-of-materials"
-  },
-  {
-    "id": "81183ec30a",
-    "date_iso": "2026-07-12T09:00:01.884851",
-    "date_pt": "12 de julho de 2026",
-    "date_en": "July 12, 2026",
-    "title_pt": "A Layered Modern Farmhouse Takes Shape in North Vancouver",
-    "title_en": "A Layered Modern Farmhouse Takes Shape in North Vancouver",
-    "text_pt": "Garret Cord Werner Architects, HB Design, and Donohoe Living Landscapes transform two neighboring lots into a seamless composition.",
-    "text_en": "Garret Cord Werner Architects, HB Design, and Donohoe Living Landscapes transform two neighboring lots into a seamless composition.",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/a-north-vancouver-residence-and-pool-house-connected-by-landscape/"
   }
 ]
