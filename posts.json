@@ -1,5 +1,17 @@
 [
   {
+    "id": "d88d906d7a",
+    "date_iso": "2026-08-11T09:00:01.724073",
+    "date_pt": "11 de agosto de 2026",
+    "date_en": "August 11, 2026",
+    "title_pt": "Former McLaren Designers Bring Supercar Thinking to Furniture",
+    "title_en": "Former McLaren Designers Bring Supercar Thinking to Furniture",
+    "text_pt": "With a carbon fiber structure, bespoke finishes, and automotive-level precision, Ennua’s Element 01 translates supercar designs into functional art",
+    "text_en": "With a carbon fiber structure, bespoke finishes, and automotive-level precision, Ennua’s Element 01 translates supercar designs into functional art",
+    "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/ennua-element-01-mclaren-designers/"
+  },
+  {
     "id": "be2fb13be2",
     "date_iso": "2026-08-10T18:00:03.263358",
     "date_pt": "10 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Garret Cord Werner Architects, HB Design, and Donohoe Living Landscapes transform two neighboring lots into a seamless composition.",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/a-north-vancouver-residence-and-pool-house-connected-by-landscape/"
-  },
-  {
-    "id": "707c390238",
-    "date_iso": "2026-07-11T18:00:02.086579",
-    "date_pt": "11 de julho de 2026",
-    "date_en": "July 11, 2026",
-    "title_pt": "Slate’s First Collab Brings Crayola Colors to Its Customizable EV",
-    "title_en": "Slate’s First Collab Brings Crayola Colors to Its Customizable EV",
-    "text_pt": "Designed to be wrapped, the modular Slate Truck celebrates creativity and self-expression",
-    "text_en": "Designed to be wrapped, the modular Slate Truck celebrates creativity and self-expression",
-    "img": "https://images.pexels.com/photos/1389430/pexels-photo-1389430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/slate-truck-crayola-wraps/"
   }
 ]
