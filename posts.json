@@ -1,5 +1,17 @@
 [
   {
+    "id": "6cbbc1dbcf",
+    "date_iso": "2026-08-12T18:00:03.068366",
+    "date_pt": "12 de agosto de 2026",
+    "date_en": "August 12, 2026",
+    "title_pt": "Heatherwick Studio gives this Kentucky civic space a refresh",
+    "title_en": "Heatherwick Studio gives this Kentucky civic space a refresh",
+    "text_pt": "First opened in 1973, the Belvedere public space in Louisville, Kentucky, will now undergo a vibrant restoration, set to open in 2030",
+    "text_en": "First opened in 1973, the Belvedere public space in Louisville, Kentucky, will now undergo a vibrant restoration, set to open in 2030",
+    "img": "https://images.pexels.com/photos/37968493/pexels-photo-37968493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/public-buildings/heathwick-studio-belvedere-kentucky-usa"
+  },
+  {
     "id": "7d8b095e28",
     "date_iso": "2026-08-12T09:00:02.308204",
     "date_pt": "12 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Situated on a one-thousand-square-meter corner lot, the Jacarezinho House is born from the direct relationship between architecture and the garden.",
     "img": "https://images.pexels.com/photos/12515077/pexels-photo-12515077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1092509/jacarezinho-ii-house-felipe-hess-arquitetos"
-  },
-  {
-    "id": "7cc6c79a1f",
-    "date_iso": "2026-07-13T09:00:02.320443",
-    "date_pt": "13 de julho de 2026",
-    "date_en": "July 13, 2026",
-    "title_pt": "\"We Want to Learn Something New\": In Conversation With the Curators of UIA World Congress of Architects Barcelona 2026",
-    "title_en": "\"We Want to Learn Something New\": In Conversation With the Curators of UIA World Congress of Architects Barcelona 2026",
-    "text_pt": "As Barcelona hosts the UIA World Congress of Architects for the second time in its history, thirty years after the 1996 edition, the city becomes a site for reflecting not only on architecture but also on the changing conditions under which it operates. Titled Becoming.",
-    "text_en": "As Barcelona hosts the UIA World Congress of Architects for the second time in its history, thirty years after the 1996 edition, the city becomes a site for reflecting not only on architecture but also on the changing conditions under which it operates. Titled Becoming.",
-    "img": "https://images.pexels.com/photos/14300937/pexels-photo-14300937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1148555/we-want-to-learn-something-new-in-conversation-with-the-curators-of-uia-world-congress-of-architects-barcelona-2026"
   }
 ]
