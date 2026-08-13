@@ -1,5 +1,17 @@
 [
   {
+    "id": "c3d783365f",
+    "date_iso": "2026-08-13T09:00:03.015128",
+    "date_pt": "13 de agosto de 2026",
+    "date_en": "August 13, 2026",
+    "title_pt": "Discover 100 years of American photography in London",
+    "title_en": "Discover 100 years of American photography in London",
+    "text_pt": "‘Portrait of a City: A Century of American Photography’ at Dulwich Picture Gallery traces the eventful journey to a modern USA",
+    "text_en": "‘Portrait of a City: A Century of American Photography’ at Dulwich Picture Gallery traces the eventful journey to a modern USA",
+    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/art/photography/portrait-of-a-city-a-century-of-american-photography-review"
+  },
+  {
     "id": "6cbbc1dbcf",
     "date_iso": "2026-08-12T18:00:03.068366",
     "date_pt": "12 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Khanna Schultz reimagines the suburban home as a series of interconnected pavilions with a hidden bourbon room.",
     "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/a-michigan-house-designed-for-a-collector-of-bourbon-whiskey-and-rare-porsches/"
-  },
-  {
-    "id": "cccc944c72",
-    "date_iso": "2026-07-13T18:00:03.568442",
-    "date_pt": "13 de julho de 2026",
-    "date_en": "July 13, 2026",
-    "title_pt": "Jacarezinho II House / Felipe Hess Arquitetos",
-    "title_en": "Jacarezinho II House / Felipe Hess Arquitetos",
-    "text_pt": "Situated on a one-thousand-square-meter corner lot, the Jacarezinho House is born from the direct relationship between architecture and the garden.",
-    "text_en": "Situated on a one-thousand-square-meter corner lot, the Jacarezinho House is born from the direct relationship between architecture and the garden.",
-    "img": "https://images.pexels.com/photos/12515077/pexels-photo-12515077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1092509/jacarezinho-ii-house-felipe-hess-arquitetos"
   }
 ]
