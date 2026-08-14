@@ -1,5 +1,17 @@
 [
   {
+    "id": "d1cca26c79",
+    "date_iso": "2026-08-14T18:00:02.776068",
+    "date_pt": "14 de agosto de 2026",
+    "date_en": "August 14, 2026",
+    "title_pt": "Want to understand architecture in America? Look at a small town near you",
+    "title_en": "Want to understand architecture in America? Look at a small town near you",
+    "text_pt": "A new book, 'Out There, New Architecture Across America,' proves that some of the best design in the United States is happening well beyond the coasts",
+    "text_en": "A new book, 'Out There, New Architecture Across America,' proves that some of the best design in the United States is happening well beyond the coasts",
+    "img": "https://images.pexels.com/photos/12277197/pexels-photo-12277197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/out-there-architecture-book"
+  },
+  {
     "id": "4c187115d2",
     "date_iso": "2026-08-14T09:00:01.792100",
     "date_pt": "14 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Villa Talha, located at the Costa Terra Golf &amp; Ocean Club in Melides , stands as a consistent example of contemporary Portuguese architecture. Designed by Contacto Atlântico, the villa reflects an approach that balances formal clarity with contextual sensitivity.",
     "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1148745/vila-talha-contacto-atlantico"
-  },
-  {
-    "id": "dd16601109",
-    "date_iso": "2026-07-15T09:00:01.672082",
-    "date_pt": "15 de julho de 2026",
-    "date_en": "July 15, 2026",
-    "title_pt": "Anatomy of a logo: McDonald’s Golden Arches by Jim Schindler",
-    "title_en": "Anatomy of a logo: McDonald’s Golden Arches by Jim Schindler",
-    "text_pt": "Distilled into a single letter atop a pole or on the side of a building, the McDonald's arches are a throwback to a forgotten era of cinematic, aspirational roadside architecture",
-    "text_en": "Distilled into a single letter atop a pole or on the side of a building, the McDonald's arches are a throwback to a forgotten era of cinematic, aspirational roadside architecture",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/corporate-design-branding/mcdonalds-logo-design-golden-arches"
   }
 ]
