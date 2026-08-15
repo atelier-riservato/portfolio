@@ -1,5 +1,17 @@
 [
   {
+    "id": "ba299523a9",
+    "date_iso": "2026-08-15T09:00:01.925255",
+    "date_pt": "15 de agosto de 2026",
+    "date_en": "August 15, 2026",
+    "title_pt": "Headquarters \"MANZ Bel Étage\" / Podrecca Architects",
+    "title_en": "Headquarters \"MANZ Bel Étage\" / Podrecca Architects",
+    "text_pt": "\"MANZ Bel Étage\" is the renovation of a renowned legal publisher's headquarters with original designs by Adolf Loos in Vienna's historic first district.",
+    "text_en": "\"MANZ Bel Étage\" is the renovation of a renowned legal publisher's headquarters with original designs by Adolf Loos in Vienna's historic first district.",
+    "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1183235/headquarters-manz-bel-etage-podrecca-architects"
+  },
+  {
     "id": "d1cca26c79",
     "date_iso": "2026-08-14T18:00:02.776068",
     "date_pt": "14 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "As Aman, Four Seasons, Ritz-Carlton, Waldorf Astoria, and Orient Express launch branded yachts, each is translating its signature design philosophy into a new form of luxury travel.",
     "img": "https://images.pexels.com/photos/19740269/pexels-photo-19740269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/luxury-hospitality-brands-yacht-design/"
-  },
-  {
-    "id": "b55d5d4f0d",
-    "date_iso": "2026-07-15T18:00:03.282447",
-    "date_pt": "15 de julho de 2026",
-    "date_en": "July 15, 2026",
-    "title_pt": "Vila Talha / Contacto Atlântico",
-    "title_en": "Vila Talha / Contacto Atlântico",
-    "text_pt": "Villa Talha, located at the Costa Terra Golf &amp; Ocean Club in Melides , stands as a consistent example of contemporary Portuguese architecture. Designed by Contacto Atlântico, the villa reflects an approach that balances formal clarity with contextual sensitivity.",
-    "text_en": "Villa Talha, located at the Costa Terra Golf &amp; Ocean Club in Melides , stands as a consistent example of contemporary Portuguese architecture. Designed by Contacto Atlântico, the villa reflects an approach that balances formal clarity with contextual sensitivity.",
-    "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1148745/vila-talha-contacto-atlantico"
   }
 ]
