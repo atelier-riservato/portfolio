@@ -1,5 +1,17 @@
 [
   {
+    "id": "0f2fbafc79",
+    "date_iso": "2026-08-15T18:00:02.504264",
+    "date_pt": "15 de agosto de 2026",
+    "date_en": "August 15, 2026",
+    "title_pt": "Nick Sheridan Talks Surfboards, His VW Beetle, Morocco + More",
+    "title_en": "Nick Sheridan Talks Surfboards, His VW Beetle, Morocco + More",
+    "text_pt": "The Cerno co-founder and design director shares the places, objects, and hands-on projects that continue to shape his approach to lighting design",
+    "text_en": "The Cerno co-founder and design director shares the places, objects, and hands-on projects that continue to shape his approach to lighting design",
+    "img": "https://images.pexels.com/photos/28586227/pexels-photo-28586227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/friday-five-nick-sheridan-cerno/"
+  },
+  {
     "id": "ba299523a9",
     "date_iso": "2026-08-15T09:00:01.925255",
     "date_pt": "15 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Presented by Mexico City gallery Ago Projects, Stefanovich’s Salina Collection harnesses the structural quality of marine organisms in fibreglass and bronze",
     "img": "https://images.pexels.com/photos/33257666/pexels-photo-33257666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/lighting/federico-stefanovich-salina-collection"
-  },
-  {
-    "id": "70a17cdca5",
-    "date_iso": "2026-07-16T09:00:02.368566",
-    "date_pt": "16 de julho de 2026",
-    "date_en": "July 16, 2026",
-    "title_pt": "Luxury Hospitality Brands Bring Their Design DNA to the Sea",
-    "title_en": "Luxury Hospitality Brands Bring Their Design DNA to the Sea",
-    "text_pt": "As Aman, Four Seasons, Ritz-Carlton, Waldorf Astoria, and Orient Express launch branded yachts, each is translating its signature design philosophy into a new form of luxury travel.",
-    "text_en": "As Aman, Four Seasons, Ritz-Carlton, Waldorf Astoria, and Orient Express launch branded yachts, each is translating its signature design philosophy into a new form of luxury travel.",
-    "img": "https://images.pexels.com/photos/19740269/pexels-photo-19740269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/luxury-hospitality-brands-yacht-design/"
   }
 ]
