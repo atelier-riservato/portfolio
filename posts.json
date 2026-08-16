@@ -1,5 +1,17 @@
 [
   {
+    "id": "9634c148a2",
+    "date_iso": "2026-08-16T09:00:02.101606",
+    "date_pt": "16 de agosto de 2026",
+    "date_en": "August 16, 2026",
+    "title_pt": "A Layered Wood Landscape Shapes SKIN1004’s SoHo Flagship",
+    "title_en": "A Layered Wood Landscape Shapes SKIN1004’s SoHo Flagship",
+    "text_pt": "LMTLS Architecture layers wood, mirrors, and warm light into a continuous interior inspired by eroded terrain",
+    "text_en": "LMTLS Architecture layers wood, mirrors, and warm light into a continuous interior inspired by eroded terrain",
+    "img": "https://images.pexels.com/photos/212937/pexels-photo-212937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/skin1004-soho-flagship-lmtls-architecture/"
+  },
+  {
     "id": "0f2fbafc79",
     "date_iso": "2026-08-15T18:00:02.504264",
     "date_pt": "15 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Hanslope House in Victoria, designed by Olaver Architecture, is a reimagined suburban house for the future",
     "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/residential/brick-pavilion-house-australia"
-  },
-  {
-    "id": "bdbc944b3f",
-    "date_iso": "2026-07-16T18:00:02.584381",
-    "date_pt": "16 de julho de 2026",
-    "date_en": "July 16, 2026",
-    "title_pt": "Federico Stefanovich looks under the sea for his ethereal new lighting collection",
-    "title_en": "Federico Stefanovich looks under the sea for his ethereal new lighting collection",
-    "text_pt": "Presented by Mexico City gallery Ago Projects, Stefanovich’s Salina Collection harnesses the structural quality of marine organisms in fibreglass and bronze",
-    "text_en": "Presented by Mexico City gallery Ago Projects, Stefanovich’s Salina Collection harnesses the structural quality of marine organisms in fibreglass and bronze",
-    "img": "https://images.pexels.com/photos/33257666/pexels-photo-33257666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/lighting/federico-stefanovich-salina-collection"
   }
 ]
