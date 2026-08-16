@@ -1,5 +1,17 @@
 [
   {
+    "id": "c7ba6a2dc5",
+    "date_iso": "2026-08-16T18:00:02.585766",
+    "date_pt": "16 de agosto de 2026",
+    "date_en": "August 16, 2026",
+    "title_pt": "Chao Phraya River Apartment",
+    "title_en": "Chao Phraya River Apartment",
+    "text_pt": "JUNF STUDIO The post Chao Phraya River Apartment appeared first on Leibal .",
+    "text_en": "JUNF STUDIO The post Chao Phraya River Apartment appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/chao-phraya-river-apartment/"
+  },
+  {
     "id": "9634c148a2",
     "date_iso": "2026-08-16T09:00:02.101606",
     "date_pt": "16 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A towering garden chariot designed by MCA takes centre stage at Palermo's centuries-old Festino di Santa Rosalia –a celebration of life, faith, liberation and belonging",
     "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/festino-di-santa-rosalia-palermo-mario-cucinella-mca"
-  },
-  {
-    "id": "3c0b6b98c0",
-    "date_iso": "2026-07-17T09:00:01.882035",
-    "date_pt": "17 de julho de 2026",
-    "date_en": "July 17, 2026",
-    "title_pt": "Inspired by its rare double-corner site, a brick pavilion in Australia ‘redefines suburban living’",
-    "title_en": "Inspired by its rare double-corner site, a brick pavilion in Australia ‘redefines suburban living’",
-    "text_pt": "Hanslope House in Victoria, designed by Olaver Architecture, is a reimagined suburban house for the future",
-    "text_en": "Hanslope House in Victoria, designed by Olaver Architecture, is a reimagined suburban house for the future",
-    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/residential/brick-pavilion-house-australia"
   }
 ]
