@@ -1,5 +1,17 @@
 [
   {
+    "id": "ff9a951060",
+    "date_iso": "2026-08-17T09:00:02.513266",
+    "date_pt": "17 de agosto de 2026",
+    "date_en": "August 17, 2026",
+    "title_pt": "This Mexico City Wellness Studio Turns Alignment Into Architecture",
+    "title_en": "This Mexico City Wellness Studio Turns Alignment Into Architecture",
+    "text_pt": "Talo Atelier uses rhythmic oak slats, curved openings, warm light, and intuitive circulation to create a Pilates and yoga studio designed as a journey inward",
+    "text_en": "Talo Atelier uses rhythmic oak slats, curved openings, warm light, and intuitive circulation to create a Pilates and yoga studio designed as a journey inward",
+    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/align-studio-talo-atelier-mexico-city/"
+  },
+  {
     "id": "c7ba6a2dc5",
     "date_iso": "2026-08-16T18:00:02.585766",
     "date_pt": "16 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "This summer, our Anatomy of a Logo series looks at 14 examples of how creative ingenuity combined with design and brilliant marketing to give birth to some of the world's most celebrated logos",
     "img": "https://images.pexels.com/photos/7518747/pexels-photo-7518747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/corporate-design-branding/legendary-usa-logos-explained"
-  },
-  {
-    "id": "f63b921a82",
-    "date_iso": "2026-07-17T18:00:02.770020",
-    "date_pt": "17 de julho de 2026",
-    "date_en": "July 17, 2026",
-    "title_pt": "‘We all need a little madness’: Mario Cucinella brings a living garden to Palermo’s Festino di Santa Rosalia",
-    "title_en": "‘We all need a little madness’: Mario Cucinella brings a living garden to Palermo’s Festino di Santa Rosalia",
-    "text_pt": "A towering garden chariot designed by MCA takes centre stage at Palermo's centuries-old Festino di Santa Rosalia –a celebration of life, faith, liberation and belonging",
-    "text_en": "A towering garden chariot designed by MCA takes centre stage at Palermo's centuries-old Festino di Santa Rosalia –a celebration of life, faith, liberation and belonging",
-    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/festino-di-santa-rosalia-palermo-mario-cucinella-mca"
   }
 ]
