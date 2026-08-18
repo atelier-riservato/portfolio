@@ -1,5 +1,17 @@
 [
   {
+    "id": "cceffec5a8",
+    "date_iso": "2026-08-18T18:00:03.871188",
+    "date_pt": "18 de agosto de 2026",
+    "date_en": "August 18, 2026",
+    "title_pt": "Damata House / Melina Romano",
+    "title_en": "Damata House / Melina Romano",
+    "text_pt": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship between the residence and its surrounding landscape.",
+    "text_en": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship between the residence and its surrounding landscape.",
+    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1183504/damata-house-melina-romano"
+  },
+  {
     "id": "b7c637beec",
     "date_iso": "2026-08-18T09:00:02.580467",
     "date_pt": "18 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Wallpaper* celebrates the legacy of Teruo Kurosaki, founder of the Tokyo-based furniture company Idée and custodian of aspiring designers from Marc Newson to Philippe Starck",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/remembering-teruo-kurosaki-idee-aoyama-founder"
-  },
-  {
-    "id": "223a0d6c3d",
-    "date_iso": "2026-07-19T09:00:02.290733",
-    "date_pt": "19 de julho de 2026",
-    "date_en": "July 19, 2026",
-    "title_pt": "F5: Price Latimer on Scuba Diving, Leigh Bowery, Yoko Ono + More",
-    "title_en": "F5: Price Latimer on Scuba Diving, Leigh Bowery, Yoko Ono + More",
-    "text_pt": "The Alkemis Paint co-founder shares the artists, landscapes, and experiences that continue to shape her creative perspective",
-    "text_en": "The Alkemis Paint co-founder shares the artists, landscapes, and experiences that continue to shape her creative perspective",
-    "img": "https://images.pexels.com/photos/33827318/pexels-photo-33827318.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/friday-five-price-latimer-alkemis-paint/"
   }
 ]
