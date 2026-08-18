@@ -1,5 +1,17 @@
 [
   {
+    "id": "b7c637beec",
+    "date_iso": "2026-08-18T09:00:02.580467",
+    "date_pt": "18 de agosto de 2026",
+    "date_en": "August 18, 2026",
+    "title_pt": "Graham Foundation Announces 45 New Grants for Projects Expanding Architectural Discourse in 2026",
+    "title_en": "Graham Foundation Announces 45 New Grants for Projects Expanding Architectural Discourse in 2026",
+    "text_pt": "Since 1956, the Graham Foundation for Advanced Studies in the Fine Arts has fostered the development and exchange of ideas about architecture and its role in the arts, culture, and society.",
+    "text_en": "Since 1956, the Graham Foundation for Advanced Studies in the Fine Arts has fostered the development and exchange of ideas about architecture and its role in the arts, culture, and society.",
+    "img": "https://images.pexels.com/photos/6920451/pexels-photo-6920451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1183472/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026"
+  },
+  {
     "id": "063a71852f",
     "date_iso": "2026-08-17T18:00:03.277706",
     "date_pt": "17 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Alkemis Paint co-founder shares the artists, landscapes, and experiences that continue to shape her creative perspective",
     "img": "https://images.pexels.com/photos/33827318/pexels-photo-33827318.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/friday-five-price-latimer-alkemis-paint/"
-  },
-  {
-    "id": "5d9188b73b",
-    "date_iso": "2026-07-18T18:00:02.687519",
-    "date_pt": "18 de julho de 2026",
-    "date_en": "July 18, 2026",
-    "title_pt": "Umbral Floral Pavilion / Cerron Arquitectos",
-    "title_en": "Umbral Floral Pavilion / Cerron Arquitectos",
-    "text_pt": "The Umbral Floral Pavilion was conceived to regenerate the main access path to CASACOR Peru 2026, located at the Jockey Club del Perú, transforming a circulation route into a sequence of public spaces.",
-    "text_en": "The Umbral Floral Pavilion was conceived to regenerate the main access path to CASACOR Peru 2026, located at the Jockey Club del Perú, transforming a circulation route into a sequence of public spaces.",
-    "img": "https://images.pexels.com/photos/1796724/pexels-photo-1796724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1148873/umbral-floral-pavilion-cerron-arquitectos"
   }
 ]
