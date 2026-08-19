@@ -1,5 +1,17 @@
 [
   {
+    "id": "3e0bc532a4",
+    "date_iso": "2026-08-19T09:00:01.607704",
+    "date_pt": "19 de agosto de 2026",
+    "date_en": "August 19, 2026",
+    "title_pt": "Inside a Toluca Lake House That Finds Depth in a Narrow Palette",
+    "title_en": "Inside a Toluca Lake House That Finds Depth in a Narrow Palette",
+    "text_pt": "Lidan Sfadia layers mohair, linen, limestone, oak, and aged metals to give a restrained Los Angeles interior dimension without relying on color",
+    "text_en": "Lidan Sfadia layers mohair, linen, limestone, oak, and aged metals to give a restrained Los Angeles interior dimension without relying on color",
+    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/lidan-sfadia-toluca-lake-home/"
+  },
+  {
     "id": "cceffec5a8",
     "date_iso": "2026-08-18T18:00:03.871188",
     "date_pt": "18 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "MoreIn Design The post Home for Mutual Gaze appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/home-for-mutual-gaze/"
-  },
-  {
-    "id": "bba734cc7d",
-    "date_iso": "2026-07-19T18:00:01.885892",
-    "date_pt": "19 de julho de 2026",
-    "date_en": "July 19, 2026",
-    "title_pt": "Remembering Teruo Kurosaki, a creative entrepreneur who embodied Japan in the 1980s",
-    "title_en": "Remembering Teruo Kurosaki, a creative entrepreneur who embodied Japan in the 1980s",
-    "text_pt": "Wallpaper* celebrates the legacy of Teruo Kurosaki, founder of the Tokyo-based furniture company Idée and custodian of aspiring designers from Marc Newson to Philippe Starck",
-    "text_en": "Wallpaper* celebrates the legacy of Teruo Kurosaki, founder of the Tokyo-based furniture company Idée and custodian of aspiring designers from Marc Newson to Philippe Starck",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/remembering-teruo-kurosaki-idee-aoyama-founder"
   }
 ]
