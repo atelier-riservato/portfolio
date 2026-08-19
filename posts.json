@@ -1,5 +1,17 @@
 [
   {
+    "id": "82a09fd20f",
+    "date_iso": "2026-08-19T18:00:03.284280",
+    "date_pt": "19 de agosto de 2026",
+    "date_en": "August 19, 2026",
+    "title_pt": "Studio Mehta's Kenyan retreat is luxuriously built using local and recycled materials",
+    "title_en": "Studio Mehta's Kenyan retreat is luxuriously built using local and recycled materials",
+    "text_pt": "Welcome Studio Mehta, an emerging architecture studio from Kenya, to the Wallpaper* Architects Directory 2026",
+    "text_en": "Welcome Studio Mehta, an emerging architecture studio from Kenya, to the Wallpaper* Architects Directory 2026",
+    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/architects-directory/studio-mehta-kenya"
+  },
+  {
     "id": "3e0bc532a4",
     "date_iso": "2026-08-19T09:00:01.607704",
     "date_pt": "19 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Office of Tangible Space The post Springs Residence appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/springs-residence/"
-  },
-  {
-    "id": "a014f56533",
-    "date_iso": "2026-07-20T09:00:01.897411",
-    "date_pt": "20 de julho de 2026",
-    "date_en": "July 20, 2026",
-    "title_pt": "Home for Mutual Gaze",
-    "title_en": "Home for Mutual Gaze",
-    "text_pt": "MoreIn Design The post Home for Mutual Gaze appeared first on Leibal .",
-    "text_en": "MoreIn Design The post Home for Mutual Gaze appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/home-for-mutual-gaze/"
   }
 ]
