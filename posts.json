@@ -1,5 +1,17 @@
 [
   {
+    "id": "3f3682fc28",
+    "date_iso": "2026-08-20T18:00:03.274438",
+    "date_pt": "20 de agosto de 2026",
+    "date_en": "August 20, 2026",
+    "title_pt": "This minimalist villa by Othmane Bengebara is conceived for both gatherings and retreat",
+    "title_en": "This minimalist villa by Othmane Bengebara is conceived for both gatherings and retreat",
+    "text_pt": "Othmane Bengebara joins the Wallpaper* Architects Directory 2026 – representing Morocco with House Ddaar, a home for art and craft",
+    "text_en": "Othmane Bengebara joins the Wallpaper* Architects Directory 2026 – representing Morocco with House Ddaar, a home for art and craft",
+    "img": "https://images.pexels.com/photos/12277127/pexels-photo-12277127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/architects-directory/othmane-bengebara-studio-morocco"
+  },
+  {
     "id": "39b727ad03",
     "date_iso": "2026-08-20T09:00:02.874554",
     "date_pt": "20 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Natural materials, subtle textures, and durable finishes prove minimalist interiors can be both elegant and eminently livable",
     "img": "https://images.pexels.com/photos/17531832/pexels-photo-17531832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/tharon-anderson-design-wellesley-home/"
-  },
-  {
-    "id": "eb0cec27cf",
-    "date_iso": "2026-07-21T09:00:02.288379",
-    "date_pt": "21 de julho de 2026",
-    "date_en": "July 21, 2026",
-    "title_pt": "Land of Peace",
-    "title_en": "Land of Peace",
-    "text_pt": "Design Chou The post Land of Peace appeared first on Leibal .",
-    "text_en": "Design Chou The post Land of Peace appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/14809401/pexels-photo-14809401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/land-of-peace/"
   }
 ]
