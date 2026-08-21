@@ -1,5 +1,17 @@
 [
   {
+    "id": "ad0d885914",
+    "date_iso": "2026-08-21T09:00:01.578035",
+    "date_pt": "21 de agosto de 2026",
+    "date_en": "August 21, 2026",
+    "title_pt": "Is your home ‘ultra-processed’? Why architects are rethinking what we build with",
+    "title_en": "Is your home ‘ultra-processed’? Why architects are rethinking what we build with",
+    "text_pt": "Is our architecture ultra-processed? And if so, what does it mean? We take a deep dive into how we build and explore buildings as 'one of the greatest public health opportunities of this century'",
+    "text_en": "Is our architecture ultra-processed? And if so, what does it mean? We take a deep dive into how we build and explore buildings as 'one of the greatest public health opportunities of this century'",
+    "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/ultra-processed-architecture"
+  },
+  {
     "id": "3f3682fc28",
     "date_iso": "2026-08-20T18:00:03.274438",
     "date_pt": "20 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A journey showcasing love, the inferiority complex it brought, and how I overcame it. It all started when society brutally declared that expressing love was a 'sin'.",
     "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1181267/museum-of-humanity-studio-apaaar"
-  },
-  {
-    "id": "a9508f49ce",
-    "date_iso": "2026-07-21T18:00:03.268313",
-    "date_pt": "21 de julho de 2026",
-    "date_en": "July 21, 2026",
-    "title_pt": "A Wellesley Home Where Quiet Luxury Meets Everyday Life",
-    "title_en": "A Wellesley Home Where Quiet Luxury Meets Everyday Life",
-    "text_pt": "Natural materials, subtle textures, and durable finishes prove minimalist interiors can be both elegant and eminently livable",
-    "text_en": "Natural materials, subtle textures, and durable finishes prove minimalist interiors can be both elegant and eminently livable",
-    "img": "https://images.pexels.com/photos/17531832/pexels-photo-17531832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/tharon-anderson-design-wellesley-home/"
   }
 ]
