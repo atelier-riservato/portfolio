@@ -1,5 +1,17 @@
 [
   {
+    "id": "439bbede43",
+    "date_iso": "2026-08-21T18:00:03.764947",
+    "date_pt": "21 de agosto de 2026",
+    "date_en": "August 21, 2026",
+    "title_pt": "Ford + Filson Rethink What a Luxury Bronco Looks Like",
+    "title_en": "Ford + Filson Rethink What a Luxury Bronco Looks Like",
+    "text_pt": "The Bronco Filson trades conventional luxury cues for rugged materials, functional details, and an interior designed to get better with use",
+    "text_en": "The Bronco Filson trades conventional luxury cues for rugged materials, functional details, and an interior designed to get better with use",
+    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/ford-bronco-filson/"
+  },
+  {
     "id": "ad0d885914",
     "date_iso": "2026-08-21T09:00:01.578035",
     "date_pt": "21 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "'Geometry of Play' transforms Pittsburgh’s newest civic space with a colorful mural that invites players to become part of the composition",
     "img": "https://images.pexels.com/photos/28505501/pexels-photo-28505501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/sharmistha-ray-turns-pickleball-courts-into-a-playable-work-of-public-art/"
-  },
-  {
-    "id": "eefce3dd92",
-    "date_iso": "2026-07-22T09:00:01.721810",
-    "date_pt": "22 de julho de 2026",
-    "date_en": "July 22, 2026",
-    "title_pt": "Museum of Humanity / studio apaaar",
-    "title_en": "Museum of Humanity / studio apaaar",
-    "text_pt": "A journey showcasing love, the inferiority complex it brought, and how I overcame it. It all started when society brutally declared that expressing love was a 'sin'.",
-    "text_en": "A journey showcasing love, the inferiority complex it brought, and how I overcame it. It all started when society brutally declared that expressing love was a 'sin'.",
-    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1181267/museum-of-humanity-studio-apaaar"
   }
 ]
