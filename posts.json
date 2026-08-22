@@ -1,5 +1,17 @@
 [
   {
+    "id": "583ffca021",
+    "date_iso": "2026-08-22T09:00:01.778513",
+    "date_pt": "22 de agosto de 2026",
+    "date_en": "August 22, 2026",
+    "title_pt": "Yaku – Sustainable Urban Runoff Management Module / El Sindicato Arquitectura",
+    "title_en": "Yaku – Sustainable Urban Runoff Management Module / El Sindicato Arquitectura",
+    "text_pt": "Isla Tortuga Park, located in northern Quito , Ecuador, was selected for the implementation of the Yaku (meaning \"water\" in Kichwa) prototype. This modular urban furniture project blends public space with sustainable rainwater and biodiversity management.",
+    "text_en": "Isla Tortuga Park, located in northern Quito , Ecuador, was selected for the implementation of the Yaku (meaning \"water\" in Kichwa) prototype. This modular urban furniture project blends public space with sustainable rainwater and biodiversity management.",
+    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1183770/yaku-sustainable-urban-runoff-management-module-el-sindicato-arquitectura"
+  },
+  {
     "id": "439bbede43",
     "date_iso": "2026-08-21T18:00:03.764947",
     "date_pt": "21 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Dolomites resort extends the design language behind its iconic Sky Pool and Heaven &#038; Hell sauna into a reimagined lobby and panoramic wellness spaces",
     "img": "https://images.pexels.com/photos/28586227/pexels-photo-28586227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/hotel-hubertus-spa-expansion/"
-  },
-  {
-    "id": "c4d52c9d94",
-    "date_iso": "2026-07-22T18:00:03.383889",
-    "date_pt": "22 de julho de 2026",
-    "date_en": "July 22, 2026",
-    "title_pt": "Sharmistha Ray Turns Pickleball Courts Into a Playable Work of Public Art",
-    "title_en": "Sharmistha Ray Turns Pickleball Courts Into a Playable Work of Public Art",
-    "text_pt": "'Geometry of Play' transforms Pittsburgh’s newest civic space with a colorful mural that invites players to become part of the composition",
-    "text_en": "'Geometry of Play' transforms Pittsburgh’s newest civic space with a colorful mural that invites players to become part of the composition",
-    "img": "https://images.pexels.com/photos/28505501/pexels-photo-28505501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/sharmistha-ray-turns-pickleball-courts-into-a-playable-work-of-public-art/"
   }
 ]
