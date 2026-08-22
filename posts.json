@@ -1,5 +1,17 @@
 [
   {
+    "id": "1cd536afb7",
+    "date_iso": "2026-08-22T18:00:02.587359",
+    "date_pt": "22 de agosto de 2026",
+    "date_en": "August 22, 2026",
+    "title_pt": "Skyline Workscape",
+    "title_en": "Skyline Workscape",
+    "text_pt": "Studio Per The post Skyline Workscape appeared first on Leibal .",
+    "text_en": "Studio Per The post Skyline Workscape appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/28586227/pexels-photo-28586227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/skyline-workscape/"
+  },
+  {
     "id": "583ffca021",
     "date_iso": "2026-08-22T09:00:01.778513",
     "date_pt": "22 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A full-scale vitrine for automotive display, this city structure is home to an impressive collection of Porsches old and new, with architecture designed to show off the collection from every angle",
     "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/alessandro-isola-studio-porsche-collectors-garage"
-  },
-  {
-    "id": "78b534dba1",
-    "date_iso": "2026-07-23T09:00:02.198666",
-    "date_pt": "23 de julho de 2026",
-    "date_en": "July 23, 2026",
-    "title_pt": "Hotel Hubertus Completes Its Architectural Vision With a Spa Expansion",
-    "title_en": "Hotel Hubertus Completes Its Architectural Vision With a Spa Expansion",
-    "text_pt": "The Dolomites resort extends the design language behind its iconic Sky Pool and Heaven &#038; Hell sauna into a reimagined lobby and panoramic wellness spaces",
-    "text_en": "The Dolomites resort extends the design language behind its iconic Sky Pool and Heaven &#038; Hell sauna into a reimagined lobby and panoramic wellness spaces",
-    "img": "https://images.pexels.com/photos/28586227/pexels-photo-28586227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/hotel-hubertus-spa-expansion/"
   }
 ]
