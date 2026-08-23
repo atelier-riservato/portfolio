@@ -1,5 +1,17 @@
 [
   {
+    "id": "babfbd903d",
+    "date_iso": "2026-08-23T18:00:02.761918",
+    "date_pt": "23 de agosto de 2026",
+    "date_en": "August 23, 2026",
+    "title_pt": "Zimbro House / Stemmer Rodrigues Arquitetura",
+    "title_en": "Zimbro House / Stemmer Rodrigues Arquitetura",
+    "text_pt": "Casa Zimbro was born from the search for an architecture in continuity with the landscape, where the construction does not impose itself on its surroundings but rather integrates with them in a natural and sensitive way.",
+    "text_en": "Casa Zimbro was born from the search for an architecture in continuity with the landscape, where the construction does not impose itself on its surroundings but rather integrates with them in a natural and sensitive way.",
+    "img": "https://images.pexels.com/photos/7518747/pexels-photo-7518747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura"
+  },
+  {
     "id": "5d57406b2b",
     "date_iso": "2026-08-23T09:00:02.232801",
     "date_pt": "23 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Municipality of Pristina / Capital City has initiated a comprehensive and inclusive planning process for the development of the Capital City Cemetery of Pristina, conceived as a contemporary civic, memorial, landscape, and digital public infrastructure of long-term importance...",
     "img": "https://images.pexels.com/photos/33935830/pexels-photo-33935830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1181601/design-competition-for-the-prishtina-city-cemetery"
-  },
-  {
-    "id": "9cf89a109d",
-    "date_iso": "2026-07-24T09:00:01.767483",
-    "date_pt": "24 de julho de 2026",
-    "date_en": "July 24, 2026",
-    "title_pt": "A Historic New Orleans Car Dealership Finds New Life as a Cocktail Lounge",
-    "title_en": "A Historic New Orleans Car Dealership Finds New Life as a Cocktail Lounge",
-    "text_pt": "Inside Hotel Perle, Charles &#038; Julia reimagines a historic car dealership with vintage furnishings, rich materials, and quiet references to the city",
-    "text_en": "Inside Hotel Perle, Charles &#038; Julia reimagines a historic car dealership with vintage furnishings, rich materials, and quiet references to the city",
-    "img": "https://images.pexels.com/photos/10508622/pexels-photo-10508622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/charles-julia-hotel-perle-new-orleans/"
   }
 ]
