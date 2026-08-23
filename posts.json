@@ -1,5 +1,17 @@
 [
   {
+    "id": "5d57406b2b",
+    "date_iso": "2026-08-23T09:00:02.232801",
+    "date_pt": "23 de agosto de 2026",
+    "date_en": "August 23, 2026",
+    "title_pt": "Darling Point Apartment",
+    "title_en": "Darling Point Apartment",
+    "text_pt": "Studio ZAWA The post Darling Point Apartment appeared first on Leibal .",
+    "text_en": "Studio ZAWA The post Darling Point Apartment appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/darling-point-apartment/"
+  },
+  {
     "id": "1cd536afb7",
     "date_iso": "2026-08-22T18:00:02.587359",
     "date_pt": "22 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Inside Hotel Perle, Charles &#038; Julia reimagines a historic car dealership with vintage furnishings, rich materials, and quiet references to the city",
     "img": "https://images.pexels.com/photos/10508622/pexels-photo-10508622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/charles-julia-hotel-perle-new-orleans/"
-  },
-  {
-    "id": "24625a6366",
-    "date_iso": "2026-07-23T18:00:03.571313",
-    "date_pt": "23 de julho de 2026",
-    "date_en": "July 23, 2026",
-    "title_pt": "Alessandro Isola Studio creates a unique space for a client with a passion for Porsches",
-    "title_en": "Alessandro Isola Studio creates a unique space for a client with a passion for Porsches",
-    "text_pt": "A full-scale vitrine for automotive display, this city structure is home to an impressive collection of Porsches old and new, with architecture designed to show off the collection from every angle",
-    "text_en": "A full-scale vitrine for automotive display, this city structure is home to an impressive collection of Porsches old and new, with architecture designed to show off the collection from every angle",
-    "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/alessandro-isola-studio-porsche-collectors-garage"
   }
 ]
