@@ -1,5 +1,17 @@
 [
   {
+    "id": "9125cfd111",
+    "date_iso": "2026-08-24T09:00:01.472315",
+    "date_pt": "24 de agosto de 2026",
+    "date_en": "August 24, 2026",
+    "title_pt": "Elevate the everyday with this sculptural lighter",
+    "title_en": "Elevate the everyday with this sculptural lighter",
+    "text_pt": "Sculpted from brass, handcrafted in India, and totally refillable, the Kayla Lighter by Los Angeles design brand Dumæ is designed to be displayed just as much as it is used",
+    "text_en": "Sculpted from brass, handcrafted in India, and totally refillable, the Kayla Lighter by Los Angeles design brand Dumæ is designed to be displayed just as much as it is used",
+    "img": "https://images.pexels.com/photos/10508622/pexels-photo-10508622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/dumae-kayla-lighter"
+  },
+  {
     "id": "babfbd903d",
     "date_iso": "2026-08-23T18:00:02.761918",
     "date_pt": "23 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "As Range Rover reveals the forthcoming GT EV, we take a look inside and explore the ways in which the manufacturer’s interior approach is evolving",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/transportation/range-rover-evs-2026"
-  },
-  {
-    "id": "0aee7c59fb",
-    "date_iso": "2026-07-24T18:00:03.083854",
-    "date_pt": "24 de julho de 2026",
-    "date_en": "July 24, 2026",
-    "title_pt": "Design Competition for the Prishtina City Cemetery",
-    "title_en": "Design Competition for the Prishtina City Cemetery",
-    "text_pt": "The Municipality of Pristina / Capital City has initiated a comprehensive and inclusive planning process for the development of the Capital City Cemetery of Pristina, conceived as a contemporary civic, memorial, landscape, and digital public infrastructure of long-term importance...",
-    "text_en": "The Municipality of Pristina / Capital City has initiated a comprehensive and inclusive planning process for the development of the Capital City Cemetery of Pristina, conceived as a contemporary civic, memorial, landscape, and digital public infrastructure of long-term importance...",
-    "img": "https://images.pexels.com/photos/33935830/pexels-photo-33935830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1181601/design-competition-for-the-prishtina-city-cemetery"
   }
 ]
