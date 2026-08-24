@@ -1,5 +1,17 @@
 [
   {
+    "id": "1fa22c15cf",
+    "date_iso": "2026-08-24T18:00:03.278841",
+    "date_pt": "24 de agosto de 2026",
+    "date_en": "August 24, 2026",
+    "title_pt": "90/100 Mixed Use Project / 5468796 Architecture",
+    "title_en": "90/100 Mixed Use Project / 5468796 Architecture",
+    "text_pt": "On a long parcel at the edge of Winnipeg's East Exchange District, 90/100, named for its address, unites a 1905 warehouse with a seven-storey contemporary volume to create a medium-density, mixed-use development.",
+    "text_en": "On a long parcel at the edge of Winnipeg's East Exchange District, 90/100, named for its address, unites a 1905 warehouse with a seven-storey contemporary volume to create a medium-density, mixed-use development.",
+    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1182206/90-100-mixed-use-project-5468796-architecture"
+  },
+  {
     "id": "9125cfd111",
     "date_iso": "2026-08-24T09:00:01.472315",
     "date_pt": "24 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "On the heels of her expanded homeware collection, the celebrated fashion designer shares how to transform the ordinary into something spectacular, from homemade pavlova or heirloom cocktail napkins",
     "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/entertaining/how-we-host-emilia-wickstead"
-  },
-  {
-    "id": "b8bbf2a164",
-    "date_iso": "2026-07-25T09:00:01.623735",
-    "date_pt": "25 de julho de 2026",
-    "date_en": "July 25, 2026",
-    "title_pt": "Range Rover is readying a trio of EVs, all with a fresh focus on refined interior luxury",
-    "title_en": "Range Rover is readying a trio of EVs, all with a fresh focus on refined interior luxury",
-    "text_pt": "As Range Rover reveals the forthcoming GT EV, we take a look inside and explore the ways in which the manufacturer’s interior approach is evolving",
-    "text_en": "As Range Rover reveals the forthcoming GT EV, we take a look inside and explore the ways in which the manufacturer’s interior approach is evolving",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/transportation/range-rover-evs-2026"
   }
 ]
