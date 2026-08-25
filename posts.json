@@ -1,5 +1,17 @@
 [
   {
+    "id": "3acea44b8b",
+    "date_iso": "2026-08-25T09:00:01.586210",
+    "date_pt": "25 de agosto de 2026",
+    "date_en": "August 25, 2026",
+    "title_pt": "Go underground at Qode, Hyderabad’s newest basement bar",
+    "title_en": "Go underground at Qode, Hyderabad’s newest basement bar",
+    "text_pt": "Studio Nilasha transforms an overlooked basement near Gandipet Lake with green marble, jewel tones and an open-air lounge",
+    "text_en": "Studio Nilasha transforms an overlooked basement near Gandipet Lake with green marble, jewel tones and an open-air lounge",
+    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/travel/bars/qode-hyderabad-review"
+  },
+  {
     "id": "1fa22c15cf",
     "date_iso": "2026-08-24T18:00:03.278841",
     "date_pt": "24 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Set in the canyons of Mission Hills, this post-and-beam residence – with its cedar walls and glass expanses framing views to the Pacific – is one of the finest-preserved works from the architect's career",
     "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/residential/richard-lareau-bone-residence-san-diego-modernism"
-  },
-  {
-    "id": "63c8efcd22",
-    "date_iso": "2026-07-25T18:00:02.283520",
-    "date_pt": "25 de julho de 2026",
-    "date_en": "July 25, 2026",
-    "title_pt": "Emilia Wickstead on celebrating the every day: ‘Why wait for a special occasion?'",
-    "title_en": "Emilia Wickstead on celebrating the every day: ‘Why wait for a special occasion?'",
-    "text_pt": "On the heels of her expanded homeware collection, the celebrated fashion designer shares how to transform the ordinary into something spectacular, from homemade pavlova or heirloom cocktail napkins",
-    "text_en": "On the heels of her expanded homeware collection, the celebrated fashion designer shares how to transform the ordinary into something spectacular, from homemade pavlova or heirloom cocktail napkins",
-    "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/entertaining/how-we-host-emilia-wickstead"
   }
 ]
