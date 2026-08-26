@@ -1,5 +1,17 @@
 [
   {
+    "id": "b9c1dd4670",
+    "date_iso": "2026-08-26T18:00:04.065179",
+    "date_pt": "26 de agosto de 2026",
+    "date_en": "August 26, 2026",
+    "title_pt": "Kemetale Revives the Art of Slow Travel on the Nile",
+    "title_en": "Kemetale Revives the Art of Slow Travel on the Nile",
+    "text_pt": "A reimagined Egyptian dahabeah pairs a centuries-old mode of travel with contemporary interiors, local craftsmanship, and an itinerary designed around the pleasures of drifting",
+    "text_en": "A reimagined Egyptian dahabeah pairs a centuries-old mode of travel with contemporary interiors, local craftsmanship, and an itinerary designed around the pleasures of drifting",
+    "img": "https://images.pexels.com/photos/7598375/pexels-photo-7598375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/kemetale-egyptian-dahabeah-nile/"
+  },
+  {
     "id": "367e5cf633",
     "date_iso": "2026-08-26T09:00:01.873470",
     "date_pt": "26 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "What's a Mah Jong sofa? Inspired by Charli XCX's shopping list in 'Card Declined', we take you on a deep dive into the history of one of contemporary design's most eclectic pieces of furniture",
     "img": "https://images.pexels.com/photos/14300937/pexels-photo-14300937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/furniture/mah-jong-sofa-hans-hopfer-design-icon"
-  },
-  {
-    "id": "c574681b2c",
-    "date_iso": "2026-07-27T09:00:02.347269",
-    "date_pt": "27 de julho de 2026",
-    "date_en": "July 27, 2026",
-    "title_pt": "Apartment 1701",
-    "title_en": "Apartment 1701",
-    "text_pt": "Studio Hasta The post Apartment 1701 appeared first on Leibal .",
-    "text_en": "Studio Hasta The post Apartment 1701 appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/apartment-1701/"
   }
 ]
