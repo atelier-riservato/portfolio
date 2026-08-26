@@ -1,5 +1,17 @@
 [
   {
+    "id": "367e5cf633",
+    "date_iso": "2026-08-26T09:00:01.873470",
+    "date_pt": "26 de agosto de 2026",
+    "date_en": "August 26, 2026",
+    "title_pt": "Valspar’s 2027 Color of the Year Makes a Case for Blue as the New Neutral",
+    "title_en": "Valspar’s 2027 Color of the Year Makes a Case for Blue as the New Neutral",
+    "text_pt": "Cottage Door is a muted mid-tone blue designed to bring a little more color—and personality—to the neutral home",
+    "text_en": "Cottage Door is a muted mid-tone blue designed to bring a little more color—and personality—to the neutral home",
+    "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/valspar-2027-color-of-the-year-cottage-door/"
+  },
+  {
     "id": "22b3d5c391",
     "date_iso": "2026-08-25T18:00:03.465221",
     "date_pt": "25 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Studio Hasta The post Apartment 1701 appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/apartment-1701/"
-  },
-  {
-    "id": "2273c1ffa5",
-    "date_iso": "2026-07-26T18:00:02.770384",
-    "date_pt": "26 de julho de 2026",
-    "date_en": "July 26, 2026",
-    "title_pt": "When Renault took to the sky: revisiting the elegant 1930s Caudron Rafale racing plane",
-    "title_en": "When Renault took to the sky: revisiting the elegant 1930s Caudron Rafale racing plane",
-    "text_pt": "Renault’s history includes this superb piece of aviation design, the 1934 Caudron Rafale C.460, a name that's gone on to grace a contemporary car",
-    "text_en": "Renault’s history includes this superb piece of aviation design, the 1934 Caudron Rafale C.460, a name that's gone on to grace a contemporary car",
-    "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/transportation/renault-1930s-caudron-rafale-racing-plane"
   }
 ]
