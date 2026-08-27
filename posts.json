@@ -1,5 +1,17 @@
 [
   {
+    "id": "6d57ab124c",
+    "date_iso": "2026-08-27T09:00:01.583294",
+    "date_pt": "27 de agosto de 2026",
+    "date_en": "August 27, 2026",
+    "title_pt": "Villa Österlen",
+    "title_en": "Villa Österlen",
+    "text_pt": "Note Design Studio The post Villa Österlen appeared first on Leibal .",
+    "text_en": "Note Design Studio The post Villa Österlen appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/10508622/pexels-photo-10508622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/villa-osterlen/"
+  },
+  {
     "id": "b9c1dd4670",
     "date_iso": "2026-08-26T18:00:04.065179",
     "date_pt": "26 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Toronto-based designer layers color, texture, and personality into a Net Zero Ready suburban home built for everyday life",
     "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/gillian-gillies-net-zero-ready-toronto-home/"
-  },
-  {
-    "id": "1fcdb2ae33",
-    "date_iso": "2026-07-27T18:00:03.378379",
-    "date_pt": "27 de julho de 2026",
-    "date_en": "July 27, 2026",
-    "title_pt": "The Mah Jong sofa has officially entered pop culture",
-    "title_en": "The Mah Jong sofa has officially entered pop culture",
-    "text_pt": "What's a Mah Jong sofa? Inspired by Charli XCX's shopping list in 'Card Declined', we take you on a deep dive into the history of one of contemporary design's most eclectic pieces of furniture",
-    "text_en": "What's a Mah Jong sofa? Inspired by Charli XCX's shopping list in 'Card Declined', we take you on a deep dive into the history of one of contemporary design's most eclectic pieces of furniture",
-    "img": "https://images.pexels.com/photos/14300937/pexels-photo-14300937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/furniture/mah-jong-sofa-hans-hopfer-design-icon"
   }
 ]
