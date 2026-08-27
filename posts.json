@@ -1,5 +1,17 @@
 [
   {
+    "id": "3ac4bcae46",
+    "date_iso": "2026-08-27T18:00:03.086019",
+    "date_pt": "27 de agosto de 2026",
+    "date_en": "August 27, 2026",
+    "title_pt": "Greenwich Residence",
+    "title_en": "Greenwich Residence",
+    "text_pt": "Decollab Studio The post Greenwich Residence appeared first on Leibal .",
+    "text_en": "Decollab Studio The post Greenwich Residence appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/greenwich-residence/"
+  },
+  {
     "id": "6d57ab124c",
     "date_iso": "2026-08-27T09:00:01.583294",
     "date_pt": "27 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Abu Dhabi's Department of Culture and Tourism has announced that Guggenheim Abu Dhabi will open to the public on December 11, 2026, on Saadiyat Island.",
     "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1181770/guggenheim-abu-dhabi-by-frank-gehry-to-open-in-december"
-  },
-  {
-    "id": "cd37b0c534",
-    "date_iso": "2026-07-28T09:00:01.688438",
-    "date_pt": "28 de julho de 2026",
-    "date_en": "July 28, 2026",
-    "title_pt": "Gillian Gillies Reimagines Sustainable Design as a Warm Embrace",
-    "title_en": "Gillian Gillies Reimagines Sustainable Design as a Warm Embrace",
-    "text_pt": "The Toronto-based designer layers color, texture, and personality into a Net Zero Ready suburban home built for everyday life",
-    "text_en": "The Toronto-based designer layers color, texture, and personality into a Net Zero Ready suburban home built for everyday life",
-    "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/gillian-gillies-net-zero-ready-toronto-home/"
   }
 ]
