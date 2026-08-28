@@ -1,5 +1,17 @@
 [
   {
+    "id": "082593fcf7",
+    "date_iso": "2026-08-28T09:00:02.194742",
+    "date_pt": "28 de agosto de 2026",
+    "date_en": "August 28, 2026",
+    "title_pt": "Building the Future: 6 Unbuilt Research Centers from the ArchDaily Community",
+    "title_en": "Building the Future: 6 Unbuilt Research Centers from the ArchDaily Community",
+    "text_pt": "Research is a structured and active process of analyzing, testing, interpreting, and solving, ultimately leading to knowledge that can be considered disruptive.",
+    "text_en": "Research is a structured and active process of analyzing, testing, interpreting, and solving, ultimately leading to knowledge that can be considered disruptive.",
+    "img": "https://images.pexels.com/photos/7518747/pexels-photo-7518747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1184113/building-the-future-6-unbuilt-research-centers-from-the-archdaily-community"
+  },
+  {
     "id": "3ac4bcae46",
     "date_iso": "2026-08-27T18:00:03.086019",
     "date_pt": "27 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "After five years of construction, the Victorian landmark, reimagined as a vibrant cultural hub by Heatherwick Studio and SPPARC, is nearly complete. Take a look inside",
     "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/inside-olympia-london-uk"
-  },
-  {
-    "id": "11fed93ec3",
-    "date_iso": "2026-07-28T18:00:02.975856",
-    "date_pt": "28 de julho de 2026",
-    "date_en": "July 28, 2026",
-    "title_pt": "Guggenheim Abu Dhabi by Frank Gehry To Open in December",
-    "title_en": "Guggenheim Abu Dhabi by Frank Gehry To Open in December",
-    "text_pt": "Abu Dhabi's Department of Culture and Tourism has announced that Guggenheim Abu Dhabi will open to the public on December 11, 2026, on Saadiyat Island.",
-    "text_en": "Abu Dhabi's Department of Culture and Tourism has announced that Guggenheim Abu Dhabi will open to the public on December 11, 2026, on Saadiyat Island.",
-    "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1181770/guggenheim-abu-dhabi-by-frank-gehry-to-open-in-december"
   }
 ]
