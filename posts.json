@@ -1,5 +1,17 @@
 [
   {
+    "id": "58d651b692",
+    "date_iso": "2026-08-28T18:00:03.663592",
+    "date_pt": "28 de agosto de 2026",
+    "date_en": "August 28, 2026",
+    "title_pt": "The Clear-Tech Comeback Is Putting Everything on Display",
+    "title_en": "The Clear-Tech Comeback Is Putting Everything on Display",
+    "text_pt": "Clear cases and visible circuitry give modern electronics a decidedly retro edge",
+    "text_en": "Clear cases and visible circuitry give modern electronics a decidedly retro edge",
+    "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/transparent-tech-gadgets-retro-design/"
+  },
+  {
     "id": "082593fcf7",
     "date_iso": "2026-08-28T09:00:02.194742",
     "date_pt": "28 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "EWEN. DESIGN The post Living Canvas appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/living-canvas/"
-  },
-  {
-    "id": "c74fa4ddb0",
-    "date_iso": "2026-07-29T09:00:01.708821",
-    "date_pt": "29 de julho de 2026",
-    "date_en": "July 29, 2026",
-    "title_pt": "London’s Olympia has been under renovation for years. Now we can step inside",
-    "title_en": "London’s Olympia has been under renovation for years. Now we can step inside",
-    "text_pt": "After five years of construction, the Victorian landmark, reimagined as a vibrant cultural hub by Heatherwick Studio and SPPARC, is nearly complete. Take a look inside",
-    "text_en": "After five years of construction, the Victorian landmark, reimagined as a vibrant cultural hub by Heatherwick Studio and SPPARC, is nearly complete. Take a look inside",
-    "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/inside-olympia-london-uk"
   }
 ]
