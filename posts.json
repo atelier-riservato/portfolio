@@ -1,5 +1,17 @@
 [
   {
+    "id": "2faad2e942",
+    "date_iso": "2026-08-29T18:00:01.770417",
+    "date_pt": "29 de agosto de 2026",
+    "date_en": "August 29, 2026",
+    "title_pt": "Lamborghini’s Latest Four-Wheeler Is Built for Babies",
+    "title_en": "Lamborghini’s Latest Four-Wheeler Is Built for Babies",
+    "text_pt": "Silver Cross brings supercar-inspired materials and details to a limited-edition stroller dressed in Lamborghini’s signature yellow",
+    "text_en": "Silver Cross brings supercar-inspired materials and details to a limited-edition stroller dressed in Lamborghini’s signature yellow",
+    "img": "https://images.pexels.com/photos/921290/pexels-photo-921290.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/silver-cross-lamborghini-reef-al-giallo-stroller/"
+  },
+  {
     "id": "94e08b4ba4",
     "date_iso": "2026-08-29T09:00:02.266874",
     "date_pt": "29 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "SIGLA Studio places the bathroom at the center of a compact Barcelona apartment, challenging long-held assumptions about privacy and the way we live at home",
     "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/sigla-studio-barcelona-apartment-open-bathroom/"
-  },
-  {
-    "id": "5757baf9b4",
-    "date_iso": "2026-07-30T09:00:01.593974",
-    "date_pt": "30 de julho de 2026",
-    "date_en": "July 30, 2026",
-    "title_pt": "Sawtooth House / Francesco Pierazzi Architects",
-    "title_en": "Sawtooth House / Francesco Pierazzi Architects",
-    "text_pt": "Sawtooth House transforms a Victorian terrace in Kingston upon Thames through the replacement of an outdated rear extension with a contemporary addition inspired by the town's industrial heritage.",
-    "text_en": "Sawtooth House transforms a Victorian terrace in Kingston upon Thames through the replacement of an outdated rear extension with a contemporary addition inspired by the town's industrial heritage.",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1181754/sawtooth-house-francesco-pierazzi-architects"
   }
 ]
