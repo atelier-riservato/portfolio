@@ -1,5 +1,17 @@
 [
   {
+    "id": "0d072f2c02",
+    "date_iso": "2026-08-30T18:00:02.190298",
+    "date_pt": "30 de agosto de 2026",
+    "date_en": "August 30, 2026",
+    "title_pt": "Christine Sun Kim’s first book is a personal and humorous mediation on Deaf culture",
+    "title_en": "Christine Sun Kim’s first book is a personal and humorous mediation on Deaf culture",
+    "text_pt": "Christine Sun Kim’s book, 'Deaf Material', Primary Information, offers an array of new insights into her personhood, her practice, and Deaf culture broadly, in over 400 image-focused pages",
+    "text_en": "Christine Sun Kim’s book, 'Deaf Material', Primary Information, offers an array of new insights into her personhood, her practice, and Deaf culture broadly, in over 400 image-focused pages",
+    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/art/christine-sun-kim-deaf-material"
+  },
+  {
     "id": "81d2652af1",
     "date_iso": "2026-08-30T09:00:01.662503",
     "date_pt": "30 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Horizontal Studio The post Crystal Portal appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/705194/pexels-photo-705194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/crystal-portal/"
-  },
-  {
-    "id": "ec58b9a6ca",
-    "date_iso": "2026-07-31T09:00:02.591607",
-    "date_pt": "31 de julho de 2026",
-    "date_en": "July 31, 2026",
-    "title_pt": "Mandarin Oriental The Landmark leads the evolution of luxury in Central, Hong Kong",
-    "title_en": "Mandarin Oriental The Landmark leads the evolution of luxury in Central, Hong Kong",
-    "text_pt": "Designed by Joyce Wang Studio, the property honours Hong Kong’s historic architecture and the city’s skyline",
-    "text_en": "Designed by Joyce Wang Studio, the property honours Hong Kong’s historic architecture and the city’s skyline",
-    "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/travel/hotels/mandarin-oriental-the-landmark-hong-kong-review"
   }
 ]
