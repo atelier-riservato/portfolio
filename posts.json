@@ -1,5 +1,17 @@
 [
   {
+    "id": "81d2652af1",
+    "date_iso": "2026-08-30T09:00:01.662503",
+    "date_pt": "30 de agosto de 2026",
+    "date_en": "August 30, 2026",
+    "title_pt": "Alcatraz on the Hill: The Rise and Afterlife of Trieste's Rozzol Melara",
+    "title_en": "Alcatraz on the Hill: The Rise and Afterlife of Trieste's Rozzol Melara",
+    "text_pt": "The courtyard at Rozzol Melara measures two hundred meters on each side, which makes it larger than any square in Trieste .",
+    "text_en": "The courtyard at Rozzol Melara measures two hundred meters on each side, which makes it larger than any square in Trieste .",
+    "img": "https://images.pexels.com/photos/30386982/pexels-photo-30386982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1183316/alcatraz-on-the-hill-the-rise-and-afterlife-of-triestes-rozzol-melara"
+  },
+  {
     "id": "2faad2e942",
     "date_iso": "2026-08-29T18:00:01.770417",
     "date_pt": "29 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Designed by Joyce Wang Studio, the property honours Hong Kong’s historic architecture and the city’s skyline",
     "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/travel/hotels/mandarin-oriental-the-landmark-hong-kong-review"
-  },
-  {
-    "id": "7fbab9b760",
-    "date_iso": "2026-07-30T18:00:03.174449",
-    "date_pt": "30 de julho de 2026",
-    "date_en": "July 30, 2026",
-    "title_pt": "What If the Bathroom Was the Center of the Home?",
-    "title_en": "What If the Bathroom Was the Center of the Home?",
-    "text_pt": "SIGLA Studio places the bathroom at the center of a compact Barcelona apartment, challenging long-held assumptions about privacy and the way we live at home",
-    "text_en": "SIGLA Studio places the bathroom at the center of a compact Barcelona apartment, challenging long-held assumptions about privacy and the way we live at home",
-    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/sigla-studio-barcelona-apartment-open-bathroom/"
   }
 ]
