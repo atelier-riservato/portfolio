@@ -1,5 +1,17 @@
 [
   {
+    "id": "73b39043d1",
+    "date_iso": "2026-08-31T18:00:03.076424",
+    "date_pt": "31 de agosto de 2026",
+    "date_en": "August 31, 2026",
+    "title_pt": "John Galliano withdraws from landmark Metropolitan Museum exhibition, following controversy",
+    "title_en": "John Galliano withdraws from landmark Metropolitan Museum exhibition, following controversy",
+    "text_pt": "After a wave of criticism, the museum announced that it has cancelled plans to proceed with a show honouring the fashion designer's work",
+    "text_en": "After a wave of criticism, the museum announced that it has cancelled plans to proceed with a show honouring the fashion designer's work",
+    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/john-galliano-met-costume-institute-show-cancelled"
+  },
+  {
     "id": "15cbd36118",
     "date_iso": "2026-08-31T09:00:02.680242",
     "date_pt": "31 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "From solar-powered outdoor lighting to 3D-printed homewares, these eco-conscious picks prove sustainable design can still be chic",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/sustainable-home-furnishings-healthy-living/"
-  },
-  {
-    "id": "da86fd35d2",
-    "date_iso": "2026-08-01T09:00:02.140169",
-    "date_pt": "1 de agosto de 2026",
-    "date_en": "August 1, 2026",
-    "title_pt": "Ikea’s new portable furniture is designed to grab and go – perfect for Generation Rent",
-    "title_en": "Ikea’s new portable furniture is designed to grab and go – perfect for Generation Rent",
-    "text_pt": "The new ‘Kompishäng’ collection includes foldable, stackable, multifunctional and lightweight furniture and accessories, designed for the realities of renting and moving in the city",
-    "text_en": "The new ‘Kompishäng’ collection includes foldable, stackable, multifunctional and lightweight furniture and accessories, designed for the realities of renting and moving in the city",
-    "img": "https://images.pexels.com/photos/539403/pexels-photo-539403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/furniture/ikea-kompishang-collection-portable-furniture"
   }
 ]
