@@ -1,5 +1,17 @@
 [
   {
+    "id": "32adfa85d8",
+    "date_iso": "2026-09-01T09:00:01.781271",
+    "date_pt": "1 de setembro de 2026",
+    "date_en": "September 1, 2026",
+    "title_pt": "Thinking Through the Hand: Atelier CRAFT on Design and Making",
+    "title_en": "Thinking Through the Hand: Atelier CRAFT on Design and Making",
+    "text_pt": "What narratives do materials carry, and how can the visible \"traces\" of artisans engage in a dialogue with manufacturing processes and industrialization ? Between design and construction, the act of thinking through making can become a guiding principle for a design philosophy.",
+    "text_en": "What narratives do materials carry, and how can the visible \"traces\" of artisans engage in a dialogue with manufacturing processes and industrialization ? Between design and construction, the act of thinking through making can become a guiding principle for a design philosophy.",
+    "img": "https://images.pexels.com/photos/10568025/pexels-photo-10568025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1184106/thinking-through-the-hand-atelier-craft-on-design-and-making"
+  },
+  {
     "id": "73b39043d1",
     "date_iso": "2026-08-31T18:00:03.076424",
     "date_pt": "31 de agosto de 2026",
@@ -706,17 +718,5 @@
     "text_en": "LILI ARCHITECTURE The post House of Atrium appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/house-of-atrium/"
-  },
-  {
-    "id": "14080a3ea9",
-    "date_iso": "2026-08-01T18:00:02.171467",
-    "date_pt": "1 de agosto de 2026",
-    "date_en": "August 1, 2026",
-    "title_pt": "6 Sustainable Home Furnishings for Healthy Living",
-    "title_en": "6 Sustainable Home Furnishings for Healthy Living",
-    "text_pt": "From solar-powered outdoor lighting to 3D-printed homewares, these eco-conscious picks prove sustainable design can still be chic",
-    "text_en": "From solar-powered outdoor lighting to 3D-printed homewares, these eco-conscious picks prove sustainable design can still be chic",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/sustainable-home-furnishings-healthy-living/"
   }
 ]
