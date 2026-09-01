@@ -1,5 +1,17 @@
 [
   {
+    "id": "86a4e70e68",
+    "date_iso": "2026-09-01T18:00:03.863485",
+    "date_pt": "1 de setembro de 2026",
+    "date_en": "September 1, 2026",
+    "title_pt": "Haven of Nature",
+    "title_en": "Haven of Nature",
+    "text_pt": "ERMU Studio The post Haven of Nature appeared first on Leibal .",
+    "text_en": "ERMU Studio The post Haven of Nature appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/haven-of-nature/"
+  },
+  {
     "id": "32adfa85d8",
     "date_iso": "2026-09-01T09:00:01.781271",
     "date_pt": "1 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "From a George Nelson home in Montauk to the beaches that fuel her creativity, the architect and designer shares 5 personal inspirations—and 5 projects that define her work.",
     "img": "https://images.pexels.com/photos/12277013/pexels-photo-12277013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/lauren-rottet-friday-five/"
-  },
-  {
-    "id": "7c8484c487",
-    "date_iso": "2026-08-02T09:00:01.716738",
-    "date_pt": "2 de agosto de 2026",
-    "date_en": "August 2, 2026",
-    "title_pt": "House of Atrium",
-    "title_en": "House of Atrium",
-    "text_pt": "LILI ARCHITECTURE The post House of Atrium appeared first on Leibal .",
-    "text_en": "LILI ARCHITECTURE The post House of Atrium appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/house-of-atrium/"
   }
 ]
