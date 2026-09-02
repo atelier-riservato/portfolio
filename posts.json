@@ -1,5 +1,17 @@
 [
   {
+    "id": "a14f8b6e04",
+    "date_iso": "2026-09-02T09:00:02.264507",
+    "date_pt": "2 de setembro de 2026",
+    "date_en": "September 2, 2026",
+    "title_pt": "Audo Copenhagen Sets the Table for Fall With Six New Designs",
+    "title_en": "Audo Copenhagen Sets the Table for Fall With Six New Designs",
+    "text_pt": "The brand’s Fall 2026 collection brings together dining, seating, lighting, and tables shaped by Danish modernism, natural materials, and the rituals of gathering",
+    "text_en": "The brand’s Fall 2026 collection brings together dining, seating, lighting, and tables shaped by Danish modernism, natural materials, and the rituals of gathering",
+    "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/audo-copenhagen-fall-2026-collection/"
+  },
+  {
     "id": "86a4e70e68",
     "date_iso": "2026-09-01T18:00:03.863485",
     "date_pt": "1 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Designed by OMA / David Gianotten and Mariano Sagasta, The Martin consists of four interlocking volumes and is defined by a layered, permeable facade with continuous balconies along its perimeter.",
     "img": "https://images.pexels.com/photos/12515077/pexels-photo-12515077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1181924/the-martin-residential-building-oma"
-  },
-  {
-    "id": "f7ab423207",
-    "date_iso": "2026-08-02T18:00:02.692496",
-    "date_pt": "2 de agosto de 2026",
-    "date_en": "August 2, 2026",
-    "title_pt": "Lauren Rottet Shares the Places, Projects, and Inspirations That Shape Her Design",
-    "title_en": "Lauren Rottet Shares the Places, Projects, and Inspirations That Shape Her Design",
-    "text_pt": "From a George Nelson home in Montauk to the beaches that fuel her creativity, the architect and designer shares 5 personal inspirations—and 5 projects that define her work.",
-    "text_en": "From a George Nelson home in Montauk to the beaches that fuel her creativity, the architect and designer shares 5 personal inspirations—and 5 projects that define her work.",
-    "img": "https://images.pexels.com/photos/12277013/pexels-photo-12277013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/lauren-rottet-friday-five/"
   }
 ]
