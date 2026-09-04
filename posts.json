@@ -1,5 +1,17 @@
 [
   {
+    "id": "d5ef52f70e",
+    "date_iso": "2026-09-04T18:00:03.374017",
+    "date_pt": "4 de setembro de 2026",
+    "date_en": "September 4, 2026",
+    "title_pt": "Studio Rosenthal Opens Up a Gramercy Park Apartment to the Light",
+    "title_en": "Studio Rosenthal Opens Up a Gramercy Park Apartment to the Light",
+    "text_pt": "A gut renovation returns a New York apartment to its original two-bedroom layout, making room for natural light, quiet materials, and custom furnishings",
+    "text_en": "A gut renovation returns a New York apartment to its original two-bedroom layout, making room for natural light, quiet materials, and custom furnishings",
+    "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/studio-rosenthal-gramercy-park-apartment/"
+  },
+  {
     "id": "d1881ac553",
     "date_iso": "2026-09-04T09:00:01.631870",
     "date_pt": "4 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The site sits in Bratislava's Sihoť district along Devínska Road, at a rare meeting point of two contrasting landscapes: the wooded rise of the Carpathian massif on one side and a quiet arm of the Danube on the other.",
     "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1181952/rdh-house-cechvala-architects"
-  },
-  {
-    "id": "6fe10ed958",
-    "date_iso": "2026-08-05T09:00:02.231420",
-    "date_pt": "5 de agosto de 2026",
-    "date_en": "August 5, 2026",
-    "title_pt": "MAD Completes Shenzhen Bay Culture Square, a Coastal Design Museum and Public Park in China",
-    "title_en": "MAD Completes Shenzhen Bay Culture Square, a Coastal Design Museum and Public Park in China",
-    "text_pt": "MAD / Ma Yansong 's Shenzhen Bay Culture Square exhibition hall and park project began in 2018, with the project completed in 2020.",
-    "text_en": "MAD / Ma Yansong 's Shenzhen Bay Culture Square exhibition hall and park project began in 2018, with the project completed in 2020.",
-    "img": "https://images.pexels.com/photos/1955549/pexels-photo-1955549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1182207/mad-completes-shenzhen-bay-culture-square-a-coastal-design-museum-and-public-park-in-china"
   }
 ]
