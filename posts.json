@@ -1,5 +1,17 @@
 [
   {
+    "id": "e87031c33a",
+    "date_iso": "2026-09-05T18:00:02.179457",
+    "date_pt": "5 de setembro de 2026",
+    "date_en": "September 5, 2026",
+    "title_pt": "Aloe Residence",
+    "title_en": "Aloe Residence",
+    "text_pt": "Seth Anderson Studio The post Aloe Residence appeared first on Leibal .",
+    "text_en": "Seth Anderson Studio The post Aloe Residence appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/aloe-residence/"
+  },
+  {
     "id": "6906e91961",
     "date_iso": "2026-09-05T09:00:02.321088",
     "date_pt": "5 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Feliza Bursztyn School is conceived as an urban link that integrates, through its design, the neighborhood dynamics and the serenity of a landscaped public space in Bogotá.",
     "img": "https://images.pexels.com/photos/12277013/pexels-photo-12277013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1182339/feliza-bursztyn-school-ar-ar-martinez-arquitectura"
-  },
-  {
-    "id": "6ad723309b",
-    "date_iso": "2026-08-06T09:00:01.938573",
-    "date_pt": "6 de agosto de 2026",
-    "date_en": "August 6, 2026",
-    "title_pt": "Chengdu Pavilion / IwamotoScott Architecture",
-    "title_en": "Chengdu Pavilion / IwamotoScott Architecture",
-    "text_pt": "The Chengdu pavilion was commissioned as an exhibition pavilion with a project brief seeking a decidedly future-forward design.",
-    "text_en": "The Chengdu pavilion was commissioned as an exhibition pavilion with a project brief seeking a decidedly future-forward design.",
-    "img": "https://images.pexels.com/photos/18074245/pexels-photo-18074245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1182047/chengdu-pavilion-iwamotoscott-architecture"
   }
 ]
