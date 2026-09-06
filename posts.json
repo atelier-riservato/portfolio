@@ -1,5 +1,17 @@
 [
   {
+    "id": "12bb5a0ed7",
+    "date_iso": "2026-09-06T09:00:02.612735",
+    "date_pt": "6 de setembro de 2026",
+    "date_en": "September 6, 2026",
+    "title_pt": "Apartment 1.1.4",
+    "title_en": "Apartment 1.1.4",
+    "text_pt": "Salto Studio The post Apartment 1.1.4 appeared first on Leibal .",
+    "text_en": "Salto Studio The post Apartment 1.1.4 appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/apartment-1-1-4/"
+  },
+  {
     "id": "e87031c33a",
     "date_iso": "2026-09-05T18:00:02.179457",
     "date_pt": "5 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Inspired by British and South Asian design traditions, Tan France’s debut furniture collection for Castlery explores how timeless pieces, personal history, and everyday rituals shape the modern home.",
     "img": "https://images.pexels.com/photos/16808496/pexels-photo-16808496.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/tan-france-castlery-first-furniture-collection/"
-  },
-  {
-    "id": "f2e3b86c60",
-    "date_iso": "2026-08-06T18:00:03.370599",
-    "date_pt": "6 de agosto de 2026",
-    "date_en": "August 6, 2026",
-    "title_pt": "Feliza Bursztyn School / AR-AR (Martínez Arquitectura)",
-    "title_en": "Feliza Bursztyn School / AR-AR (Martínez Arquitectura)",
-    "text_pt": "The Feliza Bursztyn School is conceived as an urban link that integrates, through its design, the neighborhood dynamics and the serenity of a landscaped public space in Bogotá.",
-    "text_en": "The Feliza Bursztyn School is conceived as an urban link that integrates, through its design, the neighborhood dynamics and the serenity of a landscaped public space in Bogotá.",
-    "img": "https://images.pexels.com/photos/12277013/pexels-photo-12277013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1182339/feliza-bursztyn-school-ar-ar-martinez-arquitectura"
   }
 ]
