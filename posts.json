@@ -1,5 +1,17 @@
 [
   {
+    "id": "01ad04f836",
+    "date_iso": "2026-09-07T09:00:02.332088",
+    "date_pt": "7 de setembro de 2026",
+    "date_en": "September 7, 2026",
+    "title_pt": "At Silver Lake’s Hotel Lucile, a landmark church is reborn with a divine restaurant",
+    "title_en": "At Silver Lake’s Hotel Lucile, a landmark church is reborn with a divine restaurant",
+    "text_pt": "The hippest neighbourhood in Los Angeles finally gets a first-rate boutique hotel, arranged around a modern temple to Southern cuisine",
+    "text_en": "The hippest neighbourhood in Los Angeles finally gets a first-rate boutique hotel, arranged around a modern temple to Southern cuisine",
+    "img": "https://images.pexels.com/photos/37565139/pexels-photo-37565139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/travel/hotels/hotel-lucile-silver-lake-review"
+  },
+  {
     "id": "e9a1757e9c",
     "date_iso": "2026-09-06T18:00:02.382933",
     "date_pt": "6 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "150 years after her birth, Welsh artist Gwen John has her first major retrospective at the Scottish National Gallery of Modern Art",
     "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/art/exhibitions-shows/gwen-john-scottish-national-gallery-of-modern-art"
-  },
-  {
-    "id": "fc3323630e",
-    "date_iso": "2026-08-07T18:00:03.665958",
-    "date_pt": "7 de agosto de 2026",
-    "date_en": "August 7, 2026",
-    "title_pt": "Dive Into ‘Pastel,’ Cj Hendry’s Million-Bead Installation at Salon 94 Design",
-    "title_en": "Dive Into ‘Pastel,’ Cj Hendry’s Million-Bead Installation at Salon 94 Design",
-    "text_pt": "The artist transforms the Upper East Side gallery into an interactive bead pit where visitors can dive in, make jewelry, and take home pieces of the installation",
-    "text_en": "The artist transforms the Upper East Side gallery into an interactive bead pit where visitors can dive in, make jewelry, and take home pieces of the installation",
-    "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/cj-hendry-pastel-salon-94-bead-installation/"
   }
 ]
