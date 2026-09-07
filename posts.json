@@ -1,5 +1,17 @@
 [
   {
+    "id": "646fd72537",
+    "date_iso": "2026-09-07T18:00:03.272422",
+    "date_pt": "7 de setembro de 2026",
+    "date_en": "September 7, 2026",
+    "title_pt": "House on David Melgueiro / Aurora Arquitectos",
+    "title_en": "House on David Melgueiro / Aurora Arquitectos",
+    "text_pt": "In the Restelo neighborhood, a row of terraced houses built in the 1950s forms an urban landscape defined by repetition, domestic scale, and continuous facades.",
+    "text_en": "In the Restelo neighborhood, a row of terraced houses built in the 1950s forms an urban landscape defined by repetition, domestic scale, and continuous facades.",
+    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1184578/house-on-david-melgueiro-aurora-arquitectos"
+  },
+  {
     "id": "01ad04f836",
     "date_iso": "2026-09-07T09:00:02.332088",
     "date_pt": "7 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "This residence enjoys a south orientation and a gentle slope towards the back of the plot. The house is strategically located at the top of the plot, leaving a large front space where the pool and garden are located.",
     "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1148800/mediterranean-house-dom-arquitectura"
-  },
-  {
-    "id": "332611defd",
-    "date_iso": "2026-08-08T09:00:02.013937",
-    "date_pt": "8 de agosto de 2026",
-    "date_en": "August 8, 2026",
-    "title_pt": "Fall in love with the strange beauty of artist Gwen John",
-    "title_en": "Fall in love with the strange beauty of artist Gwen John",
-    "text_pt": "150 years after her birth, Welsh artist Gwen John has her first major retrospective at the Scottish National Gallery of Modern Art",
-    "text_en": "150 years after her birth, Welsh artist Gwen John has her first major retrospective at the Scottish National Gallery of Modern Art",
-    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/art/exhibitions-shows/gwen-john-scottish-national-gallery-of-modern-art"
   }
 ]
