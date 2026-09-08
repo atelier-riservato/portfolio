@@ -1,5 +1,17 @@
 [
   {
+    "id": "1d49dfdd2f",
+    "date_iso": "2026-09-08T18:00:03.766648",
+    "date_pt": "8 de setembro de 2026",
+    "date_en": "September 8, 2026",
+    "title_pt": "‘Chairman’ Celebrates the Joyful Furniture Design of Yinka Ilori",
+    "title_en": "‘Chairman’ Celebrates the Joyful Furniture Design of Yinka Ilori",
+    "text_pt": "The designer’s first comprehensive furniture book traces more than a decade of transforming vintage chairs through color, pattern, and play",
+    "text_en": "The designer’s first comprehensive furniture book traces more than a decade of transforming vintage chairs through color, pattern, and play",
+    "img": "https://images.pexels.com/photos/28456460/pexels-photo-28456460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/yinka-ilori-chairman-furniture-book/"
+  },
+  {
     "id": "3c28aa745d",
     "date_iso": "2026-09-08T09:00:02.384067",
     "date_pt": "8 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
     "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy"
-  },
-  {
-    "id": "c49bacbe0e",
-    "date_iso": "2026-08-09T09:00:01.681457",
-    "date_pt": "9 de agosto de 2026",
-    "date_en": "August 9, 2026",
-    "title_pt": "The Bristle Collection",
-    "title_en": "The Bristle Collection",
-    "text_pt": "Studio Linde Hermans The post The Bristle Collection appeared first on Leibal .",
-    "text_en": "Studio Linde Hermans The post The Bristle Collection appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/13012256/pexels-photo-13012256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/furniture/the-bristle-collection/"
   }
 ]
