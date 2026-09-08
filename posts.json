@@ -1,5 +1,17 @@
 [
   {
+    "id": "3c28aa745d",
+    "date_iso": "2026-09-08T09:00:02.384067",
+    "date_pt": "8 de setembro de 2026",
+    "date_en": "September 8, 2026",
+    "title_pt": "Snoopy’s Fashion Résumé Gets a New Chapter in New York",
+    "title_en": "Snoopy’s Fashion Résumé Gets a New Chapter in New York",
+    "text_pt": "'Snoopy in Style NYC' pairs archival looks with new designs from BODE, Christopher John Rogers, Sandy Liang, LUAR, and more",
+    "text_en": "'Snoopy in Style NYC' pairs archival looks with new designs from BODE, Christopher John Rogers, Sandy Liang, LUAR, and more",
+    "img": "https://images.pexels.com/photos/10612649/pexels-photo-10612649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/snoopy-in-style-nyc-fashion-exhibition/"
+  },
+  {
     "id": "646fd72537",
     "date_iso": "2026-09-07T18:00:03.272422",
     "date_pt": "7 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Studio Linde Hermans The post The Bristle Collection appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/13012256/pexels-photo-13012256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/furniture/the-bristle-collection/"
-  },
-  {
-    "id": "07a599add5",
-    "date_iso": "2026-08-08T18:00:02.272413",
-    "date_pt": "8 de agosto de 2026",
-    "date_en": "August 8, 2026",
-    "title_pt": "Mediterranean House / Dom Arquitectura",
-    "title_en": "Mediterranean House / Dom Arquitectura",
-    "text_pt": "This residence enjoys a south orientation and a gentle slope towards the back of the plot. The house is strategically located at the top of the plot, leaving a large front space where the pool and garden are located.",
-    "text_en": "This residence enjoys a south orientation and a gentle slope towards the back of the plot. The house is strategically located at the top of the plot, leaving a large front space where the pool and garden are located.",
-    "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1148800/mediterranean-house-dom-arquitectura"
   }
 ]
