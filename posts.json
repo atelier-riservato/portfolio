@@ -1,5 +1,17 @@
 [
   {
+    "id": "32be37c6fb",
+    "date_iso": "2026-09-09T09:00:01.923967",
+    "date_pt": "9 de setembro de 2026",
+    "date_en": "September 9, 2026",
+    "title_pt": "Daniel Libeskind Awarded the 2026 Praemium Imperiale for Architecture",
+    "title_en": "Daniel Libeskind Awarded the 2026 Praemium Imperiale for Architecture",
+    "text_pt": "The Praemium Imperiale is a global arts prize that recognizes exceptional achievements in architecture, painting, sculpture, music, and theater or film.",
+    "text_en": "The Praemium Imperiale is a global arts prize that recognizes exceptional achievements in architecture, painting, sculpture, music, and theater or film.",
+    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1184771/daniel-libeskind-awarded-the-2026-praemium-imperiale-for-architecture"
+  },
+  {
     "id": "1d49dfdd2f",
     "date_iso": "2026-09-08T18:00:03.766648",
     "date_pt": "8 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
     "img": "https://images.pexels.com/photos/37968493/pexels-photo-37968493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/furniture/1970s-italian-design-reissues"
-  },
-  {
-    "id": "e1973d72e9",
-    "date_iso": "2026-08-09T18:00:02.268336",
-    "date_pt": "9 de agosto de 2026",
-    "date_en": "August 9, 2026",
-    "title_pt": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-    "title_en": "Architect Carlo Ratti on why the Autogrill bridge is Italy's testbed for motorway design",
-    "text_pt": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-    "text_en": "The eighth instalment of the architect's series, 'Objectify', investigates how the Autogrill bridge attracted some of post-war Italy's greatest architects and engineers",
-    "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/carlo-ratti-objectify-autogrill-bridge-italy"
   }
 ]
