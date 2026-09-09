@@ -1,5 +1,17 @@
 [
   {
+    "id": "fbd8022c69",
+    "date_iso": "2026-09-09T18:00:03.078736",
+    "date_pt": "9 de setembro de 2026",
+    "date_en": "September 9, 2026",
+    "title_pt": "Tomas & Katrien House / Atelier Vens Vanbelle",
+    "title_en": "Tomas & Katrien House / Atelier Vens Vanbelle",
+    "text_pt": "The building was designed as a sober and simple volume that is reminiscent of an old atelier or a small-scale classic industrial building. It is constructed from characterful bricks, which give the impression that this building has always been there.",
+    "text_en": "The building was designed as a sober and simple volume that is reminiscent of an old atelier or a small-scale classic industrial building. It is constructed from characterful bricks, which give the impression that this building has always been there.",
+    "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1183838/tomas-and-katrien-atelier-vens-vanbelle"
+  },
+  {
     "id": "32be37c6fb",
     "date_iso": "2026-09-09T09:00:01.923967",
     "date_pt": "9 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "With a carbon fiber structure, bespoke finishes, and automotive-level precision, Ennua’s Element 01 translates supercar designs into functional art",
     "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/ennua-element-01-mclaren-designers/"
-  },
-  {
-    "id": "be2fb13be2",
-    "date_iso": "2026-08-10T18:00:03.263358",
-    "date_pt": "10 de agosto de 2026",
-    "date_en": "August 10, 2026",
-    "title_pt": "1970s Italian design is having a moment: here are this year's best reissues",
-    "title_en": "1970s Italian design is having a moment: here are this year's best reissues",
-    "text_pt": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
-    "text_en": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
-    "img": "https://images.pexels.com/photos/37968493/pexels-photo-37968493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/furniture/1970s-italian-design-reissues"
   }
 ]
