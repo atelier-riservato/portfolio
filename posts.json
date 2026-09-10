@@ -1,5 +1,17 @@
 [
   {
+    "id": "47dfa2e3b5",
+    "date_iso": "2026-09-10T18:00:03.580683",
+    "date_pt": "10 de setembro de 2026",
+    "date_en": "September 10, 2026",
+    "title_pt": "Casa Malonic / HW-STUDIO",
+    "title_en": "Casa Malonic / HW-STUDIO",
+    "text_pt": "Upon arriving at this place, the landscape reveals itself with an intensity that is difficult to describe. The sea becomes an infinite horizon, while a portion of jungle occupies the site with an almost sacred presence.",
+    "text_en": "Upon arriving at this place, the landscape reveals itself with an intensity that is difficult to describe. The sea becomes an infinite horizon, while a portion of jungle occupies the site with an almost sacred presence.",
+    "img": "https://images.pexels.com/photos/37429855/pexels-photo-37429855.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1184892/casa-malonic-hw-studio"
+  },
+  {
     "id": "0344eb5b58",
     "date_iso": "2026-09-10T09:00:02.175700",
     "date_pt": "10 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "One year into his creative directorship, the Italian designer opens up to Wallpaper* about his vision for the house – one that both distils Jil Sander to its essence and reaches for something new",
     "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/fashion-beauty/simone-bellotti-jil-sander-aw-26-interview"
-  },
-  {
-    "id": "fe2526c8d2",
-    "date_iso": "2026-08-11T18:00:03.175301",
-    "date_pt": "11 de agosto de 2026",
-    "date_en": "August 11, 2026",
-    "title_pt": "A Michelin-starred Edinburgh favourite adds rooms to its restaurant",
-    "title_en": "A Michelin-starred Edinburgh favourite adds rooms to its restaurant",
-    "text_pt": "At Lyla, Stuart Ralston’s seafood-led tasting-menu experience now continues upstairs, with four Scarinish-designed bedrooms and breakfast in bed",
-    "text_en": "At Lyla, Stuart Ralston’s seafood-led tasting-menu experience now continues upstairs, with four Scarinish-designed bedrooms and breakfast in bed",
-    "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/travel/restaurants/lyla-restaurant-and-rooms-edinburgh-review"
   }
 ]
