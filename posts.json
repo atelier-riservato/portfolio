@@ -1,5 +1,17 @@
 [
   {
+    "id": "0779ffde9b",
+    "date_iso": "2026-09-11T18:00:02.778609",
+    "date_pt": "11 de setembro de 2026",
+    "date_en": "September 11, 2026",
+    "title_pt": "Yoto makes audio players for small hands to help stave off doomscrolling and social media",
+    "title_en": "Yoto makes audio players for small hands to help stave off doomscrolling and social media",
+    "text_pt": "Yoto announces its new fourth generation Player alongside an upgrade Yoto Mini, each designed by Heirloom, to make the company’s world of audio content easier and more accessible than every before",
+    "text_en": "Yoto announces its new fourth generation Player alongside an upgrade Yoto Mini, each designed by Heirloom, to make the company’s world of audio content easier and more accessible than every before",
+    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/tech/yoto-makes-audio-players-for-small-hands-to-help-stave-off-doomscrolling-and-social-media"
+  },
+  {
     "id": "ae870c9f43",
     "date_iso": "2026-09-11T09:00:01.534261",
     "date_pt": "11 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "‘Portrait of a City: A Century of American Photography’ at Dulwich Picture Gallery traces the eventful journey to a modern USA",
     "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/art/photography/portrait-of-a-city-a-century-of-american-photography-review"
-  },
-  {
-    "id": "6cbbc1dbcf",
-    "date_iso": "2026-08-12T18:00:03.068366",
-    "date_pt": "12 de agosto de 2026",
-    "date_en": "August 12, 2026",
-    "title_pt": "Heatherwick Studio gives this Kentucky civic space a refresh",
-    "title_en": "Heatherwick Studio gives this Kentucky civic space a refresh",
-    "text_pt": "First opened in 1973, the Belvedere public space in Louisville, Kentucky, will now undergo a vibrant restoration, set to open in 2030",
-    "text_en": "First opened in 1973, the Belvedere public space in Louisville, Kentucky, will now undergo a vibrant restoration, set to open in 2030",
-    "img": "https://images.pexels.com/photos/37968493/pexels-photo-37968493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/public-buildings/heathwick-studio-belvedere-kentucky-usa"
   }
 ]
