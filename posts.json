@@ -1,5 +1,17 @@
 [
   {
+    "id": "ae870c9f43",
+    "date_iso": "2026-09-11T09:00:01.534261",
+    "date_pt": "11 de setembro de 2026",
+    "date_en": "September 11, 2026",
+    "title_pt": "Explore this pop-up library dedicated to queer creativity in London",
+    "title_en": "Explore this pop-up library dedicated to queer creativity in London",
+    "text_pt": "At London Design Festival 2026, Alex Tieghi-Walker presents The Reading Room (part of his wider curation for the Brompton Design District), dedicated to queer design, creativity and cultural history in London. For the occasion, he shares a few must-read from his personal library",
+    "text_en": "At London Design Festival 2026, Alex Tieghi-Walker presents The Reading Room (part of his wider curation for the Brompton Design District), dedicated to queer design, creativity and cultural history in London. For the occasion, he shares a few must-read from his personal library",
+    "img": "https://images.pexels.com/photos/17531832/pexels-photo-17531832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/london-design-festival-brompton-reading-room-alex-tieghi-walker-books"
+  },
+  {
     "id": "47dfa2e3b5",
     "date_iso": "2026-09-10T18:00:03.580683",
     "date_pt": "10 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "First opened in 1973, the Belvedere public space in Louisville, Kentucky, will now undergo a vibrant restoration, set to open in 2030",
     "img": "https://images.pexels.com/photos/37968493/pexels-photo-37968493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/public-buildings/heathwick-studio-belvedere-kentucky-usa"
-  },
-  {
-    "id": "7d8b095e28",
-    "date_iso": "2026-08-12T09:00:02.308204",
-    "date_pt": "12 de agosto de 2026",
-    "date_en": "August 12, 2026",
-    "title_pt": "Simone Bellotti wants to bring Jil Sander home",
-    "title_en": "Simone Bellotti wants to bring Jil Sander home",
-    "text_pt": "One year into his creative directorship, the Italian designer opens up to Wallpaper* about his vision for the house – one that both distils Jil Sander to its essence and reaches for something new",
-    "text_en": "One year into his creative directorship, the Italian designer opens up to Wallpaper* about his vision for the house – one that both distils Jil Sander to its essence and reaches for something new",
-    "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/fashion-beauty/simone-bellotti-jil-sander-aw-26-interview"
   }
 ]
