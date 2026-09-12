@@ -1,5 +1,17 @@
 [
   {
+    "id": "f9d8b01777",
+    "date_iso": "2026-09-12T09:00:01.775213",
+    "date_pt": "12 de setembro de 2026",
+    "date_en": "September 12, 2026",
+    "title_pt": "Svenskt Tenn celebrates Anna Petrus, Sweden’s trailblazing 20th-century metal designer",
+    "title_en": "Svenskt Tenn celebrates Anna Petrus, Sweden’s trailblazing 20th-century metal designer",
+    "text_pt": "A new exhibition at Svenskt Tenn in Stockholm revisits Anna Petrus’ pioneering pewter and cast-iron work and returns two of her lesser-known designs to production",
+    "text_en": "A new exhibition at Svenskt Tenn in Stockholm revisits Anna Petrus’ pioneering pewter and cast-iron work and returns two of her lesser-known designs to production",
+    "img": "https://images.pexels.com/photos/10568025/pexels-photo-10568025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/anna-petrus-svenskt-tenn"
+  },
+  {
     "id": "0779ffde9b",
     "date_iso": "2026-09-11T18:00:02.778609",
     "date_pt": "11 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "DeRoche Projects – an emerging architecture studio from Ghana spotlighted in the Wallpaper* Architects’ Directory 2026 – has created a retreat that ‘understands the mountainside’",
     "img": "https://images.pexels.com/photos/31737859/pexels-photo-31737859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/architects-directory/deroche-projects-ghana"
-  },
-  {
-    "id": "c3d783365f",
-    "date_iso": "2026-08-13T09:00:03.015128",
-    "date_pt": "13 de agosto de 2026",
-    "date_en": "August 13, 2026",
-    "title_pt": "Discover 100 years of American photography in London",
-    "title_en": "Discover 100 years of American photography in London",
-    "text_pt": "‘Portrait of a City: A Century of American Photography’ at Dulwich Picture Gallery traces the eventful journey to a modern USA",
-    "text_en": "‘Portrait of a City: A Century of American Photography’ at Dulwich Picture Gallery traces the eventful journey to a modern USA",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/art/photography/portrait-of-a-city-a-century-of-american-photography-review"
   }
 ]
