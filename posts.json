@@ -1,5 +1,17 @@
 [
   {
+    "id": "0add8c58fd",
+    "date_iso": "2026-09-12T18:00:01.796843",
+    "date_pt": "12 de setembro de 2026",
+    "date_en": "September 12, 2026",
+    "title_pt": "ROOM’s New Identity Puts People at the Center of Workplace Design",
+    "title_en": "ROOM’s New Identity Puts People at the Center of Workplace Design",
+    "text_pt": "The workplace brand looks to fashion for a visual refresh that shifts attention away from its products and toward people and everyday moments around them",
+    "text_en": "The workplace brand looks to fashion for a visual refresh that shifts attention away from its products and toward people and everyday moments around them",
+    "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/room-new-brand-identity-workplace-design/"
+  },
+  {
     "id": "f9d8b01777",
     "date_iso": "2026-09-12T09:00:01.775213",
     "date_pt": "12 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Architectural Association’s Department of Tropical Architecture Archive is now live – here's what we learned from this ‘extraordinary resource’ for academic research",
     "img": "https://images.pexels.com/photos/14613821/pexels-photo-14613821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/aa-department-of-tropical-architecture-archive-uk"
-  },
-  {
-    "id": "30f20b8ca2",
-    "date_iso": "2026-08-13T18:00:03.171673",
-    "date_pt": "13 de agosto de 2026",
-    "date_en": "August 13, 2026",
-    "title_pt": "This Ghanaian retreat was designed to blend effortlessly with nature",
-    "title_en": "This Ghanaian retreat was designed to blend effortlessly with nature",
-    "text_pt": "DeRoche Projects – an emerging architecture studio from Ghana spotlighted in the Wallpaper* Architects’ Directory 2026 – has created a retreat that ‘understands the mountainside’",
-    "text_en": "DeRoche Projects – an emerging architecture studio from Ghana spotlighted in the Wallpaper* Architects’ Directory 2026 – has created a retreat that ‘understands the mountainside’",
-    "img": "https://images.pexels.com/photos/31737859/pexels-photo-31737859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/architects-directory/deroche-projects-ghana"
   }
 ]
