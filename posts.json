@@ -1,5 +1,17 @@
 [
   {
+    "id": "6208b3b45d",
+    "date_iso": "2026-09-13T18:00:02.766549",
+    "date_pt": "13 de setembro de 2026",
+    "date_en": "September 13, 2026",
+    "title_pt": "Kolonaki Micro Apartment",
+    "title_en": "Kolonaki Micro Apartment",
+    "text_pt": "Studio From The post Kolonaki Micro Apartment appeared first on Leibal .",
+    "text_en": "Studio From The post Kolonaki Micro Apartment appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/34605930/pexels-photo-34605930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/kolonaki-micro-apartment/"
+  },
+  {
     "id": "55bda2c0ec",
     "date_iso": "2026-09-13T09:00:01.578159",
     "date_pt": "13 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "\"MANZ Bel Étage\" is the renovation of a renowned legal publisher's headquarters with original designs by Adolf Loos in Vienna's historic first district.",
     "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183235/headquarters-manz-bel-etage-podrecca-architects"
-  },
-  {
-    "id": "d1cca26c79",
-    "date_iso": "2026-08-14T18:00:02.776068",
-    "date_pt": "14 de agosto de 2026",
-    "date_en": "August 14, 2026",
-    "title_pt": "Want to understand architecture in America? Look at a small town near you",
-    "title_en": "Want to understand architecture in America? Look at a small town near you",
-    "text_pt": "A new book, 'Out There, New Architecture Across America,' proves that some of the best design in the United States is happening well beyond the coasts",
-    "text_en": "A new book, 'Out There, New Architecture Across America,' proves that some of the best design in the United States is happening well beyond the coasts",
-    "img": "https://images.pexels.com/photos/12277197/pexels-photo-12277197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/out-there-architecture-book"
   }
 ]
