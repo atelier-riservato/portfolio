@@ -1,5 +1,17 @@
 [
   {
+    "id": "55bda2c0ec",
+    "date_iso": "2026-09-13T09:00:01.578159",
+    "date_pt": "13 de setembro de 2026",
+    "date_en": "September 13, 2026",
+    "title_pt": "A contemporary passive house elevates sustainable courtyard living in Hertfordshire",
+    "title_en": "A contemporary passive house elevates sustainable courtyard living in Hertfordshire",
+    "text_pt": "Explore Three Rivers Passive House by Gbolade Design Studio, a sustainable, CLT-framed home in a suburban Hertfordshire valley",
+    "text_en": "Explore Three Rivers Passive House by Gbolade Design Studio, a sustainable, CLT-framed home in a suburban Hertfordshire valley",
+    "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/residential/three-rivers-passive-house-gbolade-design-studio-uk"
+  },
+  {
     "id": "0add8c58fd",
     "date_iso": "2026-09-12T18:00:01.796843",
     "date_pt": "12 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A new book, 'Out There, New Architecture Across America,' proves that some of the best design in the United States is happening well beyond the coasts",
     "img": "https://images.pexels.com/photos/12277197/pexels-photo-12277197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/out-there-architecture-book"
-  },
-  {
-    "id": "4c187115d2",
-    "date_iso": "2026-08-14T09:00:01.792100",
-    "date_pt": "14 de agosto de 2026",
-    "date_en": "August 14, 2026",
-    "title_pt": "A new tropical architecture archive traces a unique, global journey across the 20th century",
-    "title_en": "A new tropical architecture archive traces a unique, global journey across the 20th century",
-    "text_pt": "The Architectural Association’s Department of Tropical Architecture Archive is now live – here's what we learned from this ‘extraordinary resource’ for academic research",
-    "text_en": "The Architectural Association’s Department of Tropical Architecture Archive is now live – here's what we learned from this ‘extraordinary resource’ for academic research",
-    "img": "https://images.pexels.com/photos/14613821/pexels-photo-14613821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/aa-department-of-tropical-architecture-archive-uk"
   }
 ]
