@@ -1,5 +1,17 @@
 [
   {
+    "id": "bb5b7c75bc",
+    "date_iso": "2026-09-14T18:00:02.664184",
+    "date_pt": "14 de setembro de 2026",
+    "date_en": "September 14, 2026",
+    "title_pt": "London Design Festival 2026: live updates from the Wallpaper* team",
+    "title_en": "London Design Festival 2026: live updates from the Wallpaper* team",
+    "text_pt": "From 12-20 September, London is celebrating design in all its forms. Here's the latest news, launches and other goings-on from London Design Festival 2026, as seen by Wallpaper* editors",
+    "text_en": "From 12-20 September, London is celebrating design in all its forms. Here's the latest news, launches and other goings-on from London Design Festival 2026, as seen by Wallpaper* editors",
+    "img": "https://images.pexels.com/photos/12277631/pexels-photo-12277631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/live/london-design-festival-2026"
+  },
+  {
     "id": "d68e34df1b",
     "date_iso": "2026-09-14T09:00:01.786732",
     "date_pt": "14 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "LMTLS Architecture layers wood, mirrors, and warm light into a continuous interior inspired by eroded terrain",
     "img": "https://images.pexels.com/photos/212937/pexels-photo-212937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/skin1004-soho-flagship-lmtls-architecture/"
-  },
-  {
-    "id": "0f2fbafc79",
-    "date_iso": "2026-08-15T18:00:02.504264",
-    "date_pt": "15 de agosto de 2026",
-    "date_en": "August 15, 2026",
-    "title_pt": "Nick Sheridan Talks Surfboards, His VW Beetle, Morocco + More",
-    "title_en": "Nick Sheridan Talks Surfboards, His VW Beetle, Morocco + More",
-    "text_pt": "The Cerno co-founder and design director shares the places, objects, and hands-on projects that continue to shape his approach to lighting design",
-    "text_en": "The Cerno co-founder and design director shares the places, objects, and hands-on projects that continue to shape his approach to lighting design",
-    "img": "https://images.pexels.com/photos/28586227/pexels-photo-28586227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/friday-five-nick-sheridan-cerno/"
   }
 ]
