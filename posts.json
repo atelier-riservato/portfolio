@@ -1,5 +1,17 @@
 [
   {
+    "id": "d68e34df1b",
+    "date_iso": "2026-09-14T09:00:01.786732",
+    "date_pt": "14 de setembro de 2026",
+    "date_en": "September 14, 2026",
+    "title_pt": "The AWEchair Makes a Case for More Beautiful Accessible Design",
+    "title_en": "The AWEchair Makes a Case for More Beautiful Accessible Design",
+    "text_pt": "After struggling to find a lift chair for her aging parents that didn’t look like medical equipment, Janet Feldman spent a decade developing a more considered alternative",
+    "text_en": "After struggling to find a lift chair for her aging parents that didn’t look like medical equipment, Janet Feldman spent a decade developing a more considered alternative",
+    "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/awechair-accessible-lift-chair-design/"
+  },
+  {
     "id": "6208b3b45d",
     "date_iso": "2026-09-13T18:00:02.766549",
     "date_pt": "13 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Cerno co-founder and design director shares the places, objects, and hands-on projects that continue to shape his approach to lighting design",
     "img": "https://images.pexels.com/photos/28586227/pexels-photo-28586227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/friday-five-nick-sheridan-cerno/"
-  },
-  {
-    "id": "ba299523a9",
-    "date_iso": "2026-08-15T09:00:01.925255",
-    "date_pt": "15 de agosto de 2026",
-    "date_en": "August 15, 2026",
-    "title_pt": "Headquarters \"MANZ Bel Étage\" / Podrecca Architects",
-    "title_en": "Headquarters \"MANZ Bel Étage\" / Podrecca Architects",
-    "text_pt": "\"MANZ Bel Étage\" is the renovation of a renowned legal publisher's headquarters with original designs by Adolf Loos in Vienna's historic first district.",
-    "text_en": "\"MANZ Bel Étage\" is the renovation of a renowned legal publisher's headquarters with original designs by Adolf Loos in Vienna's historic first district.",
-    "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1183235/headquarters-manz-bel-etage-podrecca-architects"
   }
 ]
