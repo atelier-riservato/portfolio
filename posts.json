@@ -1,5 +1,17 @@
 [
   {
+    "id": "f4ec7d9bb1",
+    "date_iso": "2026-09-15T09:00:01.986922",
+    "date_pt": "15 de setembro de 2026",
+    "date_en": "September 15, 2026",
+    "title_pt": "What the iF DESIGN AWARD Reveals About Where Global Design Is Heading Next",
+    "title_en": "What the iF DESIGN AWARD Reveals About Where Global Design Is Heading Next",
+    "text_pt": "The Regular Deadline for the iF DESIGN AWARD 2027 is September 18. Register your project today to save €100 per entry, with time until November to finalize and complete your submission.",
+    "text_en": "The Regular Deadline for the iF DESIGN AWARD 2027 is September 18. Register your project today to save €100 per entry, with time until November to finalize and complete your submission.",
+    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/what-the-if-design-award-reveals-about-where-global-design-is-heading-next/"
+  },
+  {
     "id": "bb5b7c75bc",
     "date_iso": "2026-09-14T18:00:02.664184",
     "date_pt": "14 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "JUNF STUDIO The post Chao Phraya River Apartment appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/chao-phraya-river-apartment/"
-  },
-  {
-    "id": "9634c148a2",
-    "date_iso": "2026-08-16T09:00:02.101606",
-    "date_pt": "16 de agosto de 2026",
-    "date_en": "August 16, 2026",
-    "title_pt": "A Layered Wood Landscape Shapes SKIN1004’s SoHo Flagship",
-    "title_en": "A Layered Wood Landscape Shapes SKIN1004’s SoHo Flagship",
-    "text_pt": "LMTLS Architecture layers wood, mirrors, and warm light into a continuous interior inspired by eroded terrain",
-    "text_en": "LMTLS Architecture layers wood, mirrors, and warm light into a continuous interior inspired by eroded terrain",
-    "img": "https://images.pexels.com/photos/212937/pexels-photo-212937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/skin1004-soho-flagship-lmtls-architecture/"
   }
 ]
