@@ -1,5 +1,17 @@
 [
   {
+    "id": "aba6115191",
+    "date_iso": "2026-09-16T18:00:03.282528",
+    "date_pt": "16 de setembro de 2026",
+    "date_en": "September 16, 2026",
+    "title_pt": "KUSKA Residence / Taller MACAA (Misión de Arquitectura, Construcción y Arte en los Andes)",
+    "title_en": "KUSKA Residence / Taller MACAA (Misión de Arquitectura, Construcción y Arte en los Andes)",
+    "text_pt": "With the goal of migrating to an environment completely opposite to the city, Kuska was born—a Quechua word meaning \"together.\" The space was conceived as the primary residence for a writer and an artisan, while also designed to host friends, family, and artists-in-residence.",
+    "text_en": "With the goal of migrating to an environment completely opposite to the city, Kuska was born—a Quechua word meaning \"together.\" The space was conceived as the primary residence for a writer and an artisan, while also designed to host friends, family, and artists-in-residence.",
+    "img": "https://images.pexels.com/photos/39517222/pexels-photo-39517222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1185261/kuska-residence-taller-macaa-mision-de-arquitectura-construccion-y-arte-en-los-andes"
+  },
+  {
     "id": "636c052427",
     "date_iso": "2026-09-16T09:00:01.560996",
     "date_pt": "16 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Since 1956, the Graham Foundation for Advanced Studies in the Fine Arts has fostered the development and exchange of ideas about architecture and its role in the arts, culture, and society.",
     "img": "https://images.pexels.com/photos/6920451/pexels-photo-6920451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183472/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026"
-  },
-  {
-    "id": "063a71852f",
-    "date_iso": "2026-08-17T18:00:03.277706",
-    "date_pt": "17 de agosto de 2026",
-    "date_en": "August 17, 2026",
-    "title_pt": "Serpentine Pavillion 2026 / LANZA Atelier",
-    "title_en": "Serpentine Pavillion 2026 / LANZA Atelier",
-    "text_pt": "There came a point when I began to see serpents everywhere. The vision of serpents began timidly, with the faint pencil outline of the canopy that defined the site where Alessandro Arienzo, my partner, and I were to design a Serpentine Pavilion.",
-    "text_en": "There came a point when I began to see serpents everywhere. The vision of serpents began timidly, with the faint pencil outline of the canopy that defined the site where Alessandro Arienzo, my partner, and I were to design a Serpentine Pavilion.",
-    "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1183428/serpentine-pavillion-lanza-atelier"
   }
 ]
