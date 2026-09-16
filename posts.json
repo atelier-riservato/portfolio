@@ -1,5 +1,17 @@
 [
   {
+    "id": "636c052427",
+    "date_iso": "2026-09-16T09:00:01.560996",
+    "date_pt": "16 de setembro de 2026",
+    "date_en": "September 16, 2026",
+    "title_pt": "Venus Williams Serves Up a New Collection With Crate & Barrel",
+    "title_en": "Venus Williams Serves Up a New Collection With Crate & Barrel",
+    "text_pt": "The tennis champion and V Starr founder brings Milanese influences, mid-century modernism, and subtle nods to the court into furniture and decor for adults and kids",
+    "text_en": "The tennis champion and V Starr founder brings Milanese influences, mid-century modernism, and subtle nods to the court into furniture and decor for adults and kids",
+    "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/venus-williams-crate-barrel-grand-slam-collection/"
+  },
+  {
     "id": "3d4b6c2b92",
     "date_iso": "2026-09-15T18:00:03.070296",
     "date_pt": "15 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "There came a point when I began to see serpents everywhere. The vision of serpents began timidly, with the faint pencil outline of the canopy that defined the site where Alessandro Arienzo, my partner, and I were to design a Serpentine Pavilion.",
     "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183428/serpentine-pavillion-lanza-atelier"
-  },
-  {
-    "id": "ff9a951060",
-    "date_iso": "2026-08-17T09:00:02.513266",
-    "date_pt": "17 de agosto de 2026",
-    "date_en": "August 17, 2026",
-    "title_pt": "This Mexico City Wellness Studio Turns Alignment Into Architecture",
-    "title_en": "This Mexico City Wellness Studio Turns Alignment Into Architecture",
-    "text_pt": "Talo Atelier uses rhythmic oak slats, curved openings, warm light, and intuitive circulation to create a Pilates and yoga studio designed as a journey inward",
-    "text_en": "Talo Atelier uses rhythmic oak slats, curved openings, warm light, and intuitive circulation to create a Pilates and yoga studio designed as a journey inward",
-    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/align-studio-talo-atelier-mexico-city/"
   }
 ]
