@@ -1,5 +1,17 @@
 [
   {
+    "id": "2af3b192cb",
+    "date_iso": "2026-09-17T18:00:03.078531",
+    "date_pt": "17 de setembro de 2026",
+    "date_en": "September 17, 2026",
+    "title_pt": "The Kimchi Brings Seoul’s Visual Energy to Prague",
+    "title_en": "The Kimchi Brings Seoul’s Visual Energy to Prague",
+    "text_pt": "SOA architekti distills Korean food culture, bold color, and graphic references into a compact restaurant where architecture and identity move together",
+    "text_en": "SOA architekti distills Korean food culture, bold color, and graphic references into a compact restaurant where architecture and identity move together",
+    "img": "https://images.pexels.com/photos/5563473/pexels-photo-5563473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/the-kimchi-restaurant-soa-architekti-prague/"
+  },
+  {
     "id": "3f1425208e",
     "date_iso": "2026-09-17T09:00:02.188696",
     "date_pt": "17 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Lidan Sfadia layers mohair, linen, limestone, oak, and aged metals to give a restrained Los Angeles interior dimension without relying on color",
     "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/lidan-sfadia-toluca-lake-home/"
-  },
-  {
-    "id": "cceffec5a8",
-    "date_iso": "2026-08-18T18:00:03.871188",
-    "date_pt": "18 de agosto de 2026",
-    "date_en": "August 18, 2026",
-    "title_pt": "Damata House / Melina Romano",
-    "title_en": "Damata House / Melina Romano",
-    "text_pt": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship between the residence and its surrounding landscape.",
-    "text_en": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship between the residence and its surrounding landscape.",
-    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1183504/damata-house-melina-romano"
   }
 ]
