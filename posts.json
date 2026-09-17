@@ -1,5 +1,17 @@
 [
   {
+    "id": "3f1425208e",
+    "date_iso": "2026-09-17T09:00:02.188696",
+    "date_pt": "17 de setembro de 2026",
+    "date_en": "September 17, 2026",
+    "title_pt": "The ever-evolving relationship of music and architecture chronicled in new monograph",
+    "title_en": "The ever-evolving relationship of music and architecture chronicled in new monograph",
+    "text_pt": "'Music and Architecture in Harmony' explores Europe’s grandest operatic and orchestral venues, old and new, charting 350 years of architectural, acoustic and stylistic evolution",
+    "text_en": "'Music and Architecture in Harmony' explores Europe’s grandest operatic and orchestral venues, old and new, charting 350 years of architectural, acoustic and stylistic evolution",
+    "img": "https://images.pexels.com/photos/39485848/pexels-photo-39485848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/music-and-architecture-in-harmony-book"
+  },
+  {
     "id": "aba6115191",
     "date_iso": "2026-09-16T18:00:03.282528",
     "date_pt": "16 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "At Casa Damata, located in the rural area of Itatiba (SP), the interior design by Melina Romano builds upon Otto Felix's architecture and Daniel Nunes's landscaping to reinforce the relationship between the residence and its surrounding landscape.",
     "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183504/damata-house-melina-romano"
-  },
-  {
-    "id": "b7c637beec",
-    "date_iso": "2026-08-18T09:00:02.580467",
-    "date_pt": "18 de agosto de 2026",
-    "date_en": "August 18, 2026",
-    "title_pt": "Graham Foundation Announces 45 New Grants for Projects Expanding Architectural Discourse in 2026",
-    "title_en": "Graham Foundation Announces 45 New Grants for Projects Expanding Architectural Discourse in 2026",
-    "text_pt": "Since 1956, the Graham Foundation for Advanced Studies in the Fine Arts has fostered the development and exchange of ideas about architecture and its role in the arts, culture, and society.",
-    "text_en": "Since 1956, the Graham Foundation for Advanced Studies in the Fine Arts has fostered the development and exchange of ideas about architecture and its role in the arts, culture, and society.",
-    "img": "https://images.pexels.com/photos/6920451/pexels-photo-6920451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1183472/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026"
   }
 ]
