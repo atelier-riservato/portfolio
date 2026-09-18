@@ -1,5 +1,17 @@
 [
   {
+    "id": "d2b0890107",
+    "date_iso": "2026-09-18T09:00:02.210320",
+    "date_pt": "18 de setembro de 2026",
+    "date_en": "September 18, 2026",
+    "title_pt": "Laneige Turns Skincare Customization Into a Four-Story Experience",
+    "title_en": "Laneige Turns Skincare Customization Into a Four-Story Experience",
+    "text_pt": "Designed by PlayLab, Laneige’s Seoul flagship scales up personalized beauty with interactive installations and bold architectural gestures",
+    "text_en": "Designed by PlayLab, Laneige’s Seoul flagship scales up personalized beauty with interactive installations and bold architectural gestures",
+    "img": "https://images.pexels.com/photos/11469002/pexels-photo-11469002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/laneige-seoul-flagship-playlab/"
+  },
+  {
     "id": "2af3b192cb",
     "date_iso": "2026-09-17T18:00:03.078531",
     "date_pt": "17 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Welcome Studio Mehta, an emerging architecture studio from Kenya, to the Wallpaper* Architects Directory 2026",
     "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/architects-directory/studio-mehta-kenya"
-  },
-  {
-    "id": "3e0bc532a4",
-    "date_iso": "2026-08-19T09:00:01.607704",
-    "date_pt": "19 de agosto de 2026",
-    "date_en": "August 19, 2026",
-    "title_pt": "Inside a Toluca Lake House That Finds Depth in a Narrow Palette",
-    "title_en": "Inside a Toluca Lake House That Finds Depth in a Narrow Palette",
-    "text_pt": "Lidan Sfadia layers mohair, linen, limestone, oak, and aged metals to give a restrained Los Angeles interior dimension without relying on color",
-    "text_en": "Lidan Sfadia layers mohair, linen, limestone, oak, and aged metals to give a restrained Los Angeles interior dimension without relying on color",
-    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/lidan-sfadia-toluca-lake-home/"
   }
 ]
