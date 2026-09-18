@@ -1,5 +1,17 @@
 [
   {
+    "id": "ee5c63b159",
+    "date_iso": "2026-09-18T18:00:03.582680",
+    "date_pt": "18 de setembro de 2026",
+    "date_en": "September 18, 2026",
+    "title_pt": "The Best Advent Calendars of 2026 for Design Lovers",
+    "title_en": "The Best Advent Calendars of 2026 for Design Lovers",
+    "text_pt": "From artist-designed chocolate boxes to reusable holiday villages, these advent calendars make the countdown as appealing as what’s waiting inside",
+    "text_en": "From artist-designed chocolate boxes to reusable holiday villages, these advent calendars make the countdown as appealing as what’s waiting inside",
+    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/best-advent-calendars-2026/"
+  },
+  {
     "id": "d2b0890107",
     "date_iso": "2026-09-18T09:00:02.210320",
     "date_pt": "18 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Big Bang Sapphire Sky Blue brings together a decade of sapphire experimentation with the exposed architecture of Hublot’s Meca-10 movement",
     "img": "https://images.pexels.com/photos/1955549/pexels-photo-1955549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/hublot-big-bang-sapphire-sky-blue/"
-  },
-  {
-    "id": "82a09fd20f",
-    "date_iso": "2026-08-19T18:00:03.284280",
-    "date_pt": "19 de agosto de 2026",
-    "date_en": "August 19, 2026",
-    "title_pt": "Studio Mehta's Kenyan retreat is luxuriously built using local and recycled materials",
-    "title_en": "Studio Mehta's Kenyan retreat is luxuriously built using local and recycled materials",
-    "text_pt": "Welcome Studio Mehta, an emerging architecture studio from Kenya, to the Wallpaper* Architects Directory 2026",
-    "text_en": "Welcome Studio Mehta, an emerging architecture studio from Kenya, to the Wallpaper* Architects Directory 2026",
-    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/architects-directory/studio-mehta-kenya"
   }
 ]
