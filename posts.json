@@ -1,5 +1,17 @@
 [
   {
+    "id": "69b483cc8e",
+    "date_iso": "2026-09-19T09:00:02.172636",
+    "date_pt": "19 de setembro de 2026",
+    "date_en": "September 19, 2026",
+    "title_pt": "Climate Experience World Visitor Center / DBCO",
+    "title_en": "Climate Experience World Visitor Center / DBCO",
+    "text_pt": "Germany's first visitor center dedicated to climate adaptation transforms its educational mission into an architectural experience shaped by landscape, material, and space.",
+    "text_en": "Germany's first visitor center dedicated to climate adaptation transforms its educational mission into an architectural experience shaped by landscape, material, and space.",
+    "img": "https://images.pexels.com/photos/39517222/pexels-photo-39517222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1185116/climate-experience-world-visitor-center-dbco"
+  },
+  {
     "id": "ee5c63b159",
     "date_iso": "2026-09-18T18:00:03.582680",
     "date_pt": "18 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Othmane Bengebara joins the Wallpaper* Architects Directory 2026 – representing Morocco with House Ddaar, a home for art and craft",
     "img": "https://images.pexels.com/photos/12277127/pexels-photo-12277127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/architects-directory/othmane-bengebara-studio-morocco"
-  },
-  {
-    "id": "39b727ad03",
-    "date_iso": "2026-08-20T09:00:02.874554",
-    "date_pt": "20 de agosto de 2026",
-    "date_en": "August 20, 2026",
-    "title_pt": "Hublot Puts Sky Blue Mechanics Inside a Clear Sapphire Case",
-    "title_en": "Hublot Puts Sky Blue Mechanics Inside a Clear Sapphire Case",
-    "text_pt": "The Big Bang Sapphire Sky Blue brings together a decade of sapphire experimentation with the exposed architecture of Hublot’s Meca-10 movement",
-    "text_en": "The Big Bang Sapphire Sky Blue brings together a decade of sapphire experimentation with the exposed architecture of Hublot’s Meca-10 movement",
-    "img": "https://images.pexels.com/photos/1955549/pexels-photo-1955549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/hublot-big-bang-sapphire-sky-blue/"
   }
 ]
