@@ -1,5 +1,17 @@
 [
   {
+    "id": "f769725943",
+    "date_iso": "2026-09-19T18:00:02.779270",
+    "date_pt": "19 de setembro de 2026",
+    "date_en": "September 19, 2026",
+    "title_pt": "Powerwall / Studio RAP",
+    "title_en": "Powerwall / Studio RAP",
+    "text_pt": "Powerwall translates the invisible electromagnetic forces of a 150 kV switch station into a large-scale ceramic relief, giving the technical infrastructure of Beverwijk a tangible architectural expression.",
+    "text_en": "Powerwall translates the invisible electromagnetic forces of a 150 kV switch station into a large-scale ceramic relief, giving the technical infrastructure of Beverwijk a tangible architectural expression.",
+    "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1185056/powerwall-studio-rap"
+  },
+  {
     "id": "69b483cc8e",
     "date_iso": "2026-09-19T09:00:02.172636",
     "date_pt": "19 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Is our architecture ultra-processed? And if so, what does it mean? We take a deep dive into how we build and explore buildings as 'one of the greatest public health opportunities of this century'",
     "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/ultra-processed-architecture"
-  },
-  {
-    "id": "3f3682fc28",
-    "date_iso": "2026-08-20T18:00:03.274438",
-    "date_pt": "20 de agosto de 2026",
-    "date_en": "August 20, 2026",
-    "title_pt": "This minimalist villa by Othmane Bengebara is conceived for both gatherings and retreat",
-    "title_en": "This minimalist villa by Othmane Bengebara is conceived for both gatherings and retreat",
-    "text_pt": "Othmane Bengebara joins the Wallpaper* Architects Directory 2026 – representing Morocco with House Ddaar, a home for art and craft",
-    "text_en": "Othmane Bengebara joins the Wallpaper* Architects Directory 2026 – representing Morocco with House Ddaar, a home for art and craft",
-    "img": "https://images.pexels.com/photos/12277127/pexels-photo-12277127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/architects-directory/othmane-bengebara-studio-morocco"
   }
 ]
