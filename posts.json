@@ -1,5 +1,17 @@
 [
   {
+    "id": "d90f97f8b4",
+    "date_iso": "2026-09-20T18:00:02.875681",
+    "date_pt": "20 de setembro de 2026",
+    "date_en": "September 20, 2026",
+    "title_pt": "La Grieta Pavilion / Onda Pavilion + WEYES Estudio",
+    "title_en": "La Grieta Pavilion / Onda Pavilion + WEYES Estudio",
+    "text_pt": "Understanding architecture as both a collaborative and experiential practice, La Grieta Pavilion was conceived as an academic and constructive exploration focused on sustainability, material awareness, and the relationship between light, time, and space.",
+    "text_en": "Understanding architecture as both a collaborative and experiential practice, La Grieta Pavilion was conceived as an academic and constructive exploration focused on sustainability, material awareness, and the relationship between light, time, and space.",
+    "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1185419/la-grieta-pavilion-onda-pavilion-plus-weyes-estudio"
+  },
+  {
     "id": "212252a113",
     "date_iso": "2026-09-20T09:00:01.372708",
     "date_pt": "20 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Isla Tortuga Park, located in northern Quito , Ecuador, was selected for the implementation of the Yaku (meaning \"water\" in Kichwa) prototype. This modular urban furniture project blends public space with sustainable rainwater and biodiversity management.",
     "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183770/yaku-sustainable-urban-runoff-management-module-el-sindicato-arquitectura"
-  },
-  {
-    "id": "439bbede43",
-    "date_iso": "2026-08-21T18:00:03.764947",
-    "date_pt": "21 de agosto de 2026",
-    "date_en": "August 21, 2026",
-    "title_pt": "Ford + Filson Rethink What a Luxury Bronco Looks Like",
-    "title_en": "Ford + Filson Rethink What a Luxury Bronco Looks Like",
-    "text_pt": "The Bronco Filson trades conventional luxury cues for rugged materials, functional details, and an interior designed to get better with use",
-    "text_en": "The Bronco Filson trades conventional luxury cues for rugged materials, functional details, and an interior designed to get better with use",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/ford-bronco-filson/"
   }
 ]
