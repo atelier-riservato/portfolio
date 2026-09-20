@@ -1,5 +1,17 @@
 [
   {
+    "id": "212252a113",
+    "date_iso": "2026-09-20T09:00:01.372708",
+    "date_pt": "20 de setembro de 2026",
+    "date_en": "September 20, 2026",
+    "title_pt": "Elliot March Lets the Landscape Lead the Way",
+    "title_en": "Elliot March Lets the Landscape Lead the Way",
+    "text_pt": "The MAWD cofounder looks to landscapes, architecture, and the character of a place to shape spaces that feel like they belong",
+    "text_en": "The MAWD cofounder looks to landscapes, architecture, and the character of a place to shape spaces that feel like they belong",
+    "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/friday-five-elliot-march-mawd/"
+  },
+  {
     "id": "f769725943",
     "date_iso": "2026-09-19T18:00:02.779270",
     "date_pt": "19 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Bronco Filson trades conventional luxury cues for rugged materials, functional details, and an interior designed to get better with use",
     "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/ford-bronco-filson/"
-  },
-  {
-    "id": "ad0d885914",
-    "date_iso": "2026-08-21T09:00:01.578035",
-    "date_pt": "21 de agosto de 2026",
-    "date_en": "August 21, 2026",
-    "title_pt": "Is your home ‘ultra-processed’? Why architects are rethinking what we build with",
-    "title_en": "Is your home ‘ultra-processed’? Why architects are rethinking what we build with",
-    "text_pt": "Is our architecture ultra-processed? And if so, what does it mean? We take a deep dive into how we build and explore buildings as 'one of the greatest public health opportunities of this century'",
-    "text_en": "Is our architecture ultra-processed? And if so, what does it mean? We take a deep dive into how we build and explore buildings as 'one of the greatest public health opportunities of this century'",
-    "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/ultra-processed-architecture"
   }
 ]
