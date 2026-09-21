@@ -1,5 +1,17 @@
 [
   {
+    "id": "83008cb849",
+    "date_iso": "2026-09-21T18:00:03.579913",
+    "date_pt": "21 de setembro de 2026",
+    "date_en": "September 21, 2026",
+    "title_pt": "Victoria Yakusha designs a minimalist jewellery store that feels like entering a velvety box",
+    "title_en": "Victoria Yakusha designs a minimalist jewellery store that feels like entering a velvety box",
+    "text_pt": "The Ukrainian architect and designer created a soft-yet-sculptural New York boutique for Ukrianian brand Guzema: ‘What surrounds an object is as important as the object itself'",
+    "text_en": "The Ukrainian architect and designer created a soft-yet-sculptural New York boutique for Ukrianian brand Guzema: ‘What surrounds an object is as important as the object itself'",
+    "img": "https://images.pexels.com/photos/14809401/pexels-photo-14809401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/interior-design/victoria-yakusha-guzema-jewellery-store-nyc"
+  },
+  {
     "id": "f90d11f528",
     "date_iso": "2026-09-21T09:00:01.672315",
     "date_pt": "21 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Studio ZAWA The post Darling Point Apartment appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/darling-point-apartment/"
-  },
-  {
-    "id": "1cd536afb7",
-    "date_iso": "2026-08-22T18:00:02.587359",
-    "date_pt": "22 de agosto de 2026",
-    "date_en": "August 22, 2026",
-    "title_pt": "Skyline Workscape",
-    "title_en": "Skyline Workscape",
-    "text_pt": "Studio Per The post Skyline Workscape appeared first on Leibal .",
-    "text_en": "Studio Per The post Skyline Workscape appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/28586227/pexels-photo-28586227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/skyline-workscape/"
   }
 ]
