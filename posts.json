@@ -1,5 +1,17 @@
 [
   {
+    "id": "609d71e56a",
+    "date_iso": "2026-09-22T18:00:03.385408",
+    "date_pt": "22 de setembro de 2026",
+    "date_en": "September 22, 2026",
+    "title_pt": "At Milan Fashion Week, Prada hones in on the skirt",
+    "title_en": "At Milan Fashion Week, Prada hones in on the skirt",
+    "text_pt": "Every look of Prada’s S/S 2027 show today (22 September 2026) featured a skirt – a garment that co-creative directors Miuccia Prada and Raf Simons used as ‘a raw material to express concepts’",
+    "text_en": "Every look of Prada’s S/S 2027 show today (22 September 2026) featured a skirt – a garment that co-creative directors Miuccia Prada and Raf Simons used as ‘a raw material to express concepts’",
+    "img": "https://images.pexels.com/photos/14809401/pexels-photo-14809401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week"
+  },
+  {
     "id": "5b5fa9cd1d",
     "date_iso": "2026-09-22T09:00:01.663675",
     "date_pt": "22 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Sculpted from brass, handcrafted in India, and totally refillable, the Kayla Lighter by Los Angeles design brand Dumæ is designed to be displayed just as much as it is used",
     "img": "https://images.pexels.com/photos/10508622/pexels-photo-10508622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/dumae-kayla-lighter"
-  },
-  {
-    "id": "babfbd903d",
-    "date_iso": "2026-08-23T18:00:02.761918",
-    "date_pt": "23 de agosto de 2026",
-    "date_en": "August 23, 2026",
-    "title_pt": "Zimbro House / Stemmer Rodrigues Arquitetura",
-    "title_en": "Zimbro House / Stemmer Rodrigues Arquitetura",
-    "text_pt": "Casa Zimbro was born from the search for an architecture in continuity with the landscape, where the construction does not impose itself on its surroundings but rather integrates with them in a natural and sensitive way.",
-    "text_en": "Casa Zimbro was born from the search for an architecture in continuity with the landscape, where the construction does not impose itself on its surroundings but rather integrates with them in a natural and sensitive way.",
-    "img": "https://images.pexels.com/photos/7518747/pexels-photo-7518747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura"
   }
 ]
