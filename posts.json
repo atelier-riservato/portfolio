@@ -1,5 +1,17 @@
 [
   {
+    "id": "5b5fa9cd1d",
+    "date_iso": "2026-09-22T09:00:01.663675",
+    "date_pt": "22 de setembro de 2026",
+    "date_en": "September 22, 2026",
+    "title_pt": "From Seasonal Escape to Permanent Elsewhere: Movement and Architecture in the Gulf",
+    "title_en": "From Seasonal Escape to Permanent Elsewhere: Movement and Architecture in the Gulf",
+    "text_pt": "For many communities across the Gulf, leaving home once formed part of inhabiting it. Families moved between desert pastures, coastal settlements, wells, fishing grounds, and pearling ports according to season and livelihood, returning repeatedly to places already known through u...",
+    "text_en": "For many communities across the Gulf, leaving home once formed part of inhabiting it. Families moved between desert pastures, coastal settlements, wells, fishing grounds, and pearling ports according to season and livelihood, returning repeatedly to places already known through u...",
+    "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1184632/from-seasonal-escape-to-permanent-elsewhere-movement-and-architecture-in-the-gulf"
+  },
+  {
     "id": "83008cb849",
     "date_iso": "2026-09-21T18:00:03.579913",
     "date_pt": "21 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Casa Zimbro was born from the search for an architecture in continuity with the landscape, where the construction does not impose itself on its surroundings but rather integrates with them in a natural and sensitive way.",
     "img": "https://images.pexels.com/photos/7518747/pexels-photo-7518747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura"
-  },
-  {
-    "id": "5d57406b2b",
-    "date_iso": "2026-08-23T09:00:02.232801",
-    "date_pt": "23 de agosto de 2026",
-    "date_en": "August 23, 2026",
-    "title_pt": "Darling Point Apartment",
-    "title_en": "Darling Point Apartment",
-    "text_pt": "Studio ZAWA The post Darling Point Apartment appeared first on Leibal .",
-    "text_en": "Studio ZAWA The post Darling Point Apartment appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/darling-point-apartment/"
   }
 ]
