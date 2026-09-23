@@ -1,5 +1,17 @@
 [
   {
+    "id": "2dafeb4275",
+    "date_iso": "2026-09-23T18:00:02.868154",
+    "date_pt": "23 de setembro de 2026",
+    "date_en": "September 23, 2026",
+    "title_pt": "Linden House / Schemata Architects",
+    "title_en": "Linden House / Schemata Architects",
+    "text_pt": "The Dromgariff Rainforest is a project led by Bryan and Tara Meehan to regenerate its gardens and forest. One of Ireland's last ancient oak wood rainforests and a protected Special Area of Conservation, the forest stretches across the south of Ireland.",
+    "text_en": "The Dromgariff Rainforest is a project led by Bryan and Tara Meehan to regenerate its gardens and forest. One of Ireland's last ancient oak wood rainforests and a protected Special Area of Conservation, the forest stretches across the south of Ireland.",
+    "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1185459/linden-house-schemata-architects"
+  },
+  {
     "id": "e5fba7e10f",
     "date_iso": "2026-09-23T09:00:02.161303",
     "date_pt": "23 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Studio Nilasha transforms an overlooked basement near Gandipet Lake with green marble, jewel tones and an open-air lounge",
     "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/travel/bars/qode-hyderabad-review"
-  },
-  {
-    "id": "1fa22c15cf",
-    "date_iso": "2026-08-24T18:00:03.278841",
-    "date_pt": "24 de agosto de 2026",
-    "date_en": "August 24, 2026",
-    "title_pt": "90/100 Mixed Use Project / 5468796 Architecture",
-    "title_en": "90/100 Mixed Use Project / 5468796 Architecture",
-    "text_pt": "On a long parcel at the edge of Winnipeg's East Exchange District, 90/100, named for its address, unites a 1905 warehouse with a seven-storey contemporary volume to create a medium-density, mixed-use development.",
-    "text_en": "On a long parcel at the edge of Winnipeg's East Exchange District, 90/100, named for its address, unites a 1905 warehouse with a seven-storey contemporary volume to create a medium-density, mixed-use development.",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1182206/90-100-mixed-use-project-5468796-architecture"
   }
 ]
