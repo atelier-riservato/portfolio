@@ -1,5 +1,17 @@
 [
   {
+    "id": "468b5a0484",
+    "date_iso": "2026-09-24T09:00:02.088968",
+    "date_pt": "24 de setembro de 2026",
+    "date_en": "September 24, 2026",
+    "title_pt": "Barbie provides inspiration and source material for Gomi’s new range of unique devices",
+    "title_en": "Barbie provides inspiration and source material for Gomi’s new range of unique devices",
+    "text_pt": "The Childhood Memories Collection from Gomi takes recycled plastics to a new level by incorporating unwanted and pre-loved Barbie dolls in the process",
+    "text_en": "The Childhood Memories Collection from Gomi takes recycled plastics to a new level by incorporating unwanted and pre-loved Barbie dolls in the process",
+    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/tech/gomi-barbie-childhood-memories-collection-of-devices"
+  },
+  {
     "id": "2dafeb4275",
     "date_iso": "2026-09-23T18:00:02.868154",
     "date_pt": "23 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Glass House (Casa de Vidro) was conceived from a contemporary architecture of strong horizontal expression, where the lightness of the planes and the precision of the lines define a sophisticated and timeless aesthetic.",
     "img": "https://images.pexels.com/photos/1796724/pexels-photo-1796724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183928/glass-house-charlene-koetz-arquitetura"
-  },
-  {
-    "id": "3acea44b8b",
-    "date_iso": "2026-08-25T09:00:01.586210",
-    "date_pt": "25 de agosto de 2026",
-    "date_en": "August 25, 2026",
-    "title_pt": "Go underground at Qode, Hyderabad’s newest basement bar",
-    "title_en": "Go underground at Qode, Hyderabad’s newest basement bar",
-    "text_pt": "Studio Nilasha transforms an overlooked basement near Gandipet Lake with green marble, jewel tones and an open-air lounge",
-    "text_en": "Studio Nilasha transforms an overlooked basement near Gandipet Lake with green marble, jewel tones and an open-air lounge",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/travel/bars/qode-hyderabad-review"
   }
 ]
