@@ -1,5 +1,17 @@
 [
   {
+    "id": "205310a4af",
+    "date_iso": "2026-09-24T18:00:03.672216",
+    "date_pt": "24 de setembro de 2026",
+    "date_en": "September 24, 2026",
+    "title_pt": "The Porsche 550 Spyder Gets a Smaller, Electric Second Act",
+    "title_en": "The Porsche 550 Spyder Gets a Smaller, Electric Second Act",
+    "text_pt": "Porsche and Hedley Studios shrink a 1950s racing icon to 80% scale without sacrificing the details that made the original so recognizable",
+    "text_en": "Porsche and Hedley Studios shrink a 1950s racing icon to 80% scale without sacrificing the details that made the original so recognizable",
+    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/porsche-550-j-hedley-studios/"
+  },
+  {
     "id": "468b5a0484",
     "date_iso": "2026-09-24T09:00:02.088968",
     "date_pt": "24 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Cottage Door is a muted mid-tone blue designed to bring a little more color—and personality—to the neutral home",
     "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/valspar-2027-color-of-the-year-cottage-door/"
-  },
-  {
-    "id": "22b3d5c391",
-    "date_iso": "2026-08-25T18:00:03.465221",
-    "date_pt": "25 de agosto de 2026",
-    "date_en": "August 25, 2026",
-    "title_pt": "Glass House / Charlene Koetz Arquitetura",
-    "title_en": "Glass House / Charlene Koetz Arquitetura",
-    "text_pt": "The Glass House (Casa de Vidro) was conceived from a contemporary architecture of strong horizontal expression, where the lightness of the planes and the precision of the lines define a sophisticated and timeless aesthetic.",
-    "text_en": "The Glass House (Casa de Vidro) was conceived from a contemporary architecture of strong horizontal expression, where the lightness of the planes and the precision of the lines define a sophisticated and timeless aesthetic.",
-    "img": "https://images.pexels.com/photos/1796724/pexels-photo-1796724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1183928/glass-house-charlene-koetz-arquitetura"
   }
 ]
