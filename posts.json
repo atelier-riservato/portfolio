@@ -1,5 +1,17 @@
 [
   {
+    "id": "5e32ea2d60",
+    "date_iso": "2026-09-25T18:00:03.871907",
+    "date_pt": "25 de setembro de 2026",
+    "date_en": "September 25, 2026",
+    "title_pt": "Jeronimo Faria Lima Building / Perkins&Will São Paulo",
+    "title_en": "Jeronimo Faria Lima Building / Perkins&Will São Paulo",
+    "text_pt": "At one of S&atilde;o Paulo&rsquo;s most emblematic corners&mdash;where the intensity of Brigadeiro Faria Lima Avenue meets the walkable scale of Jeronimo da Veiga Street&mdash;Jeronimo Faria Lima does not seek to assert itself through height, form, or presence in the skyline alon...",
+    "text_en": "At one of S&atilde;o Paulo&rsquo;s most emblematic corners&mdash;where the intensity of Brigadeiro Faria Lima Avenue meets the walkable scale of Jeronimo da Veiga Street&mdash;Jeronimo Faria Lima does not seek to assert itself through height, form, or presence in the skyline alon...",
+    "img": "https://images.pexels.com/photos/17627997/pexels-photo-17627997.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1185833/jeronimo-faria-lima-building-perkins-and-will-sao-paulo"
+  },
+  {
     "id": "01873188ac",
     "date_iso": "2026-09-25T09:00:02.289192",
     "date_pt": "25 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Note Design Studio The post Villa Österlen appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/10508622/pexels-photo-10508622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/villa-osterlen/"
-  },
-  {
-    "id": "b9c1dd4670",
-    "date_iso": "2026-08-26T18:00:04.065179",
-    "date_pt": "26 de agosto de 2026",
-    "date_en": "August 26, 2026",
-    "title_pt": "Kemetale Revives the Art of Slow Travel on the Nile",
-    "title_en": "Kemetale Revives the Art of Slow Travel on the Nile",
-    "text_pt": "A reimagined Egyptian dahabeah pairs a centuries-old mode of travel with contemporary interiors, local craftsmanship, and an itinerary designed around the pleasures of drifting",
-    "text_en": "A reimagined Egyptian dahabeah pairs a centuries-old mode of travel with contemporary interiors, local craftsmanship, and an itinerary designed around the pleasures of drifting",
-    "img": "https://images.pexels.com/photos/7598375/pexels-photo-7598375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/kemetale-egyptian-dahabeah-nile/"
   }
 ]
