@@ -1,5 +1,17 @@
 [
   {
+    "id": "c7967e5d16",
+    "date_iso": "2026-09-27T18:00:02.889664",
+    "date_pt": "27 de setembro de 2026",
+    "date_en": "September 27, 2026",
+    "title_pt": "House of People / DinellJohansson",
+    "title_en": "House of People / DinellJohansson",
+    "text_pt": "Folkets Hus has been refurbished and restored with the care and attention it deserves. The original building architect was the excellent Kockum Luttinger Söderström.",
+    "text_en": "Folkets Hus has been refurbished and restored with the care and attention it deserves. The original building architect was the excellent Kockum Luttinger Söderström.",
+    "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson"
+  },
+  {
     "id": "047426f551",
     "date_iso": "2026-09-27T09:00:02.408096",
     "date_pt": "27 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Do you know what a corbel is? Now you do, thanks to a Herefordshire preservation architect documenting his town's architectural heritage",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/leominster-heritage-viral-architecture-video"
-  },
-  {
-    "id": "58d651b692",
-    "date_iso": "2026-08-28T18:00:03.663592",
-    "date_pt": "28 de agosto de 2026",
-    "date_en": "August 28, 2026",
-    "title_pt": "The Clear-Tech Comeback Is Putting Everything on Display",
-    "title_en": "The Clear-Tech Comeback Is Putting Everything on Display",
-    "text_pt": "Clear cases and visible circuitry give modern electronics a decidedly retro edge",
-    "text_en": "Clear cases and visible circuitry give modern electronics a decidedly retro edge",
-    "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/transparent-tech-gadgets-retro-design/"
   }
 ]
