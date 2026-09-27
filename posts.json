@@ -1,5 +1,17 @@
 [
   {
+    "id": "047426f551",
+    "date_iso": "2026-09-27T09:00:02.408096",
+    "date_pt": "27 de setembro de 2026",
+    "date_en": "September 27, 2026",
+    "title_pt": "Wild hippos and elephants are your neighbours at this luxury tented camp in Zambia",
+    "title_en": "Wild hippos and elephants are your neighbours at this luxury tented camp in Zambia",
+    "text_pt": "From floating fitness suites to river safaris, Anantara’s new Kafue River property is designed around its extraordinary natural setting",
+    "text_en": "From floating fitness suites to river safaris, Anantara’s new Kafue River property is designed around its extraordinary natural setting",
+    "img": "https://images.pexels.com/photos/37066113/pexels-photo-37066113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/travel/hotels/anantara-tented-camp-kafue-river-zambia-review"
+  },
+  {
     "id": "fbc892e0b4",
     "date_iso": "2026-09-26T18:00:02.384750",
     "date_pt": "26 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Clear cases and visible circuitry give modern electronics a decidedly retro edge",
     "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/transparent-tech-gadgets-retro-design/"
-  },
-  {
-    "id": "082593fcf7",
-    "date_iso": "2026-08-28T09:00:02.194742",
-    "date_pt": "28 de agosto de 2026",
-    "date_en": "August 28, 2026",
-    "title_pt": "Building the Future: 6 Unbuilt Research Centers from the ArchDaily Community",
-    "title_en": "Building the Future: 6 Unbuilt Research Centers from the ArchDaily Community",
-    "text_pt": "Research is a structured and active process of analyzing, testing, interpreting, and solving, ultimately leading to knowledge that can be considered disruptive.",
-    "text_en": "Research is a structured and active process of analyzing, testing, interpreting, and solving, ultimately leading to knowledge that can be considered disruptive.",
-    "img": "https://images.pexels.com/photos/7518747/pexels-photo-7518747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1184113/building-the-future-6-unbuilt-research-centers-from-the-archdaily-community"
   }
 ]
