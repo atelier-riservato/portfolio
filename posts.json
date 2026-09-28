@@ -1,5 +1,17 @@
 [
   {
+    "id": "b62e12a127",
+    "date_iso": "2026-09-28T09:00:02.220604",
+    "date_pt": "28 de setembro de 2026",
+    "date_en": "September 28, 2026",
+    "title_pt": "Escapism from the Streets: How Air-Conditioning Reshaped the Asian City",
+    "title_en": "Escapism from the Streets: How Air-Conditioning Reshaped the Asian City",
+    "text_pt": "In many Asian cities, the summer climate can increasingly be experienced from a distance. In Hong Kong , it is possible to move from an apartment tower through a podium mall , enter the Mass-Transit-Railway system (MTR), arrive beneath another commercial complex, and continue thr...",
+    "text_en": "In many Asian cities, the summer climate can increasingly be experienced from a distance. In Hong Kong , it is possible to move from an apartment tower through a podium mall , enter the Mass-Transit-Railway system (MTR), arrive beneath another commercial complex, and continue thr...",
+    "img": "https://images.pexels.com/photos/12277197/pexels-photo-12277197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1185653/escapism-from-the-streets-how-air-conditioning-reshaped-the-asian-city"
+  },
+  {
     "id": "c7967e5d16",
     "date_iso": "2026-09-27T18:00:02.889664",
     "date_pt": "27 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Silver Cross brings supercar-inspired materials and details to a limited-edition stroller dressed in Lamborghini’s signature yellow",
     "img": "https://images.pexels.com/photos/921290/pexels-photo-921290.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/silver-cross-lamborghini-reef-al-giallo-stroller/"
-  },
-  {
-    "id": "94e08b4ba4",
-    "date_iso": "2026-08-29T09:00:02.266874",
-    "date_pt": "29 de agosto de 2026",
-    "date_en": "August 29, 2026",
-    "title_pt": "This viral Instagram account is putting the ancient architecture of Leominster on the map",
-    "title_en": "This viral Instagram account is putting the ancient architecture of Leominster on the map",
-    "text_pt": "Do you know what a corbel is? Now you do, thanks to a Herefordshire preservation architect documenting his town's architectural heritage",
-    "text_en": "Do you know what a corbel is? Now you do, thanks to a Herefordshire preservation architect documenting his town's architectural heritage",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/leominster-heritage-viral-architecture-video"
   }
 ]
