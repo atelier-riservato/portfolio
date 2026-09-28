@@ -1,5 +1,17 @@
 [
   {
+    "id": "e82cf339d0",
+    "date_iso": "2026-09-28T18:00:03.077170",
+    "date_pt": "28 de setembro de 2026",
+    "date_en": "September 28, 2026",
+    "title_pt": "Cincinnati’s Fidelity Hotel Gives a Beaux-Arts Landmark New Life",
+    "title_en": "Cincinnati’s Fidelity Hotel Gives a Beaux-Arts Landmark New Life",
+    "text_pt": "New Waterloo and Looney &#038; Associates transform the historic Gwynne Building into a 165-room hotel that draws on Cincinnati’s architecture, history, and culture",
+    "text_en": "New Waterloo and Looney &#038; Associates transform the historic Gwynne Building into a 165-room hotel that draws on Cincinnati’s architecture, history, and culture",
+    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/cincinnati-fidelity-hotel-gwynne-building/"
+  },
+  {
     "id": "b62e12a127",
     "date_iso": "2026-09-28T09:00:02.220604",
     "date_pt": "28 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The courtyard at Rozzol Melara measures two hundred meters on each side, which makes it larger than any square in Trieste .",
     "img": "https://images.pexels.com/photos/30386982/pexels-photo-30386982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183316/alcatraz-on-the-hill-the-rise-and-afterlife-of-triestes-rozzol-melara"
-  },
-  {
-    "id": "2faad2e942",
-    "date_iso": "2026-08-29T18:00:01.770417",
-    "date_pt": "29 de agosto de 2026",
-    "date_en": "August 29, 2026",
-    "title_pt": "Lamborghini’s Latest Four-Wheeler Is Built for Babies",
-    "title_en": "Lamborghini’s Latest Four-Wheeler Is Built for Babies",
-    "text_pt": "Silver Cross brings supercar-inspired materials and details to a limited-edition stroller dressed in Lamborghini’s signature yellow",
-    "text_en": "Silver Cross brings supercar-inspired materials and details to a limited-edition stroller dressed in Lamborghini’s signature yellow",
-    "img": "https://images.pexels.com/photos/921290/pexels-photo-921290.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/silver-cross-lamborghini-reef-al-giallo-stroller/"
   }
 ]
