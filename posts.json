@@ -1,5 +1,17 @@
 [
   {
+    "id": "de8b3e105e",
+    "date_iso": "2026-09-29T18:00:03.785275",
+    "date_pt": "29 de setembro de 2026",
+    "date_en": "September 29, 2026",
+    "title_pt": "Garner Residence / Davey McEathron Architecture",
+    "title_en": "Garner Residence / Davey McEathron Architecture",
+    "text_pt": "Eclectic 1970s-inspired home designed by Davey McEathron Architecture with interiors + construction by Cary Paul Studios. This home in the heart of South Austin blends mid-century modern charm with 70s and Memphis modern-influenced interiors.",
+    "text_en": "Eclectic 1970s-inspired home designed by Davey McEathron Architecture with interiors + construction by Cary Paul Studios. This home in the heart of South Austin blends mid-century modern charm with 70s and Memphis modern-influenced interiors.",
+    "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1029095/garner-residence-davey-mceathron-architecture"
+  },
+  {
     "id": "4bd7bea21f",
     "date_iso": "2026-09-29T09:00:01.369030",
     "date_pt": "29 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Bastidas Architecture The post Calatrava House appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/1796724/pexels-photo-1796724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/calatrava-house/"
-  },
-  {
-    "id": "0d072f2c02",
-    "date_iso": "2026-08-30T18:00:02.190298",
-    "date_pt": "30 de agosto de 2026",
-    "date_en": "August 30, 2026",
-    "title_pt": "Christine Sun Kim’s first book is a personal and humorous mediation on Deaf culture",
-    "title_en": "Christine Sun Kim’s first book is a personal and humorous mediation on Deaf culture",
-    "text_pt": "Christine Sun Kim’s book, 'Deaf Material', Primary Information, offers an array of new insights into her personhood, her practice, and Deaf culture broadly, in over 400 image-focused pages",
-    "text_en": "Christine Sun Kim’s book, 'Deaf Material', Primary Information, offers an array of new insights into her personhood, her practice, and Deaf culture broadly, in over 400 image-focused pages",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/art/christine-sun-kim-deaf-material"
   }
 ]
