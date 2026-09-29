@@ -1,5 +1,17 @@
 [
   {
+    "id": "4bd7bea21f",
+    "date_iso": "2026-09-29T09:00:01.369030",
+    "date_pt": "29 de setembro de 2026",
+    "date_en": "September 29, 2026",
+    "title_pt": "Living Room",
+    "title_en": "Living Room",
+    "text_pt": "Tim Veresnovsky Studio The post Living Room appeared first on Leibal .",
+    "text_en": "Tim Veresnovsky Studio The post Living Room appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/30644177/pexels-photo-30644177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/living-room/"
+  },
+  {
     "id": "e82cf339d0",
     "date_iso": "2026-09-28T18:00:03.077170",
     "date_pt": "28 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Christine Sun Kim’s book, 'Deaf Material', Primary Information, offers an array of new insights into her personhood, her practice, and Deaf culture broadly, in over 400 image-focused pages",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/art/christine-sun-kim-deaf-material"
-  },
-  {
-    "id": "81d2652af1",
-    "date_iso": "2026-08-30T09:00:01.662503",
-    "date_pt": "30 de agosto de 2026",
-    "date_en": "August 30, 2026",
-    "title_pt": "Alcatraz on the Hill: The Rise and Afterlife of Trieste's Rozzol Melara",
-    "title_en": "Alcatraz on the Hill: The Rise and Afterlife of Trieste's Rozzol Melara",
-    "text_pt": "The courtyard at Rozzol Melara measures two hundred meters on each side, which makes it larger than any square in Trieste .",
-    "text_en": "The courtyard at Rozzol Melara measures two hundred meters on each side, which makes it larger than any square in Trieste .",
-    "img": "https://images.pexels.com/photos/30386982/pexels-photo-30386982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1183316/alcatraz-on-the-hill-the-rise-and-afterlife-of-triestes-rozzol-melara"
   }
 ]
