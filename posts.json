@@ -1,5 +1,17 @@
 [
   {
+    "id": "2aff441488",
+    "date_iso": "2026-09-30T18:00:03.373302",
+    "date_pt": "30 de setembro de 2026",
+    "date_en": "September 30, 2026",
+    "title_pt": "Matriz House / Estúdio Zargos",
+    "title_en": "Matriz House / Estúdio Zargos",
+    "text_pt": "Casa Matriz was born from a refusal to repeat the obvious. In surroundings marked by closely built houses and a repetition of predictable solutions, the architecture responds with introspection and openness: it closes itself off at the sides to preserve privacy, while directing t...",
+    "text_en": "Casa Matriz was born from a refusal to repeat the obvious. In surroundings marked by closely built houses and a repetition of predictable solutions, the architecture responds with introspection and openness: it closes itself off at the sides to preserve privacy, while directing t...",
+    "img": "https://images.pexels.com/photos/30776070/pexels-photo-30776070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1185997/matriz-house-estudio-zargos"
+  },
+  {
     "id": "e384ae5180",
     "date_iso": "2026-09-30T09:00:02.155418",
     "date_pt": "30 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "What narratives do materials carry, and how can the visible \"traces\" of artisans engage in a dialogue with manufacturing processes and industrialization ? Between design and construction, the act of thinking through making can become a guiding principle for a design philosophy.",
     "img": "https://images.pexels.com/photos/10568025/pexels-photo-10568025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1184106/thinking-through-the-hand-atelier-craft-on-design-and-making"
-  },
-  {
-    "id": "73b39043d1",
-    "date_iso": "2026-08-31T18:00:03.076424",
-    "date_pt": "31 de agosto de 2026",
-    "date_en": "August 31, 2026",
-    "title_pt": "John Galliano withdraws from landmark Metropolitan Museum exhibition, following controversy",
-    "title_en": "John Galliano withdraws from landmark Metropolitan Museum exhibition, following controversy",
-    "text_pt": "After a wave of criticism, the museum announced that it has cancelled plans to proceed with a show honouring the fashion designer's work",
-    "text_en": "After a wave of criticism, the museum announced that it has cancelled plans to proceed with a show honouring the fashion designer's work",
-    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/john-galliano-met-costume-institute-show-cancelled"
   }
 ]
