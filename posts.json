@@ -1,5 +1,17 @@
 [
   {
+    "id": "e384ae5180",
+    "date_iso": "2026-09-30T09:00:02.155418",
+    "date_pt": "30 de setembro de 2026",
+    "date_en": "September 30, 2026",
+    "title_pt": "Church Edit’s LA Headquarters Rethinks the Editing Studio",
+    "title_en": "Church Edit’s LA Headquarters Rethinks the Editing Studio",
+    "text_pt": "Argyle Design brings residential warmth to an industrial Frogtown building, balancing the technical demands of a post-production studio with light, openness, and softer materials",
+    "text_en": "Argyle Design brings residential warmth to an industrial Frogtown building, balancing the technical demands of a post-production studio with light, openness, and softer materials",
+    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/church-edit-headquarters/"
+  },
+  {
     "id": "de8b3e105e",
     "date_iso": "2026-09-29T18:00:03.785275",
     "date_pt": "29 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "After a wave of criticism, the museum announced that it has cancelled plans to proceed with a show honouring the fashion designer's work",
     "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/fashion-beauty/fashion-beauty-events/john-galliano-met-costume-institute-show-cancelled"
-  },
-  {
-    "id": "15cbd36118",
-    "date_iso": "2026-08-31T09:00:02.680242",
-    "date_pt": "31 de agosto de 2026",
-    "date_en": "August 31, 2026",
-    "title_pt": "Calatrava House",
-    "title_en": "Calatrava House",
-    "text_pt": "Bastidas Architecture The post Calatrava House appeared first on Leibal .",
-    "text_en": "Bastidas Architecture The post Calatrava House appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/1796724/pexels-photo-1796724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/calatrava-house/"
   }
 ]
