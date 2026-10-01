@@ -1,5 +1,17 @@
 [
   {
+    "id": "d82afdce44",
+    "date_iso": "2026-10-01T18:00:04.071919",
+    "date_pt": "1 de outubro de 2026",
+    "date_en": "October 1, 2026",
+    "title_pt": "Casa Malonic",
+    "title_en": "Casa Malonic",
+    "text_pt": "HW Studio The post Casa Malonic appeared first on Leibal .",
+    "text_en": "HW Studio The post Casa Malonic appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/30644177/pexels-photo-30644177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/casa-malonic/"
+  },
+  {
     "id": "111260542e",
     "date_iso": "2026-10-01T09:00:01.471808",
     "date_pt": "1 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The brand’s Fall 2026 collection brings together dining, seating, lighting, and tables shaped by Danish modernism, natural materials, and the rituals of gathering",
     "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/audo-copenhagen-fall-2026-collection/"
-  },
-  {
-    "id": "86a4e70e68",
-    "date_iso": "2026-09-01T18:00:03.863485",
-    "date_pt": "1 de setembro de 2026",
-    "date_en": "September 1, 2026",
-    "title_pt": "Haven of Nature",
-    "title_en": "Haven of Nature",
-    "text_pt": "ERMU Studio The post Haven of Nature appeared first on Leibal .",
-    "text_en": "ERMU Studio The post Haven of Nature appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/haven-of-nature/"
   }
 ]
