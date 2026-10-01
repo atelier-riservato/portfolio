@@ -1,5 +1,17 @@
 [
   {
+    "id": "111260542e",
+    "date_iso": "2026-10-01T09:00:01.471808",
+    "date_pt": "1 de outubro de 2026",
+    "date_en": "October 1, 2026",
+    "title_pt": "Step inside the revamped Ghent Design Museum, a ‘touchpoint' for coming together",
+    "title_en": "Step inside the revamped Ghent Design Museum, a ‘touchpoint' for coming together",
+    "text_pt": "This 21st-century chapter repositions the Ghent Design Museum as a laboratory for innovation with civic purpose",
+    "text_en": "This 21st-century chapter repositions the Ghent Design Museum as a laboratory for innovation with civic purpose",
+    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/public-buildings/ghent-design-museum-belgium"
+  },
+  {
     "id": "2aff441488",
     "date_iso": "2026-09-30T18:00:03.373302",
     "date_pt": "30 de setembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "ERMU Studio The post Haven of Nature appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/haven-of-nature/"
-  },
-  {
-    "id": "32adfa85d8",
-    "date_iso": "2026-09-01T09:00:01.781271",
-    "date_pt": "1 de setembro de 2026",
-    "date_en": "September 1, 2026",
-    "title_pt": "Thinking Through the Hand: Atelier CRAFT on Design and Making",
-    "title_en": "Thinking Through the Hand: Atelier CRAFT on Design and Making",
-    "text_pt": "What narratives do materials carry, and how can the visible \"traces\" of artisans engage in a dialogue with manufacturing processes and industrialization ? Between design and construction, the act of thinking through making can become a guiding principle for a design philosophy.",
-    "text_en": "What narratives do materials carry, and how can the visible \"traces\" of artisans engage in a dialogue with manufacturing processes and industrialization ? Between design and construction, the act of thinking through making can become a guiding principle for a design philosophy.",
-    "img": "https://images.pexels.com/photos/10568025/pexels-photo-10568025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1184106/thinking-through-the-hand-atelier-craft-on-design-and-making"
   }
 ]
