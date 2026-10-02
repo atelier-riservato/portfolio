@@ -1,5 +1,17 @@
 [
   {
+    "id": "0e37113225",
+    "date_iso": "2026-10-02T18:00:03.172713",
+    "date_pt": "2 de outubro de 2026",
+    "date_en": "October 2, 2026",
+    "title_pt": "Three new titles explore the art of digital world-building in cult computers and early arcades",
+    "title_en": "Three new titles explore the art of digital world-building in cult computers and early arcades",
+    "text_pt": "From dystopian sci-fi on your desktop to the origins of the first arcade machines, through to the history of an influential home computer, three new books look at the design and culture of the video game",
+    "text_en": "From dystopian sci-fi on your desktop to the origins of the first arcade machines, through to the history of an influential home computer, three new books look at the design and culture of the video game",
+    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/tech/three-new-titles-explore-the-art-of-digital-world-building-in-cult-computers-and-early-arcades"
+  },
+  {
     "id": "b23763f194",
     "date_iso": "2026-10-02T09:00:01.711933",
     "date_pt": "2 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Guided by the philosophy \"From Waste to Promise,\" WasteLand transforms a heavily contaminated former industrial site into a public park where regenerative urban development, contemporary art, and climate science meet.",
     "img": "https://images.pexels.com/photos/10612649/pexels-photo-10612649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183940/crystal-sauna-for-skelleftea-bigert-and-bergstrom"
-  },
-  {
-    "id": "e260d935c2",
-    "date_iso": "2026-09-02T18:00:03.264592",
-    "date_pt": "2 de setembro de 2026",
-    "date_en": "September 2, 2026",
-    "title_pt": "BIG’s Suzhou Museum of Contemporary Art is now open, ribbon-like roofs and all",
-    "title_en": "BIG’s Suzhou Museum of Contemporary Art is now open, ribbon-like roofs and all",
-    "text_pt": "Step inside Bjarke Ingels Group’s first completed art museum – the Suzhou Museum of Contemporary Art in China",
-    "text_en": "Step inside Bjarke Ingels Group’s first completed art museum – the Suzhou Museum of Contemporary Art in China",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/public-buildings/suzhou-museum-of-contemporary-art-big-china"
   }
 ]
