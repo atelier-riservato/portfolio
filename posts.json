@@ -1,5 +1,17 @@
 [
   {
+    "id": "71bf2052a4",
+    "date_iso": "2026-10-03T09:00:01.693242",
+    "date_pt": "3 de outubro de 2026",
+    "date_en": "October 3, 2026",
+    "title_pt": "Suzie de Rohan Willner on Anni Albers, the Glass House, William Mitchell + More",
+    "title_en": "Suzie de Rohan Willner on Anni Albers, the Glass House, William Mitchell + More",
+    "text_pt": "The Toast CEO shares the artists, architecture, and material-driven practices that inspire her, from Ruth Asawa’s wire sculptures to the work of her stepfather, William Mitchell.",
+    "text_en": "The Toast CEO shares the artists, architecture, and material-driven practices that inspire her, from Ruth Asawa’s wire sculptures to the work of her stepfather, William Mitchell.",
+    "img": "https://images.pexels.com/photos/34605930/pexels-photo-34605930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/suzie-de-rohan-willner-friday-five/"
+  },
+  {
     "id": "0e37113225",
     "date_iso": "2026-10-02T18:00:03.172713",
     "date_pt": "2 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Los Navegantes House is the expansion and renovation of a 1963 home in Pedro de Valdivia Norte, a central residential neighborhood shaped by the presence of San Cristóbal Hill, its vegetation, and its gardens.",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1184501/los-navegantes-house-maria-catalina-picon-meleda-plus-alberto-browne-cruz"
-  },
-  {
-    "id": "9fc61eafe6",
-    "date_iso": "2026-09-03T09:00:02.118422",
-    "date_pt": "3 de setembro de 2026",
-    "date_en": "September 3, 2026",
-    "title_pt": "Crystal Sauna for Skellefteå / Bigert & Bergström",
-    "title_en": "Crystal Sauna for Skellefteå / Bigert & Bergström",
-    "text_pt": "Guided by the philosophy \"From Waste to Promise,\" WasteLand transforms a heavily contaminated former industrial site into a public park where regenerative urban development, contemporary art, and climate science meet.",
-    "text_en": "Guided by the philosophy \"From Waste to Promise,\" WasteLand transforms a heavily contaminated former industrial site into a public park where regenerative urban development, contemporary art, and climate science meet.",
-    "img": "https://images.pexels.com/photos/10612649/pexels-photo-10612649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1183940/crystal-sauna-for-skelleftea-bigert-and-bergstrom"
   }
 ]
