@@ -1,5 +1,17 @@
 [
   {
+    "id": "cc7c5a64f0",
+    "date_iso": "2026-10-03T18:00:02.171273",
+    "date_pt": "3 de outubro de 2026",
+    "date_en": "October 3, 2026",
+    "title_pt": "Casa Vereda / L'Aura Ortín Architecture for Happiness",
+    "title_en": "Casa Vereda / L'Aura Ortín Architecture for Happiness",
+    "text_pt": "Casa Vereda stems from a simple idea: to inhabit nature without competing with it. The project blends into the landscape through an architecture that seeks to become part of its surroundings.",
+    "text_en": "Casa Vereda stems from a simple idea: to inhabit nature without competing with it. The project blends into the landscape through an architecture that seeks to become part of its surroundings.",
+    "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1186151/casa-vereda"
+  },
+  {
     "id": "71bf2052a4",
     "date_iso": "2026-10-03T09:00:01.693242",
     "date_pt": "3 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Three new designs translate the fashion designer’s signature color, pattern, and Palm Springs optimism from clothing to the floor",
     "img": "https://images.pexels.com/photos/1389430/pexels-photo-1389430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/trina-turk-flor-rugs-2026/"
-  },
-  {
-    "id": "9a42e44e9e",
-    "date_iso": "2026-09-03T18:00:03.171153",
-    "date_pt": "3 de setembro de 2026",
-    "date_en": "September 3, 2026",
-    "title_pt": "Los Navegantes House / María Catalina Picon Meleda + Alberto Browne Cruz",
-    "title_en": "Los Navegantes House / María Catalina Picon Meleda + Alberto Browne Cruz",
-    "text_pt": "Los Navegantes House is the expansion and renovation of a 1963 home in Pedro de Valdivia Norte, a central residential neighborhood shaped by the presence of San Cristóbal Hill, its vegetation, and its gardens.",
-    "text_en": "Los Navegantes House is the expansion and renovation of a 1963 home in Pedro de Valdivia Norte, a central residential neighborhood shaped by the presence of San Cristóbal Hill, its vegetation, and its gardens.",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1184501/los-navegantes-house-maria-catalina-picon-meleda-plus-alberto-browne-cruz"
   }
 ]
