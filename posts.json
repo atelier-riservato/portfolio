@@ -1,5 +1,17 @@
 [
   {
+    "id": "998e551bea",
+    "date_iso": "2026-10-04T18:00:02.913426",
+    "date_pt": "4 de outubro de 2026",
+    "date_en": "October 4, 2026",
+    "title_pt": "Paola Lenti’s São Paulo Flagship Turns Architecture Into a Living Frame",
+    "title_en": "Paola Lenti’s São Paulo Flagship Turns Architecture Into a Living Frame",
+    "text_pt": "Armentano Arquitetura pairs a precise metal-and-glass structure with a planted façade that will continue to transform the Italian furniture brand’s São Paulo home",
+    "text_en": "Armentano Arquitetura pairs a precise metal-and-glass structure with a planted façade that will continue to transform the Italian furniture brand’s São Paulo home",
+    "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/paola-lenti-sao-paulo-flagship/"
+  },
+  {
     "id": "2747fb7e27",
     "date_iso": "2026-10-04T09:00:01.768798",
     "date_pt": "4 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A Village Where Street Culture, Community, and Nature Converge - Bangkok is a cultural palimpsest shaped by layers of street markets, temples, contemporary skyscrapers, and organically evolved urban structures.",
     "img": "https://images.pexels.com/photos/5511098/pexels-photo-5511098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1184304/housing-carnival-studio-profile"
-  },
-  {
-    "id": "d5ef52f70e",
-    "date_iso": "2026-09-04T18:00:03.374017",
-    "date_pt": "4 de setembro de 2026",
-    "date_en": "September 4, 2026",
-    "title_pt": "Studio Rosenthal Opens Up a Gramercy Park Apartment to the Light",
-    "title_en": "Studio Rosenthal Opens Up a Gramercy Park Apartment to the Light",
-    "text_pt": "A gut renovation returns a New York apartment to its original two-bedroom layout, making room for natural light, quiet materials, and custom furnishings",
-    "text_en": "A gut renovation returns a New York apartment to its original two-bedroom layout, making room for natural light, quiet materials, and custom furnishings",
-    "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/studio-rosenthal-gramercy-park-apartment/"
   }
 ]
