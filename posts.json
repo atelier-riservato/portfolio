@@ -1,5 +1,17 @@
 [
   {
+    "id": "2747fb7e27",
+    "date_iso": "2026-10-04T09:00:01.768798",
+    "date_pt": "4 de outubro de 2026",
+    "date_en": "October 4, 2026",
+    "title_pt": "Dreaming of the desert? This book has you covered, from modernist to adobe architecture",
+    "title_en": "Dreaming of the desert? This book has you covered, from modernist to adobe architecture",
+    "text_pt": "'Desert Dreaming: Design in the Southwest and Beyond', a new book by Jessica Ritz, is an immersive journey across America's arid landscapes and the amazing homes within them",
+    "text_en": "'Desert Dreaming: Design in the Southwest and Beyond', a new book by Jessica Ritz, is an immersive journey across America's arid landscapes and the amazing homes within them",
+    "img": "https://images.pexels.com/photos/1188834/pexels-photo-1188834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/residential/desert-dreaming-book"
+  },
+  {
     "id": "cc7c5a64f0",
     "date_iso": "2026-10-03T18:00:02.171273",
     "date_pt": "3 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A gut renovation returns a New York apartment to its original two-bedroom layout, making room for natural light, quiet materials, and custom furnishings",
     "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/studio-rosenthal-gramercy-park-apartment/"
-  },
-  {
-    "id": "d1881ac553",
-    "date_iso": "2026-09-04T09:00:01.631870",
-    "date_pt": "4 de setembro de 2026",
-    "date_en": "September 4, 2026",
-    "title_pt": "Trina Turk Digs Into the Archives for Her Latest FLOR Rugs",
-    "title_en": "Trina Turk Digs Into the Archives for Her Latest FLOR Rugs",
-    "text_pt": "Three new designs translate the fashion designer’s signature color, pattern, and Palm Springs optimism from clothing to the floor",
-    "text_en": "Three new designs translate the fashion designer’s signature color, pattern, and Palm Springs optimism from clothing to the floor",
-    "img": "https://images.pexels.com/photos/1389430/pexels-photo-1389430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/trina-turk-flor-rugs-2026/"
   }
 ]
