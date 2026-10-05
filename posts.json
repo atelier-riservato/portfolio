@@ -1,5 +1,17 @@
 [
   {
+    "id": "26041db72b",
+    "date_iso": "2026-10-05T09:00:02.293553",
+    "date_pt": "5 de outubro de 2026",
+    "date_en": "October 5, 2026",
+    "title_pt": "A Williamsburg Duplex Draws From Brooklyn’s Industrial Past",
+    "title_en": "A Williamsburg Duplex Draws From Brooklyn’s Industrial Past",
+    "text_pt": "Makers Collective Design layers walnut, blackened steel, marble, and loft-like proportions into a new Brooklyn residence rooted in its neighborhood",
+    "text_en": "Makers Collective Design layers walnut, blackened steel, marble, and loft-like proportions into a new Brooklyn residence rooted in its neighborhood",
+    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/williamsburg-duplex-brooklyn/"
+  },
+  {
     "id": "998e551bea",
     "date_iso": "2026-10-04T18:00:02.913426",
     "date_pt": "4 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Seth Anderson Studio The post Aloe Residence appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/aloe-residence/"
-  },
-  {
-    "id": "6906e91961",
-    "date_iso": "2026-09-05T09:00:02.321088",
-    "date_pt": "5 de setembro de 2026",
-    "date_en": "September 5, 2026",
-    "title_pt": "Housing CARNIVAL / Studio Profile",
-    "title_en": "Housing CARNIVAL / Studio Profile",
-    "text_pt": "A Village Where Street Culture, Community, and Nature Converge - Bangkok is a cultural palimpsest shaped by layers of street markets, temples, contemporary skyscrapers, and organically evolved urban structures.",
-    "text_en": "A Village Where Street Culture, Community, and Nature Converge - Bangkok is a cultural palimpsest shaped by layers of street markets, temples, contemporary skyscrapers, and organically evolved urban structures.",
-    "img": "https://images.pexels.com/photos/5511098/pexels-photo-5511098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1184304/housing-carnival-studio-profile"
   }
 ]
