@@ -1,5 +1,17 @@
 [
   {
+    "id": "acacb22b5d",
+    "date_iso": "2026-10-05T18:00:03.573513",
+    "date_pt": "5 de outubro de 2026",
+    "date_en": "October 5, 2026",
+    "title_pt": "Casa Nova / TAC Taller Alberto Calleja",
+    "title_en": "Casa Nova / TAC Taller Alberto Calleja",
+    "text_pt": "Casa Nova is built on a 1,732 m² lot, featuring a unique condition of a beachfront measuring only twelve meters wide—a particular constraint that we used as the design premise.",
+    "text_en": "Casa Nova is built on a 1,732 m² lot, featuring a unique condition of a beachfront measuring only twelve meters wide—a particular constraint that we used as the design premise.",
+    "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1186373/casa-nova-tac-taller-alberto-calleja"
+  },
+  {
     "id": "26041db72b",
     "date_iso": "2026-10-05T09:00:02.293553",
     "date_pt": "5 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Salto Studio The post Apartment 1.1.4 appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/apartment-1-1-4/"
-  },
-  {
-    "id": "e87031c33a",
-    "date_iso": "2026-09-05T18:00:02.179457",
-    "date_pt": "5 de setembro de 2026",
-    "date_en": "September 5, 2026",
-    "title_pt": "Aloe Residence",
-    "title_en": "Aloe Residence",
-    "text_pt": "Seth Anderson Studio The post Aloe Residence appeared first on Leibal .",
-    "text_en": "Seth Anderson Studio The post Aloe Residence appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/aloe-residence/"
   }
 ]
