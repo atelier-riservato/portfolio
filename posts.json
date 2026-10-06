@@ -1,5 +1,17 @@
 [
   {
+    "id": "20d79549e4",
+    "date_iso": "2026-10-06T18:00:03.764389",
+    "date_pt": "6 de outubro de 2026",
+    "date_en": "October 6, 2026",
+    "title_pt": "Arena Bruja House / Un Estudio Propio",
+    "title_en": "Arena Bruja House / Un Estudio Propio",
+    "text_pt": "This house is a story about healing the bond with a family home and reclaiming the stabilizing effects that come from having an attachment to a place.",
+    "text_en": "This house is a story about healing the bond with a family home and reclaiming the stabilizing effects that come from having an attachment to a place.",
+    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1186433/arena-bruja-house-un-estudio-propio"
+  },
+  {
     "id": "cf384b1c64",
     "date_iso": "2026-10-06T09:00:02.372140",
     "date_pt": "6 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The hippest neighbourhood in Los Angeles finally gets a first-rate boutique hotel, arranged around a modern temple to Southern cuisine",
     "img": "https://images.pexels.com/photos/37565139/pexels-photo-37565139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/travel/hotels/hotel-lucile-silver-lake-review"
-  },
-  {
-    "id": "e9a1757e9c",
-    "date_iso": "2026-09-06T18:00:02.382933",
-    "date_pt": "6 de setembro de 2026",
-    "date_en": "September 6, 2026",
-    "title_pt": "Rick Tegelaar’s Designs Begin With Making, Not Sketching",
-    "title_en": "Rick Tegelaar’s Designs Begin With Making, Not Sketching",
-    "text_pt": "From chicken wire to woven LEDs, the Dutch designer lets materials and process lead the way",
-    "text_en": "From chicken wire to woven LEDs, the Dutch designer lets materials and process lead the way",
-    "img": "https://images.pexels.com/photos/11469002/pexels-photo-11469002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/rick-tegelaar-designer-meshmatics-tabby/"
   }
 ]
