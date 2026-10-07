@@ -1,5 +1,17 @@
 [
   {
+    "id": "e417e629a0",
+    "date_iso": "2026-10-07T18:00:03.985065",
+    "date_pt": "7 de outubro de 2026",
+    "date_en": "October 7, 2026",
+    "title_pt": "Elements Pavilions",
+    "title_en": "Elements Pavilions",
+    "text_pt": "For this year&rsquo;s Copenhagen Architecture Biennial we are looking for two distinct pavilions, urging you to build with fire, water, earth and air - letting the world in instead of shutting it out.",
+    "text_en": "For this year&rsquo;s Copenhagen Architecture Biennial we are looking for two distinct pavilions, urging you to build with fire, water, earth and air - letting the world in instead of shutting it out.",
+    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1186456/elements-pavilions"
+  },
+  {
     "id": "d369d634c5",
     "date_iso": "2026-10-07T09:00:02.335620",
     "date_pt": "7 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "'Snoopy in Style NYC' pairs archival looks with new designs from BODE, Christopher John Rogers, Sandy Liang, LUAR, and more",
     "img": "https://images.pexels.com/photos/10612649/pexels-photo-10612649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/snoopy-in-style-nyc-fashion-exhibition/"
-  },
-  {
-    "id": "646fd72537",
-    "date_iso": "2026-09-07T18:00:03.272422",
-    "date_pt": "7 de setembro de 2026",
-    "date_en": "September 7, 2026",
-    "title_pt": "House on David Melgueiro / Aurora Arquitectos",
-    "title_en": "House on David Melgueiro / Aurora Arquitectos",
-    "text_pt": "In the Restelo neighborhood, a row of terraced houses built in the 1950s forms an urban landscape defined by repetition, domestic scale, and continuous facades.",
-    "text_en": "In the Restelo neighborhood, a row of terraced houses built in the 1950s forms an urban landscape defined by repetition, domestic scale, and continuous facades.",
-    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1184578/house-on-david-melgueiro-aurora-arquitectos"
   }
 ]
