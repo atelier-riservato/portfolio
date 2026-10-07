@@ -1,5 +1,17 @@
 [
   {
+    "id": "d369d634c5",
+    "date_iso": "2026-10-07T09:00:02.335620",
+    "date_pt": "7 de outubro de 2026",
+    "date_en": "October 7, 2026",
+    "title_pt": "A Luxurious Spa by Liaigre Completes Hôtel Costes in Paris",
+    "title_en": "A Luxurious Spa by Liaigre Completes Hôtel Costes in Paris",
+    "text_pt": "The subterranean retreat extends Liaigre’s design language through travertine, smoked oak, immersive lighting, and a 65-foot pool at the storied Paris hotel",
+    "text_en": "The subterranean retreat extends Liaigre’s design language through travertine, smoked oak, immersive lighting, and a 65-foot pool at the storied Paris hotel",
+    "img": "https://images.pexels.com/photos/12277197/pexels-photo-12277197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/hotel-costes-spa-liaigre/"
+  },
+  {
     "id": "20d79549e4",
     "date_iso": "2026-10-06T18:00:03.764389",
     "date_pt": "6 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "In the Restelo neighborhood, a row of terraced houses built in the 1950s forms an urban landscape defined by repetition, domestic scale, and continuous facades.",
     "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1184578/house-on-david-melgueiro-aurora-arquitectos"
-  },
-  {
-    "id": "01ad04f836",
-    "date_iso": "2026-09-07T09:00:02.332088",
-    "date_pt": "7 de setembro de 2026",
-    "date_en": "September 7, 2026",
-    "title_pt": "At Silver Lake’s Hotel Lucile, a landmark church is reborn with a divine restaurant",
-    "title_en": "At Silver Lake’s Hotel Lucile, a landmark church is reborn with a divine restaurant",
-    "text_pt": "The hippest neighbourhood in Los Angeles finally gets a first-rate boutique hotel, arranged around a modern temple to Southern cuisine",
-    "text_en": "The hippest neighbourhood in Los Angeles finally gets a first-rate boutique hotel, arranged around a modern temple to Southern cuisine",
-    "img": "https://images.pexels.com/photos/37565139/pexels-photo-37565139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/travel/hotels/hotel-lucile-silver-lake-review"
   }
 ]
