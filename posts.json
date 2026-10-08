@@ -1,5 +1,17 @@
 [
   {
+    "id": "f362823ea1",
+    "date_iso": "2026-10-08T09:00:01.637963",
+    "date_pt": "8 de outubro de 2026",
+    "date_en": "October 8, 2026",
+    "title_pt": "A West Vancouver Home Appears to Float Among the Trees",
+    "title_en": "A West Vancouver Home Appears to Float Among the Trees",
+    "text_pt": "Openspace Architecture pairs concrete, glass, and meticulously detailed woodwork in a West Coast modern home designed to disappear into its forested surroundings",
+    "text_en": "Openspace Architecture pairs concrete, glass, and meticulously detailed woodwork in a West Coast modern home designed to disappear into its forested surroundings",
+    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/west-vancouver-home-openspace-architecture/"
+  },
+  {
     "id": "e417e629a0",
     "date_iso": "2026-10-07T18:00:03.985065",
     "date_pt": "7 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The designer’s first comprehensive furniture book traces more than a decade of transforming vintage chairs through color, pattern, and play",
     "img": "https://images.pexels.com/photos/28456460/pexels-photo-28456460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/yinka-ilori-chairman-furniture-book/"
-  },
-  {
-    "id": "3c28aa745d",
-    "date_iso": "2026-09-08T09:00:02.384067",
-    "date_pt": "8 de setembro de 2026",
-    "date_en": "September 8, 2026",
-    "title_pt": "Snoopy’s Fashion Résumé Gets a New Chapter in New York",
-    "title_en": "Snoopy’s Fashion Résumé Gets a New Chapter in New York",
-    "text_pt": "'Snoopy in Style NYC' pairs archival looks with new designs from BODE, Christopher John Rogers, Sandy Liang, LUAR, and more",
-    "text_en": "'Snoopy in Style NYC' pairs archival looks with new designs from BODE, Christopher John Rogers, Sandy Liang, LUAR, and more",
-    "img": "https://images.pexels.com/photos/10612649/pexels-photo-10612649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/snoopy-in-style-nyc-fashion-exhibition/"
   }
 ]
