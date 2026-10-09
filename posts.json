@@ -1,5 +1,17 @@
 [
   {
+    "id": "767953d8bc",
+    "date_iso": "2026-10-09T09:00:01.833478",
+    "date_pt": "9 de outubro de 2026",
+    "date_en": "October 9, 2026",
+    "title_pt": "Anthony Vaccarello is leaving Saint Laurent after a decade-long tenure",
+    "title_en": "Anthony Vaccarello is leaving Saint Laurent after a decade-long tenure",
+    "text_pt": "The widely rumoured exit sees the Belgian designer bow out after a decade of critical and commercial success, honing a razor-sharp vision of the Saint Laurent woman and man through cinematic runway shows",
+    "text_en": "The widely rumoured exit sees the Belgian designer bow out after a decade of critical and commercial success, honing a razor-sharp vision of the Saint Laurent woman and man through cinematic runway shows",
+    "img": "https://images.pexels.com/photos/12277631/pexels-photo-12277631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/fashion-beauty/anthony-vaccarello-leaving-saint-laurent"
+  },
+  {
     "id": "fb79be8041",
     "date_iso": "2026-10-08T18:00:03.382876",
     "date_pt": "8 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The building was designed as a sober and simple volume that is reminiscent of an old atelier or a small-scale classic industrial building. It is constructed from characterful bricks, which give the impression that this building has always been there.",
     "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1183838/tomas-and-katrien-atelier-vens-vanbelle"
-  },
-  {
-    "id": "32be37c6fb",
-    "date_iso": "2026-09-09T09:00:01.923967",
-    "date_pt": "9 de setembro de 2026",
-    "date_en": "September 9, 2026",
-    "title_pt": "Daniel Libeskind Awarded the 2026 Praemium Imperiale for Architecture",
-    "title_en": "Daniel Libeskind Awarded the 2026 Praemium Imperiale for Architecture",
-    "text_pt": "The Praemium Imperiale is a global arts prize that recognizes exceptional achievements in architecture, painting, sculpture, music, and theater or film.",
-    "text_en": "The Praemium Imperiale is a global arts prize that recognizes exceptional achievements in architecture, painting, sculpture, music, and theater or film.",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1184771/daniel-libeskind-awarded-the-2026-praemium-imperiale-for-architecture"
   }
 ]
