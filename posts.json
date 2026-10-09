@@ -1,5 +1,17 @@
 [
   {
+    "id": "6c579839c2",
+    "date_iso": "2026-10-09T18:00:03.869643",
+    "date_pt": "9 de outubro de 2026",
+    "date_en": "October 9, 2026",
+    "title_pt": "Daniel Humm’s new restaurant is an all-out fantasy, thanks to the help of some very important friends",
+    "title_en": "Daniel Humm’s new restaurant is an all-out fantasy, thanks to the help of some very important friends",
+    "text_pt": "With 1980s-inspired interiors by Pierre Yovanovitch and a painted ceiling worth of the Sistine Chapel by Francesco Clemente, Humm is New York dining at its finest",
+    "text_en": "With 1980s-inspired interiors by Pierre Yovanovitch and a painted ceiling worth of the Sistine Chapel by Francesco Clemente, Humm is New York dining at its finest",
+    "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/travel/restaurants/humm-new-york"
+  },
+  {
     "id": "767953d8bc",
     "date_iso": "2026-10-09T09:00:01.833478",
     "date_pt": "9 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Sculpted wood and sandblasted acrylic capture the shifting depth and transparency of Arctic ice in this multi-piece collection",
     "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/hollis-morris-beaufort-lighting-collection/"
-  },
-  {
-    "id": "fbd8022c69",
-    "date_iso": "2026-09-09T18:00:03.078736",
-    "date_pt": "9 de setembro de 2026",
-    "date_en": "September 9, 2026",
-    "title_pt": "Tomas & Katrien House / Atelier Vens Vanbelle",
-    "title_en": "Tomas & Katrien House / Atelier Vens Vanbelle",
-    "text_pt": "The building was designed as a sober and simple volume that is reminiscent of an old atelier or a small-scale classic industrial building. It is constructed from characterful bricks, which give the impression that this building has always been there.",
-    "text_en": "The building was designed as a sober and simple volume that is reminiscent of an old atelier or a small-scale classic industrial building. It is constructed from characterful bricks, which give the impression that this building has always been there.",
-    "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1183838/tomas-and-katrien-atelier-vens-vanbelle"
   }
 ]
