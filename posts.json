@@ -1,5 +1,17 @@
 [
   {
+    "id": "f3f1a7ec3f",
+    "date_iso": "2026-10-10T18:00:02.177614",
+    "date_pt": "10 de outubro de 2026",
+    "date_en": "October 10, 2026",
+    "title_pt": "La Negrita House / Estudio Palacios",
+    "title_en": "La Negrita House / Estudio Palacios",
+    "text_pt": "Situated on the shores of Los Molinos Lake and surrounded by a dense eucalyptus forest, La Negrita embodies the desire for a peaceful retreat amid a beautiful, playful atmosphere with its own unique microclimate.",
+    "text_en": "Situated on the shores of Los Molinos Lake and surrounded by a dense eucalyptus forest, La Negrita embodies the desire for a peaceful retreat amid a beautiful, playful atmosphere with its own unique microclimate.",
+    "img": "https://images.pexels.com/photos/408847/pexels-photo-408847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios"
+  },
+  {
     "id": "b26b674819",
     "date_iso": "2026-10-10T09:00:02.340799",
     "date_pt": "10 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "At London Design Festival 2026, Alex Tieghi-Walker presents The Reading Room (part of his wider curation for the Brompton Design District), dedicated to queer design, creativity and cultural history in London. For the occasion, he shares a few must-read from his personal library",
     "img": "https://images.pexels.com/photos/17531832/pexels-photo-17531832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/london-design-festival-brompton-reading-room-alex-tieghi-walker-books"
-  },
-  {
-    "id": "47dfa2e3b5",
-    "date_iso": "2026-09-10T18:00:03.580683",
-    "date_pt": "10 de setembro de 2026",
-    "date_en": "September 10, 2026",
-    "title_pt": "Casa Malonic / HW-STUDIO",
-    "title_en": "Casa Malonic / HW-STUDIO",
-    "text_pt": "Upon arriving at this place, the landscape reveals itself with an intensity that is difficult to describe. The sea becomes an infinite horizon, while a portion of jungle occupies the site with an almost sacred presence.",
-    "text_en": "Upon arriving at this place, the landscape reveals itself with an intensity that is difficult to describe. The sea becomes an infinite horizon, while a portion of jungle occupies the site with an almost sacred presence.",
-    "img": "https://images.pexels.com/photos/37429855/pexels-photo-37429855.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1184892/casa-malonic-hw-studio"
   }
 ]
