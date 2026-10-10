@@ -1,5 +1,17 @@
 [
   {
+    "id": "b26b674819",
+    "date_iso": "2026-10-10T09:00:02.340799",
+    "date_pt": "10 de outubro de 2026",
+    "date_en": "October 10, 2026",
+    "title_pt": "Six new coffee machines offer cupfuls of choice for the design-loving caffeine addict",
+    "title_en": "Six new coffee machines offer cupfuls of choice for the design-loving caffeine addict",
+    "text_pt": "From espresso shots to all-singing bean-to-cup creations and automatic filter coffee makers, these six new coffee machines all deserve a place in your kitchen",
+    "text_en": "From espresso shots to all-singing bean-to-cup creations and automatic filter coffee makers, these six new coffee machines all deserve a place in your kitchen",
+    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/tech/six-new-coffee-machines-for-the-design-loving-caffeine-addict"
+  },
+  {
     "id": "6c579839c2",
     "date_iso": "2026-10-09T18:00:03.869643",
     "date_pt": "9 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Upon arriving at this place, the landscape reveals itself with an intensity that is difficult to describe. The sea becomes an infinite horizon, while a portion of jungle occupies the site with an almost sacred presence.",
     "img": "https://images.pexels.com/photos/37429855/pexels-photo-37429855.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1184892/casa-malonic-hw-studio"
-  },
-  {
-    "id": "0344eb5b58",
-    "date_iso": "2026-09-10T09:00:02.175700",
-    "date_pt": "10 de setembro de 2026",
-    "date_en": "September 10, 2026",
-    "title_pt": "Hollis+Morris Looks Beneath the Ice With Beaufort Lighting",
-    "title_en": "Hollis+Morris Looks Beneath the Ice With Beaufort Lighting",
-    "text_pt": "Sculpted wood and sandblasted acrylic capture the shifting depth and transparency of Arctic ice in this multi-piece collection",
-    "text_en": "Sculpted wood and sandblasted acrylic capture the shifting depth and transparency of Arctic ice in this multi-piece collection",
-    "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/hollis-morris-beaufort-lighting-collection/"
   }
 ]
