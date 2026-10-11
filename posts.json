@@ -1,5 +1,17 @@
 [
   {
+    "id": "8ea330aa95",
+    "date_iso": "2026-10-11T18:00:02.392146",
+    "date_pt": "11 de outubro de 2026",
+    "date_en": "October 11, 2026",
+    "title_pt": "L'AIGUILLEUSE - Renovation of a former railway signal box into a kiosk-bar / Studio Téré",
+    "title_en": "L'AIGUILLEUSE - Renovation of a former railway signal box into a kiosk-bar / Studio Téré",
+    "text_pt": "\"L'Aiguilleuse\" is a project that transforms a former 1960s railway signal box into a small kiosk-bar located at the heart of the Jardins de l'Estuaire, a new public park on the Île de Nantes , France.",
+    "text_en": "\"L'Aiguilleuse\" is a project that transforms a former 1960s railway signal box into a small kiosk-bar located at the heart of the Jardins de l'Estuaire, a new public park on the Île de Nantes , France.",
+    "img": "https://images.pexels.com/photos/30644177/pexels-photo-30644177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1186469/laiguilleuse-renovation-of-a-former-railway-signal-box-into-a-kiosk-bar-studio-tere"
+  },
+  {
     "id": "f0a5d32718",
     "date_iso": "2026-10-11T09:00:01.978256",
     "date_pt": "11 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A new exhibition at Svenskt Tenn in Stockholm revisits Anna Petrus’ pioneering pewter and cast-iron work and returns two of her lesser-known designs to production",
     "img": "https://images.pexels.com/photos/10568025/pexels-photo-10568025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/anna-petrus-svenskt-tenn"
-  },
-  {
-    "id": "0779ffde9b",
-    "date_iso": "2026-09-11T18:00:02.778609",
-    "date_pt": "11 de setembro de 2026",
-    "date_en": "September 11, 2026",
-    "title_pt": "Yoto makes audio players for small hands to help stave off doomscrolling and social media",
-    "title_en": "Yoto makes audio players for small hands to help stave off doomscrolling and social media",
-    "text_pt": "Yoto announces its new fourth generation Player alongside an upgrade Yoto Mini, each designed by Heirloom, to make the company’s world of audio content easier and more accessible than every before",
-    "text_en": "Yoto announces its new fourth generation Player alongside an upgrade Yoto Mini, each designed by Heirloom, to make the company’s world of audio content easier and more accessible than every before",
-    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/tech/yoto-makes-audio-players-for-small-hands-to-help-stave-off-doomscrolling-and-social-media"
   }
 ]
