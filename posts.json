@@ -1,5 +1,17 @@
 [
   {
+    "id": "bc8cc6f07b",
+    "date_iso": "2026-10-12T09:00:02.330608",
+    "date_pt": "12 de outubro de 2026",
+    "date_en": "October 12, 2026",
+    "title_pt": "You could take home furniture by Virgil Abloh, Charlotte Perriand and more for $1",
+    "title_en": "You could take home furniture by Virgil Abloh, Charlotte Perriand and more for $1",
+    "text_pt": "Basic.Space teamed up with Apple Pay on the drawing, whose proceeds will benefit the Virgil Abloh Foundation. Here's what you could score",
+    "text_en": "Basic.Space teamed up with Apple Pay on the drawing, whose proceeds will benefit the Virgil Abloh Foundation. Here's what you could score",
+    "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/basic-space-apple-pay-virgil-abloh-foundation-drawing"
+  },
+  {
     "id": "8ea330aa95",
     "date_iso": "2026-10-11T18:00:02.392146",
     "date_pt": "11 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The workplace brand looks to fashion for a visual refresh that shifts attention away from its products and toward people and everyday moments around them",
     "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/room-new-brand-identity-workplace-design/"
-  },
-  {
-    "id": "f9d8b01777",
-    "date_iso": "2026-09-12T09:00:01.775213",
-    "date_pt": "12 de setembro de 2026",
-    "date_en": "September 12, 2026",
-    "title_pt": "Svenskt Tenn celebrates Anna Petrus, Sweden’s trailblazing 20th-century metal designer",
-    "title_en": "Svenskt Tenn celebrates Anna Petrus, Sweden’s trailblazing 20th-century metal designer",
-    "text_pt": "A new exhibition at Svenskt Tenn in Stockholm revisits Anna Petrus’ pioneering pewter and cast-iron work and returns two of her lesser-known designs to production",
-    "text_en": "A new exhibition at Svenskt Tenn in Stockholm revisits Anna Petrus’ pioneering pewter and cast-iron work and returns two of her lesser-known designs to production",
-    "img": "https://images.pexels.com/photos/10568025/pexels-photo-10568025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/anna-petrus-svenskt-tenn"
   }
 ]
