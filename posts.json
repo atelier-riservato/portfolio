@@ -1,5 +1,17 @@
 [
   {
+    "id": "3a0b7dd833",
+    "date_iso": "2026-10-12T18:00:02.861747",
+    "date_pt": "12 de outubro de 2026",
+    "date_en": "October 12, 2026",
+    "title_pt": "B+N Industries Builds Its Modular Systems to Keep Evolving After Installation",
+    "title_en": "B+N Industries Builds Its Modular Systems to Keep Evolving After Installation",
+    "text_pt": "Across System 1224, Sorbetti 2.0, and Muro, B+N Industries designs modular frameworks that expand, reconfigure, and take on new roles years after they first go up",
+    "text_en": "Across System 1224, Sorbetti 2.0, and Muro, B+N Industries designs modular frameworks that expand, reconfigure, and take on new roles years after they first go up",
+    "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/bn-industries-builds-its-modular-systems-to-keep-evolving-after-installation/"
+  },
+  {
     "id": "bc8cc6f07b",
     "date_iso": "2026-10-12T09:00:02.330608",
     "date_pt": "12 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Explore Three Rivers Passive House by Gbolade Design Studio, a sustainable, CLT-framed home in a suburban Hertfordshire valley",
     "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/residential/three-rivers-passive-house-gbolade-design-studio-uk"
-  },
-  {
-    "id": "0add8c58fd",
-    "date_iso": "2026-09-12T18:00:01.796843",
-    "date_pt": "12 de setembro de 2026",
-    "date_en": "September 12, 2026",
-    "title_pt": "ROOM’s New Identity Puts People at the Center of Workplace Design",
-    "title_en": "ROOM’s New Identity Puts People at the Center of Workplace Design",
-    "text_pt": "The workplace brand looks to fashion for a visual refresh that shifts attention away from its products and toward people and everyday moments around them",
-    "text_en": "The workplace brand looks to fashion for a visual refresh that shifts attention away from its products and toward people and everyday moments around them",
-    "img": "https://images.pexels.com/photos/12441654/pexels-photo-12441654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/room-new-brand-identity-workplace-design/"
   }
 ]
