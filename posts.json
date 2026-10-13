@@ -1,5 +1,17 @@
 [
   {
+    "id": "85fa902527",
+    "date_iso": "2026-10-13T18:00:03.662127",
+    "date_pt": "13 de outubro de 2026",
+    "date_en": "October 13, 2026",
+    "title_pt": "KatNap House / Nutum Estudio",
+    "title_en": "KatNap House / Nutum Estudio",
+    "text_pt": "We find ourselves on the coast of Sisal , an ancient fishing and commercial port bathed by the waters of the Gulf of Mexico. Upon its sand, a small residence stands as a contemporary refuge anchored in the fragile beauty of the Yucatecan dune.",
+    "text_en": "We find ourselves on the coast of Sisal , an ancient fishing and commercial port bathed by the waters of the Gulf of Mexico. Upon its sand, a small residence stands as a contemporary refuge anchored in the fragile beauty of the Yucatecan dune.",
+    "img": "https://images.pexels.com/photos/3385354/pexels-photo-3385354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1186760/katnap-house-nutum-estudio"
+  },
+  {
     "id": "898aaa6e8a",
     "date_iso": "2026-10-13T09:00:01.870581",
     "date_pt": "13 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "After struggling to find a lift chair for her aging parents that didn’t look like medical equipment, Janet Feldman spent a decade developing a more considered alternative",
     "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/awechair-accessible-lift-chair-design/"
-  },
-  {
-    "id": "6208b3b45d",
-    "date_iso": "2026-09-13T18:00:02.766549",
-    "date_pt": "13 de setembro de 2026",
-    "date_en": "September 13, 2026",
-    "title_pt": "Kolonaki Micro Apartment",
-    "title_en": "Kolonaki Micro Apartment",
-    "text_pt": "Studio From The post Kolonaki Micro Apartment appeared first on Leibal .",
-    "text_en": "Studio From The post Kolonaki Micro Apartment appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/34605930/pexels-photo-34605930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/kolonaki-micro-apartment/"
   }
 ]
