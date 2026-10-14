@@ -1,5 +1,17 @@
 [
   {
+    "id": "2023190b9d",
+    "date_iso": "2026-10-14T18:00:02.675086",
+    "date_pt": "14 de outubro de 2026",
+    "date_en": "October 14, 2026",
+    "title_pt": "Sylvan Rock was designed by S3 Architecture with Aston Martin. Now the house is for sale",
+    "title_en": "Sylvan Rock was designed by S3 Architecture with Aston Martin. Now the house is for sale",
+    "text_pt": "A striking contemporary house in New York’s Hudson Valley, Sylvan Rock was a labour of love for the Aston Martin design team and S3 Architecture. The 55-acre estate is on the market, fully furnished",
+    "text_en": "A striking contemporary house in New York’s Hudson Valley, Sylvan Rock was a labour of love for the Aston Martin design team and S3 Architecture. The 55-acre estate is on the market, fully furnished",
+    "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/residential/sylvan-rock-was-designed-by-s3-architecture-with-aston-martin-now-the-house-is-for-sale"
+  },
+  {
     "id": "8f6ad7f161",
     "date_iso": "2026-10-14T09:00:02.261147",
     "date_pt": "14 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Regular Deadline for the iF DESIGN AWARD 2027 is September 18. Register your project today to save €100 per entry, with time until November to finalize and complete your submission.",
     "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/what-the-if-design-award-reveals-about-where-global-design-is-heading-next/"
-  },
-  {
-    "id": "bb5b7c75bc",
-    "date_iso": "2026-09-14T18:00:02.664184",
-    "date_pt": "14 de setembro de 2026",
-    "date_en": "September 14, 2026",
-    "title_pt": "London Design Festival 2026: live updates from the Wallpaper* team",
-    "title_en": "London Design Festival 2026: live updates from the Wallpaper* team",
-    "text_pt": "From 12-20 September, London is celebrating design in all its forms. Here's the latest news, launches and other goings-on from London Design Festival 2026, as seen by Wallpaper* editors",
-    "text_en": "From 12-20 September, London is celebrating design in all its forms. Here's the latest news, launches and other goings-on from London Design Festival 2026, as seen by Wallpaper* editors",
-    "img": "https://images.pexels.com/photos/12277631/pexels-photo-12277631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/live/london-design-festival-2026"
   }
 ]
