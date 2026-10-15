@@ -1,5 +1,17 @@
 [
   {
+    "id": "bd2782d66b",
+    "date_iso": "2026-10-15T09:00:01.690555",
+    "date_pt": "15 de outubro de 2026",
+    "date_en": "October 15, 2026",
+    "title_pt": "A New Book Preserves the Lost Interiors of Ebony and Jet’s Chicago Headquarters",
+    "title_en": "A New Book Preserves the Lost Interiors of Ebony and Jet’s Chicago Headquarters",
+    "text_pt": "Photographer Barbara Karant documents the remarkably intact 1970s interiors of Johnson Publishing Company’s former Chicago headquarters in a new monograph",
+    "text_en": "Photographer Barbara Karant documents the remarkably intact 1970s interiors of Johnson Publishing Company’s former Chicago headquarters in a new monograph",
+    "img": "https://images.pexels.com/photos/33935830/pexels-photo-33935830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/820-ebony-jet-chicago-headquarters/"
+  },
+  {
     "id": "2023190b9d",
     "date_iso": "2026-10-14T18:00:02.675086",
     "date_pt": "14 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Maison&#038;Objet’s Rising Talent Awards put the spotlight on 7 South African designers and studios bringing new perspectives to furniture, lighting, textiles, and objects",
     "img": "https://images.pexels.com/photos/25551945/pexels-photo-25551945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/south-african-designers-maison-objet-2026/"
-  },
-  {
-    "id": "f4ec7d9bb1",
-    "date_iso": "2026-09-15T09:00:01.986922",
-    "date_pt": "15 de setembro de 2026",
-    "date_en": "September 15, 2026",
-    "title_pt": "What the iF DESIGN AWARD Reveals About Where Global Design Is Heading Next",
-    "title_en": "What the iF DESIGN AWARD Reveals About Where Global Design Is Heading Next",
-    "text_pt": "The Regular Deadline for the iF DESIGN AWARD 2027 is September 18. Register your project today to save €100 per entry, with time until November to finalize and complete your submission.",
-    "text_en": "The Regular Deadline for the iF DESIGN AWARD 2027 is September 18. Register your project today to save €100 per entry, with time until November to finalize and complete your submission.",
-    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/what-the-if-design-award-reveals-about-where-global-design-is-heading-next/"
   }
 ]
