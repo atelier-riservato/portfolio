@@ -1,5 +1,17 @@
 [
   {
+    "id": "ffb8147d2b",
+    "date_iso": "2026-10-15T18:00:03.684762",
+    "date_pt": "15 de outubro de 2026",
+    "date_en": "October 15, 2026",
+    "title_pt": "Amazon Rethinks the Kindle From the Inside Out",
+    "title_en": "Amazon Rethinks the Kindle From the Inside Out",
+    "text_pt": "With thinner profiles, aluminum housing, redesigned displays, and a new color palette, Amazon’s latest Kindle lineup explores how small design changes can transform the reading experience",
+    "text_en": "With thinner profiles, aluminum housing, redesigned displays, and a new color palette, Amazon’s latest Kindle lineup explores how small design changes can transform the reading experience",
+    "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/kindle-redesign/"
+  },
+  {
     "id": "bd2782d66b",
     "date_iso": "2026-10-15T09:00:01.690555",
     "date_pt": "15 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The tennis champion and V Starr founder brings Milanese influences, mid-century modernism, and subtle nods to the court into furniture and decor for adults and kids",
     "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/venus-williams-crate-barrel-grand-slam-collection/"
-  },
-  {
-    "id": "3d4b6c2b92",
-    "date_iso": "2026-09-15T18:00:03.070296",
-    "date_pt": "15 de setembro de 2026",
-    "date_en": "September 15, 2026",
-    "title_pt": "7 South African Designers to Know From Maison&Objet 2026",
-    "title_en": "7 South African Designers to Know From Maison&Objet 2026",
-    "text_pt": "Maison&#038;Objet’s Rising Talent Awards put the spotlight on 7 South African designers and studios bringing new perspectives to furniture, lighting, textiles, and objects",
-    "text_en": "Maison&#038;Objet’s Rising Talent Awards put the spotlight on 7 South African designers and studios bringing new perspectives to furniture, lighting, textiles, and objects",
-    "img": "https://images.pexels.com/photos/25551945/pexels-photo-25551945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/south-african-designers-maison-objet-2026/"
   }
 ]
