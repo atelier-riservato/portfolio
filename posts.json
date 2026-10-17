@@ -1,5 +1,17 @@
 [
   {
+    "id": "61ce200ac5",
+    "date_iso": "2026-10-17T09:00:01.684628",
+    "date_pt": "17 de outubro de 2026",
+    "date_en": "October 17, 2026",
+    "title_pt": "HARMAY Changsha Guojin Street Store / STUDIO SPLASH",
+    "title_en": "HARMAY Changsha Guojin Street Store / STUDIO SPLASH",
+    "text_pt": "Located on Guojin Street at the core of Changsha's Wuyi Square commercial district, the project sits within an underground retail spine linking street-level entrances with subterranean transit hubs, marked by crisscrossing interior corridors.",
+    "text_en": "Located on Guojin Street at the core of Changsha's Wuyi Square commercial district, the project sits within an underground retail spine linking street-level entrances with subterranean transit hubs, marked by crisscrossing interior corridors.",
+    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1186874/harmay-changsha-guojin-street-store-studio-splash"
+  },
+  {
     "id": "70870546cd",
     "date_iso": "2026-10-16T18:00:03.082031",
     "date_pt": "16 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "SOA architekti distills Korean food culture, bold color, and graphic references into a compact restaurant where architecture and identity move together",
     "img": "https://images.pexels.com/photos/5563473/pexels-photo-5563473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/the-kimchi-restaurant-soa-architekti-prague/"
-  },
-  {
-    "id": "3f1425208e",
-    "date_iso": "2026-09-17T09:00:02.188696",
-    "date_pt": "17 de setembro de 2026",
-    "date_en": "September 17, 2026",
-    "title_pt": "The ever-evolving relationship of music and architecture chronicled in new monograph",
-    "title_en": "The ever-evolving relationship of music and architecture chronicled in new monograph",
-    "text_pt": "'Music and Architecture in Harmony' explores Europe’s grandest operatic and orchestral venues, old and new, charting 350 years of architectural, acoustic and stylistic evolution",
-    "text_en": "'Music and Architecture in Harmony' explores Europe’s grandest operatic and orchestral venues, old and new, charting 350 years of architectural, acoustic and stylistic evolution",
-    "img": "https://images.pexels.com/photos/39485848/pexels-photo-39485848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/music-and-architecture-in-harmony-book"
   }
 ]
