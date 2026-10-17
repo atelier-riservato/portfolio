@@ -1,5 +1,17 @@
 [
   {
+    "id": "7ffb4b01a3",
+    "date_iso": "2026-10-17T18:00:02.770432",
+    "date_pt": "17 de outubro de 2026",
+    "date_en": "October 17, 2026",
+    "title_pt": "Arc·Haven Residence",
+    "title_en": "Arc·Haven Residence",
+    "text_pt": "Wuta Space Design The post Arc·Haven Residence appeared first on Leibal .",
+    "text_en": "Wuta Space Design The post Arc·Haven Residence appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/30776070/pexels-photo-30776070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/arc%c2%b7haven-residence/"
+  },
+  {
     "id": "61ce200ac5",
     "date_iso": "2026-10-17T09:00:01.684628",
     "date_pt": "17 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Designed by PlayLab, Laneige’s Seoul flagship scales up personalized beauty with interactive installations and bold architectural gestures",
     "img": "https://images.pexels.com/photos/11469002/pexels-photo-11469002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/laneige-seoul-flagship-playlab/"
-  },
-  {
-    "id": "2af3b192cb",
-    "date_iso": "2026-09-17T18:00:03.078531",
-    "date_pt": "17 de setembro de 2026",
-    "date_en": "September 17, 2026",
-    "title_pt": "The Kimchi Brings Seoul’s Visual Energy to Prague",
-    "title_en": "The Kimchi Brings Seoul’s Visual Energy to Prague",
-    "text_pt": "SOA architekti distills Korean food culture, bold color, and graphic references into a compact restaurant where architecture and identity move together",
-    "text_en": "SOA architekti distills Korean food culture, bold color, and graphic references into a compact restaurant where architecture and identity move together",
-    "img": "https://images.pexels.com/photos/5563473/pexels-photo-5563473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/the-kimchi-restaurant-soa-architekti-prague/"
   }
 ]
