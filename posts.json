@@ -1,5 +1,17 @@
 [
   {
+    "id": "540d61c405",
+    "date_iso": "2026-10-18T18:00:02.593242",
+    "date_pt": "18 de outubro de 2026",
+    "date_en": "October 18, 2026",
+    "title_pt": "Circle13 are updating pétanque for a new generation",
+    "title_en": "Circle13 are updating pétanque for a new generation",
+    "text_pt": "At Circle13 in London Fields, a century-old French sport gets a contemporary makeover, with design-led interiors, Basque-inspired small plates and a refreshing approach to drinking",
+    "text_en": "At Circle13 in London Fields, a century-old French sport gets a contemporary makeover, with design-led interiors, Basque-inspired small plates and a refreshing approach to drinking",
+    "img": "https://images.pexels.com/photos/39675477/pexels-photo-39675477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/travel/bars/circle-13-petanque-bar-london-fields-review"
+  },
+  {
     "id": "d5f819bcc2",
     "date_iso": "2026-10-18T09:00:01.990437",
     "date_pt": "18 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Germany's first visitor center dedicated to climate adaptation transforms its educational mission into an architectural experience shaped by landscape, material, and space.",
     "img": "https://images.pexels.com/photos/39517222/pexels-photo-39517222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185116/climate-experience-world-visitor-center-dbco"
-  },
-  {
-    "id": "ee5c63b159",
-    "date_iso": "2026-09-18T18:00:03.582680",
-    "date_pt": "18 de setembro de 2026",
-    "date_en": "September 18, 2026",
-    "title_pt": "The Best Advent Calendars of 2026 for Design Lovers",
-    "title_en": "The Best Advent Calendars of 2026 for Design Lovers",
-    "text_pt": "From artist-designed chocolate boxes to reusable holiday villages, these advent calendars make the countdown as appealing as what’s waiting inside",
-    "text_en": "From artist-designed chocolate boxes to reusable holiday villages, these advent calendars make the countdown as appealing as what’s waiting inside",
-    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/best-advent-calendars-2026/"
   }
 ]
