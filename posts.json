@@ -1,5 +1,17 @@
 [
   {
+    "id": "d5f819bcc2",
+    "date_iso": "2026-10-18T09:00:01.990437",
+    "date_pt": "18 de outubro de 2026",
+    "date_en": "October 18, 2026",
+    "title_pt": "From Spotlight to Soft-light: New Lighting by Coil + Drift",
+    "title_en": "From Spotlight to Soft-light: New Lighting by Coil + Drift",
+    "text_pt": "Drawing from theatrical spotlights and Catskill fire lookout towers, John Sorensen-Jolink creates two lighting collections that shape how we focus, unwind, and inhabit a room",
+    "text_en": "Drawing from theatrical spotlights and Catskill fire lookout towers, John Sorensen-Jolink creates two lighting collections that shape how we focus, unwind, and inhabit a room",
+    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/coil-drift-lighting-touch-strut/"
+  },
+  {
     "id": "7ffb4b01a3",
     "date_iso": "2026-10-17T18:00:02.770432",
     "date_pt": "17 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "From artist-designed chocolate boxes to reusable holiday villages, these advent calendars make the countdown as appealing as what’s waiting inside",
     "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/best-advent-calendars-2026/"
-  },
-  {
-    "id": "d2b0890107",
-    "date_iso": "2026-09-18T09:00:02.210320",
-    "date_pt": "18 de setembro de 2026",
-    "date_en": "September 18, 2026",
-    "title_pt": "Laneige Turns Skincare Customization Into a Four-Story Experience",
-    "title_en": "Laneige Turns Skincare Customization Into a Four-Story Experience",
-    "text_pt": "Designed by PlayLab, Laneige’s Seoul flagship scales up personalized beauty with interactive installations and bold architectural gestures",
-    "text_en": "Designed by PlayLab, Laneige’s Seoul flagship scales up personalized beauty with interactive installations and bold architectural gestures",
-    "img": "https://images.pexels.com/photos/11469002/pexels-photo-11469002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/laneige-seoul-flagship-playlab/"
   }
 ]
