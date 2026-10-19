@@ -1,5 +1,17 @@
 [
   {
+    "id": "a2331262e6",
+    "date_iso": "2026-10-19T18:00:03.262045",
+    "date_pt": "19 de outubro de 2026",
+    "date_en": "October 19, 2026",
+    "title_pt": "Boldizar Senteski Explores the Beauty of Decay in the Erosion Collection",
+    "title_en": "Boldizar Senteski Explores the Beauty of Decay in the Erosion Collection",
+    "text_pt": "Oxidation, corrosion, and chance shape three one-of-a-kind mirrors that blur the boundaries between functional design and sculptural art",
+    "text_en": "Oxidation, corrosion, and chance shape three one-of-a-kind mirrors that blur the boundaries between functional design and sculptural art",
+    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/boldizar-senteski-erosion-collection-mirrors/"
+  },
+  {
     "id": "873f8d517d",
     "date_iso": "2026-10-19T09:00:01.679166",
     "date_pt": "19 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The MAWD cofounder looks to landscapes, architecture, and the character of a place to shape spaces that feel like they belong",
     "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/friday-five-elliot-march-mawd/"
-  },
-  {
-    "id": "f769725943",
-    "date_iso": "2026-09-19T18:00:02.779270",
-    "date_pt": "19 de setembro de 2026",
-    "date_en": "September 19, 2026",
-    "title_pt": "Powerwall / Studio RAP",
-    "title_en": "Powerwall / Studio RAP",
-    "text_pt": "Powerwall translates the invisible electromagnetic forces of a 150 kV switch station into a large-scale ceramic relief, giving the technical infrastructure of Beverwijk a tangible architectural expression.",
-    "text_en": "Powerwall translates the invisible electromagnetic forces of a 150 kV switch station into a large-scale ceramic relief, giving the technical infrastructure of Beverwijk a tangible architectural expression.",
-    "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1185056/powerwall-studio-rap"
   }
 ]
