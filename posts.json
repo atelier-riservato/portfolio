@@ -1,5 +1,17 @@
 [
   {
+    "id": "873f8d517d",
+    "date_iso": "2026-10-19T09:00:01.679166",
+    "date_pt": "19 de outubro de 2026",
+    "date_en": "October 19, 2026",
+    "title_pt": "Art, design and industry collide in Antonio Colombo's newly-opened design archive",
+    "title_en": "Art, design and industry collide in Antonio Colombo's newly-opened design archive",
+    "text_pt": "Milanese creative entrepreneur Antonio Colombo opens his archive encapsulating a wonderful slice of 20th century design history, where design culture is surrounded by art and industry",
+    "text_en": "Milanese creative entrepreneur Antonio Colombo opens his archive encapsulating a wonderful slice of 20th century design history, where design culture is surrounded by art and industry",
+    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/colombo-archive-milan-opens"
+  },
+  {
     "id": "540d61c405",
     "date_iso": "2026-10-18T18:00:02.593242",
     "date_pt": "18 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Powerwall translates the invisible electromagnetic forces of a 150 kV switch station into a large-scale ceramic relief, giving the technical infrastructure of Beverwijk a tangible architectural expression.",
     "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185056/powerwall-studio-rap"
-  },
-  {
-    "id": "69b483cc8e",
-    "date_iso": "2026-09-19T09:00:02.172636",
-    "date_pt": "19 de setembro de 2026",
-    "date_en": "September 19, 2026",
-    "title_pt": "Climate Experience World Visitor Center / DBCO",
-    "title_en": "Climate Experience World Visitor Center / DBCO",
-    "text_pt": "Germany's first visitor center dedicated to climate adaptation transforms its educational mission into an architectural experience shaped by landscape, material, and space.",
-    "text_en": "Germany's first visitor center dedicated to climate adaptation transforms its educational mission into an architectural experience shaped by landscape, material, and space.",
-    "img": "https://images.pexels.com/photos/39517222/pexels-photo-39517222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1185116/climate-experience-world-visitor-center-dbco"
   }
 ]
