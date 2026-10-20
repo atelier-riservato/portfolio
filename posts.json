@@ -1,5 +1,17 @@
 [
   {
+    "id": "59f49130f3",
+    "date_iso": "2026-10-20T09:00:01.683244",
+    "date_pt": "20 de outubro de 2026",
+    "date_en": "October 20, 2026",
+    "title_pt": "Hommeboys Interiors Brings Warmth to a Los Altos Hills Home",
+    "title_en": "Hommeboys Interiors Brings Warmth to a Los Altos Hills Home",
+    "text_pt": "Oak paneling, richly veined marble, and three distinctive fireplaces turn a California remodel into an inviting family retreat",
+    "text_en": "Oak paneling, richly veined marble, and three distinctive fireplaces turn a California remodel into an inviting family retreat",
+    "img": "https://images.pexels.com/photos/19740269/pexels-photo-19740269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/hommeboys-interiors-los-altos-hills-home/"
+  },
+  {
     "id": "a2331262e6",
     "date_iso": "2026-10-19T18:00:03.262045",
     "date_pt": "19 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Understanding architecture as both a collaborative and experiential practice, La Grieta Pavilion was conceived as an academic and constructive exploration focused on sustainability, material awareness, and the relationship between light, time, and space.",
     "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185419/la-grieta-pavilion-onda-pavilion-plus-weyes-estudio"
-  },
-  {
-    "id": "212252a113",
-    "date_iso": "2026-09-20T09:00:01.372708",
-    "date_pt": "20 de setembro de 2026",
-    "date_en": "September 20, 2026",
-    "title_pt": "Elliot March Lets the Landscape Lead the Way",
-    "title_en": "Elliot March Lets the Landscape Lead the Way",
-    "text_pt": "The MAWD cofounder looks to landscapes, architecture, and the character of a place to shape spaces that feel like they belong",
-    "text_en": "The MAWD cofounder looks to landscapes, architecture, and the character of a place to shape spaces that feel like they belong",
-    "img": "https://images.pexels.com/photos/5444186/pexels-photo-5444186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/friday-five-elliot-march-mawd/"
   }
 ]
