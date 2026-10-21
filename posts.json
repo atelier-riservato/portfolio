@@ -1,5 +1,17 @@
 [
   {
+    "id": "4d82ae7a32",
+    "date_iso": "2026-10-21T09:00:01.994167",
+    "date_pt": "21 de outubro de 2026",
+    "date_en": "October 21, 2026",
+    "title_pt": "A simple timber envelope conceals the scale and drama of this waterfront house in Brazil",
+    "title_en": "A simple timber envelope conceals the scale and drama of this waterfront house in Brazil",
+    "text_pt": "MF+Arquitetos has completed Casa Celeiro in Minas Gerais, featuring two connected pavilions embedded in the landscape",
+    "text_en": "MF+Arquitetos has completed Casa Celeiro in Minas Gerais, featuring two connected pavilions embedded in the landscape",
+    "img": "https://images.pexels.com/photos/29354637/pexels-photo-29354637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/residential/a-simple-timber-envelope-conceals-the-scale-and-drama-of-this-waterfront-house-in-brazil"
+  },
+  {
     "id": "22566f91c6",
     "date_iso": "2026-10-20T18:00:03.668848",
     "date_pt": "20 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Ukrainian architect and designer created a soft-yet-sculptural New York boutique for Ukrianian brand Guzema: ‘What surrounds an object is as important as the object itself'",
     "img": "https://images.pexels.com/photos/14809401/pexels-photo-14809401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/interior-design/victoria-yakusha-guzema-jewellery-store-nyc"
-  },
-  {
-    "id": "f90d11f528",
-    "date_iso": "2026-09-21T09:00:01.672315",
-    "date_pt": "21 de setembro de 2026",
-    "date_en": "September 21, 2026",
-    "title_pt": "Inside a New Venice Hotel With a Lighter Take on Venetian Grandeur",
-    "title_en": "Inside a New Venice Hotel With a Lighter Take on Venetian Grandeur",
-    "text_pt": "Elizabeth Unique Venice brings Cristina Celestino’s contemporary mix of color, material, and Italian design to a 17th-century palazzo in Cannaregio",
-    "text_en": "Elizabeth Unique Venice brings Cristina Celestino’s contemporary mix of color, material, and Italian design to a 17th-century palazzo in Cannaregio",
-    "img": "https://images.pexels.com/photos/31737859/pexels-photo-31737859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/elizabeth-unique-venice-cannaregio/"
   }
 ]
