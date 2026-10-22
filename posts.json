@@ -1,5 +1,17 @@
 [
   {
+    "id": "b5c5d0402c",
+    "date_iso": "2026-10-22T18:00:02.975261",
+    "date_pt": "22 de outubro de 2026",
+    "date_en": "October 22, 2026",
+    "title_pt": "OKA’s Mori is a magic mushroom for the home with a personality shaped by robotics and AI",
+    "title_en": "OKA’s Mori is a magic mushroom for the home with a personality shaped by robotics and AI",
+    "text_pt": "More than just a fun guy, Mori is a digital companion designed to brighten up solo living, encourage mindful thinking and generally just hang around to light up your life",
+    "text_en": "More than just a fun guy, Mori is a digital companion designed to brighten up solo living, encourage mindful thinking and generally just hang around to light up your life",
+    "img": "https://images.pexels.com/photos/40318841/pexels-photo-40318841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/tech/oka-mori-companion-robot"
+  },
+  {
     "id": "5f54114634",
     "date_iso": "2026-10-22T09:00:01.987511",
     "date_pt": "22 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The designer creates a home for a collector, complete with midcentury icons and even an Egyptian artefact",
     "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/interior-design/rose-uniacke-west-london-apartment"
-  },
-  {
-    "id": "609d71e56a",
-    "date_iso": "2026-09-22T18:00:03.385408",
-    "date_pt": "22 de setembro de 2026",
-    "date_en": "September 22, 2026",
-    "title_pt": "At Milan Fashion Week, Prada hones in on the skirt",
-    "title_en": "At Milan Fashion Week, Prada hones in on the skirt",
-    "text_pt": "Every look of Prada’s S/S 2027 show today (22 September 2026) featured a skirt – a garment that co-creative directors Miuccia Prada and Raf Simons used as ‘a raw material to express concepts’",
-    "text_en": "Every look of Prada’s S/S 2027 show today (22 September 2026) featured a skirt – a garment that co-creative directors Miuccia Prada and Raf Simons used as ‘a raw material to express concepts’",
-    "img": "https://images.pexels.com/photos/14809401/pexels-photo-14809401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/fashion-beauty/prada-ss-2027-womenswear-show-review-milan-fashion-week"
   }
 ]
