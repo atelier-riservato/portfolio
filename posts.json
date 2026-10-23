@@ -1,5 +1,17 @@
 [
   {
+    "id": "54e2e5cfba",
+    "date_iso": "2026-10-23T09:00:01.658374",
+    "date_pt": "23 de outubro de 2026",
+    "date_en": "October 23, 2026",
+    "title_pt": "For its debut boutique, cult slipper brand Le Monde Béryl puts its best foot forward",
+    "title_en": "For its debut boutique, cult slipper brand Le Monde Béryl puts its best foot forward",
+    "text_pt": "With references that range from Venice to David Lynch, this enveloping New York boutique, with interiors by Tutto Bene and Silka Rittson-Thomas, feels like a sophisticated art gallery",
+    "text_en": "With references that range from Venice to David Lynch, this enveloping New York boutique, with interiors by Tutto Bene and Silka Rittson-Thomas, feels like a sophisticated art gallery",
+    "img": "https://images.pexels.com/photos/20047163/pexels-photo-20047163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/interior-design/le-monde-beryl-nyc-flagship-store"
+  },
+  {
     "id": "b5c5d0402c",
     "date_iso": "2026-10-22T18:00:02.975261",
     "date_pt": "22 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Dromgariff Rainforest is a project led by Bryan and Tara Meehan to regenerate its gardens and forest. One of Ireland's last ancient oak wood rainforests and a protected Special Area of Conservation, the forest stretches across the south of Ireland.",
     "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185459/linden-house-schemata-architects"
-  },
-  {
-    "id": "e5fba7e10f",
-    "date_iso": "2026-09-23T09:00:02.161303",
-    "date_pt": "23 de setembro de 2026",
-    "date_en": "September 23, 2026",
-    "title_pt": "This Rose Uniacke-designed London apartment transcends periods and cultures",
-    "title_en": "This Rose Uniacke-designed London apartment transcends periods and cultures",
-    "text_pt": "The designer creates a home for a collector, complete with midcentury icons and even an Egyptian artefact",
-    "text_en": "The designer creates a home for a collector, complete with midcentury icons and even an Egyptian artefact",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/interior-design/rose-uniacke-west-london-apartment"
   }
 ]
