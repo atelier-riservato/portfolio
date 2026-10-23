@@ -1,5 +1,17 @@
 [
   {
+    "id": "187417c566",
+    "date_iso": "2026-10-23T18:00:03.666481",
+    "date_pt": "23 de outubro de 2026",
+    "date_en": "October 23, 2026",
+    "title_pt": "Highlights from Dutch Design Week 2026: 'Eindhoven isn’t a backdrop, it’s a co-curator'",
+    "title_en": "Highlights from Dutch Design Week 2026: 'Eindhoven isn’t a backdrop, it’s a co-curator'",
+    "text_pt": "The fair, now on view until until 25 October, is a celebration of rebellious design spirits everywhere. Here are the best things we saw",
+    "text_en": "The fair, now on view until until 25 October, is a celebration of rebellious design spirits everywhere. Here are the best things we saw",
+    "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026"
+  },
+  {
     "id": "54e2e5cfba",
     "date_iso": "2026-10-23T09:00:01.658374",
     "date_pt": "23 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Childhood Memories Collection from Gomi takes recycled plastics to a new level by incorporating unwanted and pre-loved Barbie dolls in the process",
     "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/tech/gomi-barbie-childhood-memories-collection-of-devices"
-  },
-  {
-    "id": "2dafeb4275",
-    "date_iso": "2026-09-23T18:00:02.868154",
-    "date_pt": "23 de setembro de 2026",
-    "date_en": "September 23, 2026",
-    "title_pt": "Linden House / Schemata Architects",
-    "title_en": "Linden House / Schemata Architects",
-    "text_pt": "The Dromgariff Rainforest is a project led by Bryan and Tara Meehan to regenerate its gardens and forest. One of Ireland's last ancient oak wood rainforests and a protected Special Area of Conservation, the forest stretches across the south of Ireland.",
-    "text_en": "The Dromgariff Rainforest is a project led by Bryan and Tara Meehan to regenerate its gardens and forest. One of Ireland's last ancient oak wood rainforests and a protected Special Area of Conservation, the forest stretches across the south of Ireland.",
-    "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1185459/linden-house-schemata-architects"
   }
 ]
