@@ -1,5 +1,17 @@
 [
   {
+    "id": "1001053cff",
+    "date_iso": "2026-10-24T09:00:01.494098",
+    "date_pt": "24 de outubro de 2026",
+    "date_en": "October 24, 2026",
+    "title_pt": "Greenwich Street Loft",
+    "title_en": "Greenwich Street Loft",
+    "text_pt": "Elmo Studios The post Greenwich Street Loft appeared first on Leibal .",
+    "text_en": "Elmo Studios The post Greenwich Street Loft appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/greenwich-street-loft/"
+  },
+  {
     "id": "187417c566",
     "date_iso": "2026-10-23T18:00:03.666481",
     "date_pt": "23 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Porsche and Hedley Studios shrink a 1950s racing icon to 80% scale without sacrificing the details that made the original so recognizable",
     "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/porsche-550-j-hedley-studios/"
-  },
-  {
-    "id": "468b5a0484",
-    "date_iso": "2026-09-24T09:00:02.088968",
-    "date_pt": "24 de setembro de 2026",
-    "date_en": "September 24, 2026",
-    "title_pt": "Barbie provides inspiration and source material for Gomi’s new range of unique devices",
-    "title_en": "Barbie provides inspiration and source material for Gomi’s new range of unique devices",
-    "text_pt": "The Childhood Memories Collection from Gomi takes recycled plastics to a new level by incorporating unwanted and pre-loved Barbie dolls in the process",
-    "text_en": "The Childhood Memories Collection from Gomi takes recycled plastics to a new level by incorporating unwanted and pre-loved Barbie dolls in the process",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/tech/gomi-barbie-childhood-memories-collection-of-devices"
   }
 ]
