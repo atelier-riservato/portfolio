@@ -1,5 +1,17 @@
 [
   {
+    "id": "190e2b06ae",
+    "date_iso": "2026-10-24T18:00:01.981814",
+    "date_pt": "24 de outubro de 2026",
+    "date_en": "October 24, 2026",
+    "title_pt": "Napa Valley Meets Paris in This Charlotte Bistro by FictionWorks",
+    "title_en": "Napa Valley Meets Paris in This Charlotte Bistro by FictionWorks",
+    "text_pt": "A former taco spot, the restaurant is now a layered interior of warm woods, stained glass, and intimate dining spaces",
+    "text_en": "A former taco spot, the restaurant is now a layered interior of warm woods, stained glass, and intimate dining spaces",
+    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/napa-bistro-charlotte-fictionworks/"
+  },
+  {
     "id": "1001053cff",
     "date_iso": "2026-10-24T09:00:01.494098",
     "date_pt": "24 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Located in a quiet rural village in Ibaraki Prefecture, this house is designed as a final home for a mature couple.",
     "img": "https://images.pexels.com/photos/39485848/pexels-photo-39485848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185631/house-of-emptiness-igarchitects"
-  },
-  {
-    "id": "205310a4af",
-    "date_iso": "2026-09-24T18:00:03.672216",
-    "date_pt": "24 de setembro de 2026",
-    "date_en": "September 24, 2026",
-    "title_pt": "The Porsche 550 Spyder Gets a Smaller, Electric Second Act",
-    "title_en": "The Porsche 550 Spyder Gets a Smaller, Electric Second Act",
-    "text_pt": "Porsche and Hedley Studios shrink a 1950s racing icon to 80% scale without sacrificing the details that made the original so recognizable",
-    "text_en": "Porsche and Hedley Studios shrink a 1950s racing icon to 80% scale without sacrificing the details that made the original so recognizable",
-    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/porsche-550-j-hedley-studios/"
   }
 ]
