@@ -1,5 +1,17 @@
 [
   {
+    "id": "73a8615178",
+    "date_iso": "2026-10-25T09:00:01.965155",
+    "date_pt": "25 de outubro de 2026",
+    "date_en": "October 25, 2026",
+    "title_pt": "Learning from Capitalism: How Postmodern Architecture Became the Language of American Business",
+    "title_en": "Learning from Capitalism: How Postmodern Architecture Became the Language of American Business",
+    "text_pt": "In 1972, Robert Venturi, Denise Scott Brown , and Steven Izenour published Learning from Las Vegas , challenging architects to reconsider the underappreciated, largely dismissed commercial landscape in the United States .",
+    "text_en": "In 1972, Robert Venturi, Denise Scott Brown , and Steven Izenour published Learning from Las Vegas , challenging architects to reconsider the underappreciated, largely dismissed commercial landscape in the United States .",
+    "img": "https://images.pexels.com/photos/1955549/pexels-photo-1955549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1187113/learning-from-capitalism-how-postmodern-architecture-became-the-language-of-american-business"
+  },
+  {
     "id": "190e2b06ae",
     "date_iso": "2026-10-24T18:00:01.981814",
     "date_pt": "24 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "At one of S&atilde;o Paulo&rsquo;s most emblematic corners&mdash;where the intensity of Brigadeiro Faria Lima Avenue meets the walkable scale of Jeronimo da Veiga Street&mdash;Jeronimo Faria Lima does not seek to assert itself through height, form, or presence in the skyline alon...",
     "img": "https://images.pexels.com/photos/17627997/pexels-photo-17627997.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185833/jeronimo-faria-lima-building-perkins-and-will-sao-paulo"
-  },
-  {
-    "id": "01873188ac",
-    "date_iso": "2026-09-25T09:00:02.289192",
-    "date_pt": "25 de setembro de 2026",
-    "date_en": "September 25, 2026",
-    "title_pt": "House of Emptiness / IGArchitects",
-    "title_en": "House of Emptiness / IGArchitects",
-    "text_pt": "Located in a quiet rural village in Ibaraki Prefecture, this house is designed as a final home for a mature couple.",
-    "text_en": "Located in a quiet rural village in Ibaraki Prefecture, this house is designed as a final home for a mature couple.",
-    "img": "https://images.pexels.com/photos/39485848/pexels-photo-39485848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1185631/house-of-emptiness-igarchitects"
   }
 ]
