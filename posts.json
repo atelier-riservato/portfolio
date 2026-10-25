@@ -1,5 +1,17 @@
 [
   {
+    "id": "81b93600e8",
+    "date_iso": "2026-10-25T18:00:02.569048",
+    "date_pt": "25 de outubro de 2026",
+    "date_en": "October 25, 2026",
+    "title_pt": "Jean Prounis’ ‘Moderne’ jewellery collection is inspired by art deco New York",
+    "title_en": "Jean Prounis’ ‘Moderne’ jewellery collection is inspired by art deco New York",
+    "text_pt": "In gold and set with estate diamonds and colourful gems, Prounis’ new jewellery designs nod to art deco art, architecture and culture",
+    "text_en": "In gold and set with estate diamonds and colourful gems, Prounis’ new jewellery designs nod to art deco art, architecture and culture",
+    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/watches-jewellery/jean-prounis-moderne-jewellery-collection"
+  },
+  {
     "id": "73a8615178",
     "date_iso": "2026-10-25T09:00:01.965155",
     "date_pt": "25 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Westwing’s design-led advent calendar features a curated collection of gifts bringing together pieces from leading names in interiors",
     "img": "https://images.pexels.com/photos/34605930/pexels-photo-34605930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/interior-accessories/westwing-advent-calendar-2026"
-  },
-  {
-    "id": "5e32ea2d60",
-    "date_iso": "2026-09-25T18:00:03.871907",
-    "date_pt": "25 de setembro de 2026",
-    "date_en": "September 25, 2026",
-    "title_pt": "Jeronimo Faria Lima Building / Perkins&Will São Paulo",
-    "title_en": "Jeronimo Faria Lima Building / Perkins&Will São Paulo",
-    "text_pt": "At one of S&atilde;o Paulo&rsquo;s most emblematic corners&mdash;where the intensity of Brigadeiro Faria Lima Avenue meets the walkable scale of Jeronimo da Veiga Street&mdash;Jeronimo Faria Lima does not seek to assert itself through height, form, or presence in the skyline alon...",
-    "text_en": "At one of S&atilde;o Paulo&rsquo;s most emblematic corners&mdash;where the intensity of Brigadeiro Faria Lima Avenue meets the walkable scale of Jeronimo da Veiga Street&mdash;Jeronimo Faria Lima does not seek to assert itself through height, form, or presence in the skyline alon...",
-    "img": "https://images.pexels.com/photos/17627997/pexels-photo-17627997.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1185833/jeronimo-faria-lima-building-perkins-and-will-sao-paulo"
   }
 ]
