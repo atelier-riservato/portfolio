@@ -1,5 +1,17 @@
 [
   {
+    "id": "e4a7ff8b41",
+    "date_iso": "2026-10-26T18:00:03.068796",
+    "date_pt": "26 de outubro de 2026",
+    "date_en": "October 26, 2026",
+    "title_pt": "Ironwood Retreat / The Ranch Mine",
+    "title_en": "Ironwood Retreat / The Ranch Mine",
+    "text_pt": "Most of Arizona's streams run only after a storm. Oak Creek is one of the few that flows all year and the water changes everything around it.",
+    "text_en": "Most of Arizona's streams run only after a storm. Oak Creek is one of the few that flows all year and the water changes everything around it.",
+    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1187398/ironwood-the-ranch-mine"
+  },
+  {
     "id": "a9f9650258",
     "date_iso": "2026-10-26T09:00:02.105154",
     "date_pt": "26 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "From floating fitness suites to river safaris, Anantara’s new Kafue River property is designed around its extraordinary natural setting",
     "img": "https://images.pexels.com/photos/37066113/pexels-photo-37066113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/travel/hotels/anantara-tented-camp-kafue-river-zambia-review"
-  },
-  {
-    "id": "fbc892e0b4",
-    "date_iso": "2026-09-26T18:00:02.384750",
-    "date_pt": "26 de setembro de 2026",
-    "date_en": "September 26, 2026",
-    "title_pt": "Creative glassmaking like you've never seen before: 12 contemporary chandeliers illuminate St Mark’s Square",
-    "title_en": "Creative glassmaking like you've never seen before: 12 contemporary chandeliers illuminate St Mark’s Square",
-    "text_pt": "12 chandeliers by contemporary creatives (from Norman Foster to Bethan Laura Wood) and made by Murano’s maestri shine their light on the historic craft of glassmaking. Discover the designs, on view in Venice until November 1",
-    "text_en": "12 chandeliers by contemporary creatives (from Norman Foster to Bethan Laura Wood) and made by Murano’s maestri shine their light on the historic craft of glassmaking. Discover the designs, on view in Venice until November 1",
-    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/design-events/venice-glass-week-2026-norman-foster-chandelier"
   }
 ]
