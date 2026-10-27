@@ -1,5 +1,17 @@
 [
   {
+    "id": "78fb0e4dbb",
+    "date_iso": "2026-10-27T18:00:03.065336",
+    "date_pt": "27 de outubro de 2026",
+    "date_en": "October 27, 2026",
+    "title_pt": "Historic Westchester Estate",
+    "title_en": "Historic Westchester Estate",
+    "text_pt": "Jessica Gersten Design The post Historic Westchester Estate appeared first on Leibal .",
+    "text_en": "Jessica Gersten Design The post Historic Westchester Estate appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/29354637/pexels-photo-29354637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/historic-westchester-estate/"
+  },
+  {
     "id": "fcdce08083",
     "date_iso": "2026-10-27T09:00:02.015625",
     "date_pt": "27 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "In many Asian cities, the summer climate can increasingly be experienced from a distance. In Hong Kong , it is possible to move from an apartment tower through a podium mall , enter the Mass-Transit-Railway system (MTR), arrive beneath another commercial complex, and continue thr...",
     "img": "https://images.pexels.com/photos/12277197/pexels-photo-12277197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185653/escapism-from-the-streets-how-air-conditioning-reshaped-the-asian-city"
-  },
-  {
-    "id": "c7967e5d16",
-    "date_iso": "2026-09-27T18:00:02.889664",
-    "date_pt": "27 de setembro de 2026",
-    "date_en": "September 27, 2026",
-    "title_pt": "House of People / DinellJohansson",
-    "title_en": "House of People / DinellJohansson",
-    "text_pt": "Folkets Hus has been refurbished and restored with the care and attention it deserves. The original building architect was the excellent Kockum Luttinger Söderström.",
-    "text_en": "Folkets Hus has been refurbished and restored with the care and attention it deserves. The original building architect was the excellent Kockum Luttinger Söderström.",
-    "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson"
   }
 ]
