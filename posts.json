@@ -1,5 +1,17 @@
 [
   {
+    "id": "fcdce08083",
+    "date_iso": "2026-10-27T09:00:02.015625",
+    "date_pt": "27 de outubro de 2026",
+    "date_en": "October 27, 2026",
+    "title_pt": "Form Follows Formation: How Architecture Works with Geological Shapes",
+    "title_en": "Form Follows Formation: How Architecture Works with Geological Shapes",
+    "text_pt": "A canyon is a space no one designed. Its walls expose layers of rock deposited over millions of years, and the passage between them exists because water slowly wore that rock away. Glaciers shaped valleys in a similar way, leaving slopes behind as the ice retreated.",
+    "text_en": "A canyon is a space no one designed. Its walls expose layers of rock deposited over millions of years, and the passage between them exists because water slowly wore that rock away. Glaciers shaped valleys in a similar way, leaving slopes behind as the ice retreated.",
+    "img": "https://images.pexels.com/photos/13012256/pexels-photo-13012256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1187166/form-follows-formation-how-architecture-works-with-geological-shapes"
+  },
+  {
     "id": "e4a7ff8b41",
     "date_iso": "2026-10-26T18:00:03.068796",
     "date_pt": "26 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Folkets Hus has been refurbished and restored with the care and attention it deserves. The original building architect was the excellent Kockum Luttinger Söderström.",
     "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson"
-  },
-  {
-    "id": "047426f551",
-    "date_iso": "2026-09-27T09:00:02.408096",
-    "date_pt": "27 de setembro de 2026",
-    "date_en": "September 27, 2026",
-    "title_pt": "Wild hippos and elephants are your neighbours at this luxury tented camp in Zambia",
-    "title_en": "Wild hippos and elephants are your neighbours at this luxury tented camp in Zambia",
-    "text_pt": "From floating fitness suites to river safaris, Anantara’s new Kafue River property is designed around its extraordinary natural setting",
-    "text_en": "From floating fitness suites to river safaris, Anantara’s new Kafue River property is designed around its extraordinary natural setting",
-    "img": "https://images.pexels.com/photos/37066113/pexels-photo-37066113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/travel/hotels/anantara-tented-camp-kafue-river-zambia-review"
   }
 ]
