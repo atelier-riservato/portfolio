@@ -1,5 +1,17 @@
 [
   {
+    "id": "2cae2de712",
+    "date_iso": "2026-10-28T18:00:04.067029",
+    "date_pt": "28 de outubro de 2026",
+    "date_en": "October 28, 2026",
+    "title_pt": "Clinton Hill Residence",
+    "title_en": "Clinton Hill Residence",
+    "text_pt": "Office of Tangible Space The post Clinton Hill Residence appeared first on Leibal .",
+    "text_en": "Office of Tangible Space The post Clinton Hill Residence appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/clinton-hill-residence/"
+  },
+  {
     "id": "ca760f446f",
     "date_iso": "2026-10-28T09:00:01.661227",
     "date_pt": "28 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Tim Veresnovsky Studio The post Living Room appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/30644177/pexels-photo-30644177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/living-room/"
-  },
-  {
-    "id": "e82cf339d0",
-    "date_iso": "2026-09-28T18:00:03.077170",
-    "date_pt": "28 de setembro de 2026",
-    "date_en": "September 28, 2026",
-    "title_pt": "Cincinnati’s Fidelity Hotel Gives a Beaux-Arts Landmark New Life",
-    "title_en": "Cincinnati’s Fidelity Hotel Gives a Beaux-Arts Landmark New Life",
-    "text_pt": "New Waterloo and Looney &#038; Associates transform the historic Gwynne Building into a 165-room hotel that draws on Cincinnati’s architecture, history, and culture",
-    "text_en": "New Waterloo and Looney &#038; Associates transform the historic Gwynne Building into a 165-room hotel that draws on Cincinnati’s architecture, history, and culture",
-    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/cincinnati-fidelity-hotel-gwynne-building/"
   }
 ]
