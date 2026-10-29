@@ -1,5 +1,17 @@
 [
   {
+    "id": "1e7d64fa24",
+    "date_iso": "2026-10-29T18:00:03.873895",
+    "date_pt": "29 de outubro de 2026",
+    "date_en": "October 29, 2026",
+    "title_pt": "How Aldo Bakker's ambiguous designs merge sculpture and function",
+    "title_en": "How Aldo Bakker's ambiguous designs merge sculpture and function",
+    "text_pt": "Aldo Bakker's latest exhibition, titled ‘Strangely Familiar’, is currently on view in Amsterdam at Looiersgracht 60 until 23 December 2026. Nick Vinson spoke to the designer about materials and forms",
+    "text_en": "Aldo Bakker's latest exhibition, titled ‘Strangely Familiar’, is currently on view in Amsterdam at Looiersgracht 60 until 23 December 2026. Nick Vinson spoke to the designer about materials and forms",
+    "img": "https://images.pexels.com/photos/16808496/pexels-photo-16808496.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/aldo-bakker-strangely-familiar"
+  },
+  {
     "id": "e8396331f7",
     "date_iso": "2026-10-29T09:00:01.869146",
     "date_pt": "29 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Argyle Design brings residential warmth to an industrial Frogtown building, balancing the technical demands of a post-production studio with light, openness, and softer materials",
     "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/church-edit-headquarters/"
-  },
-  {
-    "id": "de8b3e105e",
-    "date_iso": "2026-09-29T18:00:03.785275",
-    "date_pt": "29 de setembro de 2026",
-    "date_en": "September 29, 2026",
-    "title_pt": "Garner Residence / Davey McEathron Architecture",
-    "title_en": "Garner Residence / Davey McEathron Architecture",
-    "text_pt": "Eclectic 1970s-inspired home designed by Davey McEathron Architecture with interiors + construction by Cary Paul Studios. This home in the heart of South Austin blends mid-century modern charm with 70s and Memphis modern-influenced interiors.",
-    "text_en": "Eclectic 1970s-inspired home designed by Davey McEathron Architecture with interiors + construction by Cary Paul Studios. This home in the heart of South Austin blends mid-century modern charm with 70s and Memphis modern-influenced interiors.",
-    "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1029095/garner-residence-davey-mceathron-architecture"
   }
 ]
