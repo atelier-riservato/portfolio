@@ -1,5 +1,17 @@
 [
   {
+    "id": "3138d89ff9",
+    "date_iso": "2026-10-30T09:00:02.074091",
+    "date_pt": "30 de outubro de 2026",
+    "date_en": "October 30, 2026",
+    "title_pt": "Designing for the modern office: Brunner and Doshi Levien launch a flexible furniture collection",
+    "title_en": "Designing for the modern office: Brunner and Doshi Levien launch a flexible furniture collection",
+    "text_pt": "At Orgatec 2026, Brunner and Doshi Levien present the ‘Session’ collection, a series of flexible furniture elements that respond to the needs of a contemporary workspace",
+    "text_en": "At Orgatec 2026, Brunner and Doshi Levien present the ‘Session’ collection, a series of flexible furniture elements that respond to the needs of a contemporary workspace",
+    "img": "https://images.pexels.com/photos/705194/pexels-photo-705194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/furniture/brunner-group-doshi-levien-session-collection-office-furniture"
+  },
+  {
     "id": "1e7d64fa24",
     "date_iso": "2026-10-29T18:00:03.873895",
     "date_pt": "29 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Casa Matriz was born from a refusal to repeat the obvious. In surroundings marked by closely built houses and a repetition of predictable solutions, the architecture responds with introspection and openness: it closes itself off at the sides to preserve privacy, while directing t...",
     "img": "https://images.pexels.com/photos/30776070/pexels-photo-30776070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185997/matriz-house-estudio-zargos"
-  },
-  {
-    "id": "e384ae5180",
-    "date_iso": "2026-09-30T09:00:02.155418",
-    "date_pt": "30 de setembro de 2026",
-    "date_en": "September 30, 2026",
-    "title_pt": "Church Edit’s LA Headquarters Rethinks the Editing Studio",
-    "title_en": "Church Edit’s LA Headquarters Rethinks the Editing Studio",
-    "text_pt": "Argyle Design brings residential warmth to an industrial Frogtown building, balancing the technical demands of a post-production studio with light, openness, and softer materials",
-    "text_en": "Argyle Design brings residential warmth to an industrial Frogtown building, balancing the technical demands of a post-production studio with light, openness, and softer materials",
-    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/church-edit-headquarters/"
   }
 ]
