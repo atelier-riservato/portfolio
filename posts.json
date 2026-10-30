@@ -1,5 +1,17 @@
 [
   {
+    "id": "948effe9de",
+    "date_iso": "2026-10-30T18:00:02.973073",
+    "date_pt": "30 de outubro de 2026",
+    "date_en": "October 30, 2026",
+    "title_pt": "Jeremiah Brent Brings Architectural Influences to Loloi Rugs",
+    "title_en": "Jeremiah Brent Brings Architectural Influences to Loloi Rugs",
+    "text_pt": "The interior designer draws inspiration from Mies van der Rohe, ancient Rome, and Gothic architecture for a collection of rugs and pillows",
+    "text_en": "The interior designer draws inspiration from Mies van der Rohe, ancient Rome, and Gothic architecture for a collection of rugs and pillows",
+    "img": "https://images.pexels.com/photos/37066113/pexels-photo-37066113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/jeremiah-brent-loloi-collection/"
+  },
+  {
     "id": "3138d89ff9",
     "date_iso": "2026-10-30T09:00:02.074091",
     "date_pt": "30 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "This 21st-century chapter repositions the Ghent Design Museum as a laboratory for innovation with civic purpose",
     "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/public-buildings/ghent-design-museum-belgium"
-  },
-  {
-    "id": "2aff441488",
-    "date_iso": "2026-09-30T18:00:03.373302",
-    "date_pt": "30 de setembro de 2026",
-    "date_en": "September 30, 2026",
-    "title_pt": "Matriz House / Estúdio Zargos",
-    "title_en": "Matriz House / Estúdio Zargos",
-    "text_pt": "Casa Matriz was born from a refusal to repeat the obvious. In surroundings marked by closely built houses and a repetition of predictable solutions, the architecture responds with introspection and openness: it closes itself off at the sides to preserve privacy, while directing t...",
-    "text_en": "Casa Matriz was born from a refusal to repeat the obvious. In surroundings marked by closely built houses and a repetition of predictable solutions, the architecture responds with introspection and openness: it closes itself off at the sides to preserve privacy, while directing t...",
-    "img": "https://images.pexels.com/photos/30776070/pexels-photo-30776070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1185997/matriz-house-estudio-zargos"
   }
 ]
