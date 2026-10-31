@@ -1,5 +1,17 @@
 [
   {
+    "id": "4095719000",
+    "date_iso": "2026-10-31T18:00:02.701824",
+    "date_pt": "31 de outubro de 2026",
+    "date_en": "October 31, 2026",
+    "title_pt": "Sabine Marcelis brings 15 years of light and colour to her Zurich show",
+    "title_en": "Sabine Marcelis brings 15 years of light and colour to her Zurich show",
+    "text_pt": "‘Light and Color’, the designer’s first museum exhibition, brings cast-resin cubes, Ikea donuts, and a mirrored room of giant lava lamps to Museum für Gestaltung Zürich (30 October 2026 – 4 April 2027)",
+    "text_en": "‘Light and Color’, the designer’s first museum exhibition, brings cast-resin cubes, Ikea donuts, and a mirrored room of giant lava lamps to Museum für Gestaltung Zürich (30 October 2026 – 4 April 2027)",
+    "img": "https://images.pexels.com/photos/12763150/pexels-photo-12763150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/design-events/sabine-marcelis-light-and-color-zurich-museum-fur-gestaltung-exhibition-review"
+  },
+  {
     "id": "812b575a45",
     "date_iso": "2026-10-31T09:00:02.583340",
     "date_pt": "31 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Following its last edition in 2019, Amman Design Week returns from October 2-17, 2026, bringing more than 220 designers and participants together across exhibitions, installations, public-space projects, talks, workshops, and performances in Jordan .",
     "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1186204/amman-design-week-2026-returns-with-accumulations-exploring-the-layers-of-place-material-and-memory"
-  },
-  {
-    "id": "d82afdce44",
-    "date_iso": "2026-10-01T18:00:04.071919",
-    "date_pt": "1 de outubro de 2026",
-    "date_en": "October 1, 2026",
-    "title_pt": "Casa Malonic",
-    "title_en": "Casa Malonic",
-    "text_pt": "HW Studio The post Casa Malonic appeared first on Leibal .",
-    "text_en": "HW Studio The post Casa Malonic appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/30644177/pexels-photo-30644177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/casa-malonic/"
   }
 ]
