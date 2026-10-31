@@ -1,5 +1,17 @@
 [
   {
+    "id": "812b575a45",
+    "date_iso": "2026-10-31T09:00:02.583340",
+    "date_pt": "31 de outubro de 2026",
+    "date_en": "October 31, 2026",
+    "title_pt": "Sabine Marcelis’ lava lamp world is in the pink – and you can buy a piece of it",
+    "title_en": "Sabine Marcelis’ lava lamp world is in the pink – and you can buy a piece of it",
+    "text_pt": "The Dutch artist and designer collaborates with lava lamp founder Mathmos on a limited-edition bubblegum pink lava lamp and an installation at her new exhibition",
+    "text_en": "The Dutch artist and designer collaborates with lava lamp founder Mathmos on a limited-edition bubblegum pink lava lamp and an installation at her new exhibition",
+    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/lighting/sabine-marcelis-bubblegum-pink-lava-lamp-for-mathmos"
+  },
+  {
     "id": "948effe9de",
     "date_iso": "2026-10-30T18:00:02.973073",
     "date_pt": "30 de outubro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "HW Studio The post Casa Malonic appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/30644177/pexels-photo-30644177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/casa-malonic/"
-  },
-  {
-    "id": "111260542e",
-    "date_iso": "2026-10-01T09:00:01.471808",
-    "date_pt": "1 de outubro de 2026",
-    "date_en": "October 1, 2026",
-    "title_pt": "Step inside the revamped Ghent Design Museum, a ‘touchpoint' for coming together",
-    "title_en": "Step inside the revamped Ghent Design Museum, a ‘touchpoint' for coming together",
-    "text_pt": "This 21st-century chapter repositions the Ghent Design Museum as a laboratory for innovation with civic purpose",
-    "text_en": "This 21st-century chapter repositions the Ghent Design Museum as a laboratory for innovation with civic purpose",
-    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/public-buildings/ghent-design-museum-belgium"
   }
 ]
