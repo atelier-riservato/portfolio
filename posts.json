@@ -1,5 +1,17 @@
 [
   {
+    "id": "eb5b98f056",
+    "date_iso": "2026-11-01T18:00:02.682531",
+    "date_pt": "1 de novembro de 2026",
+    "date_en": "November 1, 2026",
+    "title_pt": "Friday Five with Bram Vanderbeke: Finding Inspiration in Ancient Ruins and Architecture",
+    "title_en": "Friday Five with Bram Vanderbeke: Finding Inspiration in Ancient Ruins and Architecture",
+    "text_pt": "The Belgian artist and designer shares what inspired the Anthology Side Table/Stool, created in collaboration with jeweler Lore Van Keer",
+    "text_en": "The Belgian artist and designer shares what inspired the Anthology Side Table/Stool, created in collaboration with jeweler Lore Van Keer",
+    "img": "https://images.pexels.com/photos/40675907/pexels-photo-40675907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/friday-five-bram-vanderbeke-anthology-side-table/"
+  },
+  {
     "id": "bf4a9b2524",
     "date_iso": "2026-11-01T09:00:01.824727",
     "date_pt": "1 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The Toast CEO shares the artists, architecture, and material-driven practices that inspire her, from Ruth Asawa’s wire sculptures to the work of her stepfather, William Mitchell.",
     "img": "https://images.pexels.com/photos/34605930/pexels-photo-34605930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/suzie-de-rohan-willner-friday-five/"
-  },
-  {
-    "id": "0e37113225",
-    "date_iso": "2026-10-02T18:00:03.172713",
-    "date_pt": "2 de outubro de 2026",
-    "date_en": "October 2, 2026",
-    "title_pt": "Three new titles explore the art of digital world-building in cult computers and early arcades",
-    "title_en": "Three new titles explore the art of digital world-building in cult computers and early arcades",
-    "text_pt": "From dystopian sci-fi on your desktop to the origins of the first arcade machines, through to the history of an influential home computer, three new books look at the design and culture of the video game",
-    "text_en": "From dystopian sci-fi on your desktop to the origins of the first arcade machines, through to the history of an influential home computer, three new books look at the design and culture of the video game",
-    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/tech/three-new-titles-explore-the-art-of-digital-world-building-in-cult-computers-and-early-arcades"
   }
 ]
