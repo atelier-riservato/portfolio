@@ -1,5 +1,17 @@
 [
   {
+    "id": "fbd6f63685",
+    "date_iso": "2026-11-02T18:00:03.389260",
+    "date_pt": "2 de novembro de 2026",
+    "date_en": "November 2, 2026",
+    "title_pt": "Dear Guest Cafe Brings Art Deco Whimsy to Silver Lake",
+    "title_en": "Dear Guest Cafe Brings Art Deco Whimsy to Silver Lake",
+    "text_pt": "Studio Jialun Xiong blends Art Deco elegance, playful geometry, and dreamlike details in a Los Angeles cafe inspired by European hotels and Japanese hospitality",
+    "text_en": "Studio Jialun Xiong blends Art Deco elegance, playful geometry, and dreamlike details in a Los Angeles cafe inspired by European hotels and Japanese hospitality",
+    "img": "https://images.pexels.com/photos/3385354/pexels-photo-3385354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/dear-guest-cafe-studio-jialun-xiong/"
+  },
+  {
     "id": "8d50840608",
     "date_iso": "2026-11-02T09:00:01.901586",
     "date_pt": "2 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "'Desert Dreaming: Design in the Southwest and Beyond', a new book by Jessica Ritz, is an immersive journey across America's arid landscapes and the amazing homes within them",
     "img": "https://images.pexels.com/photos/1188834/pexels-photo-1188834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/residential/desert-dreaming-book"
-  },
-  {
-    "id": "cc7c5a64f0",
-    "date_iso": "2026-10-03T18:00:02.171273",
-    "date_pt": "3 de outubro de 2026",
-    "date_en": "October 3, 2026",
-    "title_pt": "Casa Vereda / L'Aura Ortín Architecture for Happiness",
-    "title_en": "Casa Vereda / L'Aura Ortín Architecture for Happiness",
-    "text_pt": "Casa Vereda stems from a simple idea: to inhabit nature without competing with it. The project blends into the landscape through an architecture that seeks to become part of its surroundings.",
-    "text_en": "Casa Vereda stems from a simple idea: to inhabit nature without competing with it. The project blends into the landscape through an architecture that seeks to become part of its surroundings.",
-    "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1186151/casa-vereda"
   }
 ]
