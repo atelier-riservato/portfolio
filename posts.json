@@ -1,5 +1,17 @@
 [
   {
+    "id": "8d50840608",
+    "date_iso": "2026-11-02T09:00:01.901586",
+    "date_pt": "2 de novembro de 2026",
+    "date_en": "November 2, 2026",
+    "title_pt": "Núñez de Balboa",
+    "title_en": "Núñez de Balboa",
+    "text_pt": "emechaves studio The post Núñez de Balboa appeared first on Leibal .",
+    "text_en": "emechaves studio The post Núñez de Balboa appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/nunez-de-balboa/"
+  },
+  {
     "id": "eb5b98f056",
     "date_iso": "2026-11-01T18:00:02.682531",
     "date_pt": "1 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Casa Vereda stems from a simple idea: to inhabit nature without competing with it. The project blends into the landscape through an architecture that seeks to become part of its surroundings.",
     "img": "https://images.pexels.com/photos/35786966/pexels-photo-35786966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1186151/casa-vereda"
-  },
-  {
-    "id": "71bf2052a4",
-    "date_iso": "2026-10-03T09:00:01.693242",
-    "date_pt": "3 de outubro de 2026",
-    "date_en": "October 3, 2026",
-    "title_pt": "Suzie de Rohan Willner on Anni Albers, the Glass House, William Mitchell + More",
-    "title_en": "Suzie de Rohan Willner on Anni Albers, the Glass House, William Mitchell + More",
-    "text_pt": "The Toast CEO shares the artists, architecture, and material-driven practices that inspire her, from Ruth Asawa’s wire sculptures to the work of her stepfather, William Mitchell.",
-    "text_en": "The Toast CEO shares the artists, architecture, and material-driven practices that inspire her, from Ruth Asawa’s wire sculptures to the work of her stepfather, William Mitchell.",
-    "img": "https://images.pexels.com/photos/34605930/pexels-photo-34605930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/suzie-de-rohan-willner-friday-five/"
   }
 ]
