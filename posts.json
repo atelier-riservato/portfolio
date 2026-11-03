@@ -1,5 +1,17 @@
 [
   {
+    "id": "99f0951d1a",
+    "date_iso": "2026-11-03T18:00:02.964589",
+    "date_pt": "3 de novembro de 2026",
+    "date_en": "November 3, 2026",
+    "title_pt": "Christina Bowlby Finds Inspiration Close to Home for Bentley Mills",
+    "title_en": "Christina Bowlby Finds Inspiration Close to Home for Bentley Mills",
+    "text_pt": "A return to California, two beloved Aussiedoodles, and an eye for everyday details shape the designer’s new Coming Home carpet collection",
+    "text_en": "A return to California, two beloved Aussiedoodles, and an eye for everyday details shape the designer’s new Coming Home carpet collection",
+    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/christina-bowlby-bentley-mills/"
+  },
+  {
     "id": "90b465cf94",
     "date_iso": "2026-11-03T09:00:02.183384",
     "date_pt": "3 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Makers Collective Design layers walnut, blackened steel, marble, and loft-like proportions into a new Brooklyn residence rooted in its neighborhood",
     "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/williamsburg-duplex-brooklyn/"
-  },
-  {
-    "id": "998e551bea",
-    "date_iso": "2026-10-04T18:00:02.913426",
-    "date_pt": "4 de outubro de 2026",
-    "date_en": "October 4, 2026",
-    "title_pt": "Paola Lenti’s São Paulo Flagship Turns Architecture Into a Living Frame",
-    "title_en": "Paola Lenti’s São Paulo Flagship Turns Architecture Into a Living Frame",
-    "text_pt": "Armentano Arquitetura pairs a precise metal-and-glass structure with a planted façade that will continue to transform the Italian furniture brand’s São Paulo home",
-    "text_en": "Armentano Arquitetura pairs a precise metal-and-glass structure with a planted façade that will continue to transform the Italian furniture brand’s São Paulo home",
-    "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/paola-lenti-sao-paulo-flagship/"
   }
 ]
