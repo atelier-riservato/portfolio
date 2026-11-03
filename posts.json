@@ -1,5 +1,17 @@
 [
   {
+    "id": "90b465cf94",
+    "date_iso": "2026-11-03T09:00:02.183384",
+    "date_pt": "3 de novembro de 2026",
+    "date_en": "November 3, 2026",
+    "title_pt": "Discover Ellis King, the artist making sense of women's experiences",
+    "title_en": "Discover Ellis King, the artist making sense of women's experiences",
+    "text_pt": "In 'Spilt Milk' at London’s SQFT: Space Gallery, Ellis King examines what happens in a woman's quiet moments",
+    "text_en": "In 'Spilt Milk' at London’s SQFT: Space Gallery, Ellis King examines what happens in a woman's quiet moments",
+    "img": "https://images.pexels.com/photos/31737859/pexels-photo-31737859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/art/exhibitions-shows/ellis-king-spilt-milk-london"
+  },
+  {
     "id": "fbd6f63685",
     "date_iso": "2026-11-02T18:00:03.389260",
     "date_pt": "2 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Armentano Arquitetura pairs a precise metal-and-glass structure with a planted façade that will continue to transform the Italian furniture brand’s São Paulo home",
     "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/paola-lenti-sao-paulo-flagship/"
-  },
-  {
-    "id": "2747fb7e27",
-    "date_iso": "2026-10-04T09:00:01.768798",
-    "date_pt": "4 de outubro de 2026",
-    "date_en": "October 4, 2026",
-    "title_pt": "Dreaming of the desert? This book has you covered, from modernist to adobe architecture",
-    "title_en": "Dreaming of the desert? This book has you covered, from modernist to adobe architecture",
-    "text_pt": "'Desert Dreaming: Design in the Southwest and Beyond', a new book by Jessica Ritz, is an immersive journey across America's arid landscapes and the amazing homes within them",
-    "text_en": "'Desert Dreaming: Design in the Southwest and Beyond', a new book by Jessica Ritz, is an immersive journey across America's arid landscapes and the amazing homes within them",
-    "img": "https://images.pexels.com/photos/1188834/pexels-photo-1188834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/residential/desert-dreaming-book"
   }
 ]
