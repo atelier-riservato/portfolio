@@ -1,5 +1,17 @@
 [
   {
+    "id": "ee58de8f1d",
+    "date_iso": "2026-11-04T18:00:03.965892",
+    "date_pt": "4 de novembro de 2026",
+    "date_en": "November 4, 2026",
+    "title_pt": "2027 Colors of the Year: The Shades Defining Design",
+    "title_en": "2027 Colors of the Year: The Shades Defining Design",
+    "text_pt": "From earthy browns and rich greens to soft blues and grounded pinks, explore the 2027 Colors of the Year from leading paint brands",
+    "text_en": "From earthy browns and rich greens to soft blues and grounded pinks, explore the 2027 Colors of the Year from leading paint brands",
+    "img": "https://images.pexels.com/photos/921290/pexels-photo-921290.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/2027-colors-of-the-year/"
+  },
+  {
     "id": "5bf5f4fb0b",
     "date_iso": "2026-11-04T09:00:02.197864",
     "date_pt": "4 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "\"Take your dream suppressants.\" The opening line in Wanuri Kahiū's Pumzi , directed at our protagonist Asha, enforces the order of severing ties with hopeful futures and ancestral memories in pasts shared to compel her focus on the perpetual present in the Maitu Community's heter...",
     "img": "https://images.pexels.com/photos/1955549/pexels-photo-1955549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1185518/architecture-as-translation-africanfuturism-in-folklore-film-and-speculative-art"
-  },
-  {
-    "id": "acacb22b5d",
-    "date_iso": "2026-10-05T18:00:03.573513",
-    "date_pt": "5 de outubro de 2026",
-    "date_en": "October 5, 2026",
-    "title_pt": "Casa Nova / TAC Taller Alberto Calleja",
-    "title_en": "Casa Nova / TAC Taller Alberto Calleja",
-    "text_pt": "Casa Nova is built on a 1,732 m² lot, featuring a unique condition of a beachfront measuring only twelve meters wide—a particular constraint that we used as the design premise.",
-    "text_en": "Casa Nova is built on a 1,732 m² lot, featuring a unique condition of a beachfront measuring only twelve meters wide—a particular constraint that we used as the design premise.",
-    "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1186373/casa-nova-tac-taller-alberto-calleja"
   }
 ]
