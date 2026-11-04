@@ -1,5 +1,17 @@
 [
   {
+    "id": "5bf5f4fb0b",
+    "date_iso": "2026-11-04T09:00:02.197864",
+    "date_pt": "4 de novembro de 2026",
+    "date_en": "November 4, 2026",
+    "title_pt": "Winter nights just got interesting – step inside Amsterdam’s Gashouder and join the party",
+    "title_en": "Winter nights just got interesting – step inside Amsterdam’s Gashouder and join the party",
+    "text_pt": "Gashouder, a former ‘temple to techno’, matures into a dynamic city concert hall, retaining its 19th-century architecture and experimental character with an immersive interior by Inside Outside",
+    "text_en": "Gashouder, a former ‘temple to techno’, matures into a dynamic city concert hall, retaining its 19th-century architecture and experimental character with an immersive interior by Inside Outside",
+    "img": "https://images.pexels.com/photos/40675907/pexels-photo-40675907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/public-buildings/gashouder-inside-outside-amsterdam-netherlands"
+  },
+  {
     "id": "99f0951d1a",
     "date_iso": "2026-11-03T18:00:02.964589",
     "date_pt": "3 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Casa Nova is built on a 1,732 m² lot, featuring a unique condition of a beachfront measuring only twelve meters wide—a particular constraint that we used as the design premise.",
     "img": "https://images.pexels.com/photos/36353282/pexels-photo-36353282.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1186373/casa-nova-tac-taller-alberto-calleja"
-  },
-  {
-    "id": "26041db72b",
-    "date_iso": "2026-10-05T09:00:02.293553",
-    "date_pt": "5 de outubro de 2026",
-    "date_en": "October 5, 2026",
-    "title_pt": "A Williamsburg Duplex Draws From Brooklyn’s Industrial Past",
-    "title_en": "A Williamsburg Duplex Draws From Brooklyn’s Industrial Past",
-    "text_pt": "Makers Collective Design layers walnut, blackened steel, marble, and loft-like proportions into a new Brooklyn residence rooted in its neighborhood",
-    "text_en": "Makers Collective Design layers walnut, blackened steel, marble, and loft-like proportions into a new Brooklyn residence rooted in its neighborhood",
-    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/williamsburg-duplex-brooklyn/"
   }
 ]
