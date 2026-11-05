@@ -1,5 +1,17 @@
 [
   {
+    "id": "9b93be2bda",
+    "date_iso": "2026-11-05T09:00:02.106428",
+    "date_pt": "5 de novembro de 2026",
+    "date_en": "November 5, 2026",
+    "title_pt": "Two Movements, One Striking Watch From Louis Erard × Vianney Halter",
+    "title_en": "Two Movements, One Striking Watch From Louis Erard × Vianney Halter",
+    "text_pt": "The Futur Antérieur brings Vianney Halter's signature porthole design to a new limited-edition watch, pairing two automatic movements with an unexpectedly slim case",
+    "text_en": "The Futur Antérieur brings Vianney Halter's signature porthole design to a new limited-edition watch, pairing two automatic movements with an unexpectedly slim case",
+    "img": "https://images.pexels.com/photos/40068322/pexels-photo-40068322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/louis-erard-vianney-halter-futur-anterieur/"
+  },
+  {
     "id": "ee58de8f1d",
     "date_iso": "2026-11-04T18:00:03.965892",
     "date_pt": "4 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "This house is a story about healing the bond with a family home and reclaiming the stabilizing effects that come from having an attachment to a place.",
     "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1186433/arena-bruja-house-un-estudio-propio"
-  },
-  {
-    "id": "cf384b1c64",
-    "date_iso": "2026-10-06T09:00:02.372140",
-    "date_pt": "6 de outubro de 2026",
-    "date_en": "October 6, 2026",
-    "title_pt": "Architecture as Translation: Africanfuturism in Folklore, Film, and Speculative Art",
-    "title_en": "Architecture as Translation: Africanfuturism in Folklore, Film, and Speculative Art",
-    "text_pt": "\"Take your dream suppressants.\" The opening line in Wanuri Kahiū's Pumzi , directed at our protagonist Asha, enforces the order of severing ties with hopeful futures and ancestral memories in pasts shared to compel her focus on the perpetual present in the Maitu Community's heter...",
-    "text_en": "\"Take your dream suppressants.\" The opening line in Wanuri Kahiū's Pumzi , directed at our protagonist Asha, enforces the order of severing ties with hopeful futures and ancestral memories in pasts shared to compel her focus on the perpetual present in the Maitu Community's heter...",
-    "img": "https://images.pexels.com/photos/1955549/pexels-photo-1955549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1185518/architecture-as-translation-africanfuturism-in-folklore-film-and-speculative-art"
   }
 ]
