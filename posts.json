@@ -1,5 +1,17 @@
 [
   {
+    "id": "9cb6e67862",
+    "date_iso": "2026-11-05T18:00:04.079628",
+    "date_pt": "5 de novembro de 2026",
+    "date_en": "November 5, 2026",
+    "title_pt": "Casa del Loro / Workshop, Diseño y Construcción",
+    "title_en": "Casa del Loro / Workshop, Diseño y Construcción",
+    "text_pt": "Casa de Loro is a studio house located on the outskirts of the city of Mérida, immersed in the Yucatecan jungle, just steps away from an old henequen hacienda.",
+    "text_en": "Casa de Loro is a studio house located on the outskirts of the city of Mérida, immersed in the Yucatecan jungle, just steps away from an old henequen hacienda.",
+    "img": "https://images.pexels.com/photos/40664722/pexels-photo-40664722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1188093/casa-del-loro-workshop-diseno-y-construccion"
+  },
+  {
     "id": "9b93be2bda",
     "date_iso": "2026-11-05T09:00:02.106428",
     "date_pt": "5 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The subterranean retreat extends Liaigre’s design language through travertine, smoked oak, immersive lighting, and a 65-foot pool at the storied Paris hotel",
     "img": "https://images.pexels.com/photos/12277197/pexels-photo-12277197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/hotel-costes-spa-liaigre/"
-  },
-  {
-    "id": "20d79549e4",
-    "date_iso": "2026-10-06T18:00:03.764389",
-    "date_pt": "6 de outubro de 2026",
-    "date_en": "October 6, 2026",
-    "title_pt": "Arena Bruja House / Un Estudio Propio",
-    "title_en": "Arena Bruja House / Un Estudio Propio",
-    "text_pt": "This house is a story about healing the bond with a family home and reclaiming the stabilizing effects that come from having an attachment to a place.",
-    "text_en": "This house is a story about healing the bond with a family home and reclaiming the stabilizing effects that come from having an attachment to a place.",
-    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1186433/arena-bruja-house-un-estudio-propio"
   }
 ]
