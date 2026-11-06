@@ -1,5 +1,17 @@
 [
   {
+    "id": "0dfe59fe1c",
+    "date_iso": "2026-11-06T18:00:03.473744",
+    "date_pt": "6 de novembro de 2026",
+    "date_en": "November 6, 2026",
+    "title_pt": "Friday Five With Jiun Ho: A World of Design Inspiration",
+    "title_en": "Friday Five With Jiun Ho: A World of Design Inspiration",
+    "text_pt": "The Malaysian-born, San Francisco-based designer shares how travel, traditional craft, and natural forms inspire his latest collection",
+    "text_en": "The Malaysian-born, San Francisco-based designer shares how travel, traditional craft, and natural forms inspire his latest collection",
+    "img": "https://images.pexels.com/photos/705194/pexels-photo-705194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/friday-five-jiun-ho-unbound/"
+  },
+  {
     "id": "8a5e1f02af",
     "date_iso": "2026-11-06T09:00:02.132405",
     "date_pt": "6 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Openspace Architecture pairs concrete, glass, and meticulously detailed woodwork in a West Coast modern home designed to disappear into its forested surroundings",
     "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/west-vancouver-home-openspace-architecture/"
-  },
-  {
-    "id": "e417e629a0",
-    "date_iso": "2026-10-07T18:00:03.985065",
-    "date_pt": "7 de outubro de 2026",
-    "date_en": "October 7, 2026",
-    "title_pt": "Elements Pavilions",
-    "title_en": "Elements Pavilions",
-    "text_pt": "For this year&rsquo;s Copenhagen Architecture Biennial we are looking for two distinct pavilions, urging you to build with fire, water, earth and air - letting the world in instead of shutting it out.",
-    "text_en": "For this year&rsquo;s Copenhagen Architecture Biennial we are looking for two distinct pavilions, urging you to build with fire, water, earth and air - letting the world in instead of shutting it out.",
-    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1186456/elements-pavilions"
   }
 ]
