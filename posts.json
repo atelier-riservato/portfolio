@@ -1,5 +1,17 @@
 [
   {
+    "id": "21e511f661",
+    "date_iso": "2026-11-07T09:00:02.090360",
+    "date_pt": "7 de novembro de 2026",
+    "date_en": "November 7, 2026",
+    "title_pt": "Sertão Block and Amparo House / Asa Arquitetos",
+    "title_en": "Sertão Block and Amparo House / Asa Arquitetos",
+    "text_pt": "Located at Haras Amparo Medeiros, in the rural area of Princesa Isabel in the Paraíba hinterland (sertão), Casa Amparo was designed based on an analysis of the local natural conditions and landscape.",
+    "text_en": "Located at Haras Amparo Medeiros, in the rural area of Princesa Isabel in the Paraíba hinterland (sertão), Casa Amparo was designed based on an analysis of the local natural conditions and landscape.",
+    "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1188218/sertao-block-and-amparo-house-asa-arquitetos"
+  },
+  {
     "id": "0dfe59fe1c",
     "date_iso": "2026-11-06T18:00:03.473744",
     "date_pt": "6 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Saksun Studio The post Walkers Hook Residence appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/walkers-hook-residence/"
-  },
-  {
-    "id": "f362823ea1",
-    "date_iso": "2026-10-08T09:00:01.637963",
-    "date_pt": "8 de outubro de 2026",
-    "date_en": "October 8, 2026",
-    "title_pt": "A West Vancouver Home Appears to Float Among the Trees",
-    "title_en": "A West Vancouver Home Appears to Float Among the Trees",
-    "text_pt": "Openspace Architecture pairs concrete, glass, and meticulously detailed woodwork in a West Coast modern home designed to disappear into its forested surroundings",
-    "text_en": "Openspace Architecture pairs concrete, glass, and meticulously detailed woodwork in a West Coast modern home designed to disappear into its forested surroundings",
-    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/west-vancouver-home-openspace-architecture/"
   }
 ]
