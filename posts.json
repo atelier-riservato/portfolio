@@ -1,5 +1,17 @@
 [
   {
+    "id": "10c0eb25b9",
+    "date_iso": "2026-11-07T18:00:02.203962",
+    "date_pt": "7 de novembro de 2026",
+    "date_en": "November 7, 2026",
+    "title_pt": "8 Sculptural Mirrors That Turn Reflection Into Art",
+    "title_en": "8 Sculptural Mirrors That Turn Reflection Into Art",
+    "text_pt": "These contemporary mirrors challenge conventional design through unexpected materials, sculptural forms, and inventive approaches to reflection",
+    "text_en": "These contemporary mirrors challenge conventional design through unexpected materials, sculptural forms, and inventive approaches to reflection",
+    "img": "https://images.pexels.com/photos/13083032/pexels-photo-13083032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/sculptural-mirrors/"
+  },
+  {
     "id": "21e511f661",
     "date_iso": "2026-11-07T09:00:02.090360",
     "date_pt": "7 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The widely rumoured exit sees the Belgian designer bow out after a decade of critical and commercial success, honing a razor-sharp vision of the Saint Laurent woman and man through cinematic runway shows",
     "img": "https://images.pexels.com/photos/12277631/pexels-photo-12277631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/fashion-beauty/anthony-vaccarello-leaving-saint-laurent"
-  },
-  {
-    "id": "fb79be8041",
-    "date_iso": "2026-10-08T18:00:03.382876",
-    "date_pt": "8 de outubro de 2026",
-    "date_en": "October 8, 2026",
-    "title_pt": "Walkers Hook Residence",
-    "title_en": "Walkers Hook Residence",
-    "text_pt": "Saksun Studio The post Walkers Hook Residence appeared first on Leibal .",
-    "text_en": "Saksun Studio The post Walkers Hook Residence appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/33257665/pexels-photo-33257665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/walkers-hook-residence/"
   }
 ]
