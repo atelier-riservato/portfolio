@@ -1,5 +1,17 @@
 [
   {
+    "id": "1622c8ec63",
+    "date_iso": "2026-11-08T09:00:01.770299",
+    "date_pt": "8 de novembro de 2026",
+    "date_en": "November 8, 2026",
+    "title_pt": "The Best Gifts for Minimalists Who Appreciate Good Design",
+    "title_en": "The Best Gifts for Minimalists Who Appreciate Good Design",
+    "text_pt": "From beautifully considered everyday essentials to objects that make a quiet statement, these gifts prove that less can offer so much more",
+    "text_en": "From beautifully considered everyday essentials to objects that make a quiet statement, these gifts prove that less can offer so much more",
+    "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/best-gifts-for-minimalists/"
+  },
+  {
     "id": "10c0eb25b9",
     "date_iso": "2026-11-07T18:00:02.203962",
     "date_pt": "7 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "With 1980s-inspired interiors by Pierre Yovanovitch and a painted ceiling worth of the Sistine Chapel by Francesco Clemente, Humm is New York dining at its finest",
     "img": "https://images.pexels.com/photos/13772063/pexels-photo-13772063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/travel/restaurants/humm-new-york"
-  },
-  {
-    "id": "767953d8bc",
-    "date_iso": "2026-10-09T09:00:01.833478",
-    "date_pt": "9 de outubro de 2026",
-    "date_en": "October 9, 2026",
-    "title_pt": "Anthony Vaccarello is leaving Saint Laurent after a decade-long tenure",
-    "title_en": "Anthony Vaccarello is leaving Saint Laurent after a decade-long tenure",
-    "text_pt": "The widely rumoured exit sees the Belgian designer bow out after a decade of critical and commercial success, honing a razor-sharp vision of the Saint Laurent woman and man through cinematic runway shows",
-    "text_en": "The widely rumoured exit sees the Belgian designer bow out after a decade of critical and commercial success, honing a razor-sharp vision of the Saint Laurent woman and man through cinematic runway shows",
-    "img": "https://images.pexels.com/photos/12277631/pexels-photo-12277631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/fashion-beauty/anthony-vaccarello-leaving-saint-laurent"
   }
 ]
