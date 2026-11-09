@@ -1,5 +1,17 @@
 [
   {
+    "id": "635411710e",
+    "date_iso": "2026-11-09T18:00:03.964430",
+    "date_pt": "9 de novembro de 2026",
+    "date_en": "November 9, 2026",
+    "title_pt": "A New MFA Design Program Prepares Designers for an Evolving Industry",
+    "title_en": "A New MFA Design Program Prepares Designers for an Evolving Industry",
+    "text_pt": "As the role of the designer broadens, SVA’s new MFA degree offers a deeply integrated design education. Apply now to secure your spot in the 2027 cohort by January.",
+    "text_en": "As the role of the designer broadens, SVA’s new MFA degree offers a deeply integrated design education. Apply now to secure your spot in the 2027 cohort by January.",
+    "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/a-new-mfa-design-program-prepares-designers-for-an-evolving-industry/"
+  },
+  {
     "id": "82a63afa8f",
     "date_iso": "2026-11-09T09:00:02.263900",
     "date_pt": "9 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "With amplified abilities, design tweaks and lifestyle-appropriate accessories, the Untamed Edition of Mini’s Countryman SUV wants you to head out into the wild",
     "img": "https://images.pexels.com/photos/25551945/pexels-photo-25551945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/transportation/new-mini-countryman-untamed-edition-test-drive-review"
-  },
-  {
-    "id": "f3f1a7ec3f",
-    "date_iso": "2026-10-10T18:00:02.177614",
-    "date_pt": "10 de outubro de 2026",
-    "date_en": "October 10, 2026",
-    "title_pt": "La Negrita House / Estudio Palacios",
-    "title_en": "La Negrita House / Estudio Palacios",
-    "text_pt": "Situated on the shores of Los Molinos Lake and surrounded by a dense eucalyptus forest, La Negrita embodies the desire for a peaceful retreat amid a beautiful, playful atmosphere with its own unique microclimate.",
-    "text_en": "Situated on the shores of Los Molinos Lake and surrounded by a dense eucalyptus forest, La Negrita embodies the desire for a peaceful retreat amid a beautiful, playful atmosphere with its own unique microclimate.",
-    "img": "https://images.pexels.com/photos/408847/pexels-photo-408847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios"
   }
 ]
