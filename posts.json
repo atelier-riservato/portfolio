@@ -1,5 +1,17 @@
 [
   {
+    "id": "82a63afa8f",
+    "date_iso": "2026-11-09T09:00:02.263900",
+    "date_pt": "9 de novembro de 2026",
+    "date_en": "November 9, 2026",
+    "title_pt": "Houston Center for Contemporary Craft Celebrates 25 Years with Steinbeisser",
+    "title_en": "Houston Center for Contemporary Craft Celebrates 25 Years with Steinbeisser",
+    "text_pt": "For its 25th anniversary, Houston Center for Contemporary Craft partnered with Steinbeisser for an experimental dinner where artist-made tableware challenged the conventions of dining",
+    "text_en": "For its 25th anniversary, Houston Center for Contemporary Craft partnered with Steinbeisser for an experimental dinner where artist-made tableware challenged the conventions of dining",
+    "img": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/steinbeisser-houston-center-contemporary-craft/"
+  },
+  {
     "id": "c388a73e89",
     "date_iso": "2026-11-08T18:00:02.174579",
     "date_pt": "8 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Situated on the shores of Los Molinos Lake and surrounded by a dense eucalyptus forest, La Negrita embodies the desire for a peaceful retreat amid a beautiful, playful atmosphere with its own unique microclimate.",
     "img": "https://images.pexels.com/photos/408847/pexels-photo-408847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios"
-  },
-  {
-    "id": "b26b674819",
-    "date_iso": "2026-10-10T09:00:02.340799",
-    "date_pt": "10 de outubro de 2026",
-    "date_en": "October 10, 2026",
-    "title_pt": "Six new coffee machines offer cupfuls of choice for the design-loving caffeine addict",
-    "title_en": "Six new coffee machines offer cupfuls of choice for the design-loving caffeine addict",
-    "text_pt": "From espresso shots to all-singing bean-to-cup creations and automatic filter coffee makers, these six new coffee machines all deserve a place in your kitchen",
-    "text_en": "From espresso shots to all-singing bean-to-cup creations and automatic filter coffee makers, these six new coffee machines all deserve a place in your kitchen",
-    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/tech/six-new-coffee-machines-for-the-design-loving-caffeine-addict"
   }
 ]
