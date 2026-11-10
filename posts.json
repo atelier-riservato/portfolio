@@ -1,5 +1,17 @@
 [
   {
+    "id": "6bcc8005e3",
+    "date_iso": "2026-11-10T09:00:02.376241",
+    "date_pt": "10 de novembro de 2026",
+    "date_en": "November 10, 2026",
+    "title_pt": "Reformation Steps Into Home Design With Its First Rug Collection",
+    "title_en": "Reformation Steps Into Home Design With Its First Rug Collection",
+    "text_pt": "The fashion brand partners with French rugmaker Les Éditions de Tapis on nine hand-knotted designs",
+    "text_en": "The fashion brand partners with French rugmaker Les Éditions de Tapis on nine hand-knotted designs",
+    "img": "https://images.pexels.com/photos/30386982/pexels-photo-30386982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/reformation-rug-collection-les-editions-de-tapis/"
+  },
+  {
     "id": "635411710e",
     "date_iso": "2026-11-09T18:00:03.964430",
     "date_pt": "9 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "\"L'Aiguilleuse\" is a project that transforms a former 1960s railway signal box into a small kiosk-bar located at the heart of the Jardins de l'Estuaire, a new public park on the Île de Nantes , France.",
     "img": "https://images.pexels.com/photos/30644177/pexels-photo-30644177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1186469/laiguilleuse-renovation-of-a-former-railway-signal-box-into-a-kiosk-bar-studio-tere"
-  },
-  {
-    "id": "f0a5d32718",
-    "date_iso": "2026-10-11T09:00:01.978256",
-    "date_pt": "11 de outubro de 2026",
-    "date_en": "October 11, 2026",
-    "title_pt": "We take to the trails of Nevada to experience the new Mini Countryman Untamed Edition",
-    "title_en": "We take to the trails of Nevada to experience the new Mini Countryman Untamed Edition",
-    "text_pt": "With amplified abilities, design tweaks and lifestyle-appropriate accessories, the Untamed Edition of Mini’s Countryman SUV wants you to head out into the wild",
-    "text_en": "With amplified abilities, design tweaks and lifestyle-appropriate accessories, the Untamed Edition of Mini’s Countryman SUV wants you to head out into the wild",
-    "img": "https://images.pexels.com/photos/25551945/pexels-photo-25551945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/transportation/new-mini-countryman-untamed-edition-test-drive-review"
   }
 ]
