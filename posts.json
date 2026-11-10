@@ -1,5 +1,17 @@
 [
   {
+    "id": "da1e610c45",
+    "date_iso": "2026-11-10T18:00:02.677021",
+    "date_pt": "10 de novembro de 2026",
+    "date_en": "November 10, 2026",
+    "title_pt": "A dramatic exoskeleton holds a museum full of humanity at Powerhouse Parramatta",
+    "title_en": "A dramatic exoskeleton holds a museum full of humanity at Powerhouse Parramatta",
+    "text_pt": "Powerhouse Parramatta opens this week, its architecture by Moreau Kusunoki the backdrop to a slew of local and international designers and artists in this multi-layered home for creativity in Sydney, Australia",
+    "text_en": "Powerhouse Parramatta opens this week, its architecture by Moreau Kusunoki the backdrop to a slew of local and international designers and artists in this multi-layered home for creativity in Sydney, Australia",
+    "img": "https://images.pexels.com/photos/40211701/pexels-photo-40211701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/public-buildings/powerhouse-parramatta-australia"
+  },
+  {
     "id": "6bcc8005e3",
     "date_iso": "2026-11-10T09:00:02.376241",
     "date_pt": "10 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Basic.Space teamed up with Apple Pay on the drawing, whose proceeds will benefit the Virgil Abloh Foundation. Here's what you could score",
     "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/basic-space-apple-pay-virgil-abloh-foundation-drawing"
-  },
-  {
-    "id": "8ea330aa95",
-    "date_iso": "2026-10-11T18:00:02.392146",
-    "date_pt": "11 de outubro de 2026",
-    "date_en": "October 11, 2026",
-    "title_pt": "L'AIGUILLEUSE - Renovation of a former railway signal box into a kiosk-bar / Studio Téré",
-    "title_en": "L'AIGUILLEUSE - Renovation of a former railway signal box into a kiosk-bar / Studio Téré",
-    "text_pt": "\"L'Aiguilleuse\" is a project that transforms a former 1960s railway signal box into a small kiosk-bar located at the heart of the Jardins de l'Estuaire, a new public park on the Île de Nantes , France.",
-    "text_en": "\"L'Aiguilleuse\" is a project that transforms a former 1960s railway signal box into a small kiosk-bar located at the heart of the Jardins de l'Estuaire, a new public park on the Île de Nantes , France.",
-    "img": "https://images.pexels.com/photos/30644177/pexels-photo-30644177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1186469/laiguilleuse-renovation-of-a-former-railway-signal-box-into-a-kiosk-bar-studio-tere"
   }
 ]
