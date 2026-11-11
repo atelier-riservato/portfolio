@@ -1,5 +1,17 @@
 [
   {
+    "id": "e563c6e19a",
+    "date_iso": "2026-11-11T09:00:01.605117",
+    "date_pt": "11 de novembro de 2026",
+    "date_en": "November 11, 2026",
+    "title_pt": "Reading the City from Above: Drone Imagery and the Material Layers of Urban Environments",
+    "title_en": "Reading the City from Above: Drone Imagery and the Material Layers of Urban Environments",
+    "text_pt": "Beyond their buildings, infrastructure, and streets, cities can be understood as territories shaped by materials, resources, and processes of transformation that define their physical environments.",
+    "text_en": "Beyond their buildings, infrastructure, and streets, cities can be understood as territories shaped by materials, resources, and processes of transformation that define their physical environments.",
+    "img": "https://images.pexels.com/photos/18074245/pexels-photo-18074245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1188215/reading-the-city-from-above-drone-imagery-and-the-material-layers-of-urban-environments"
+  },
+  {
     "id": "da1e610c45",
     "date_iso": "2026-11-10T18:00:02.677021",
     "date_pt": "10 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Across System 1224, Sorbetti 2.0, and Muro, B+N Industries designs modular frameworks that expand, reconfigure, and take on new roles years after they first go up",
     "img": "https://images.pexels.com/photos/27745114/pexels-photo-27745114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/bn-industries-builds-its-modular-systems-to-keep-evolving-after-installation/"
-  },
-  {
-    "id": "bc8cc6f07b",
-    "date_iso": "2026-10-12T09:00:02.330608",
-    "date_pt": "12 de outubro de 2026",
-    "date_en": "October 12, 2026",
-    "title_pt": "You could take home furniture by Virgil Abloh, Charlotte Perriand and more for $1",
-    "title_en": "You could take home furniture by Virgil Abloh, Charlotte Perriand and more for $1",
-    "text_pt": "Basic.Space teamed up with Apple Pay on the drawing, whose proceeds will benefit the Virgil Abloh Foundation. Here's what you could score",
-    "text_en": "Basic.Space teamed up with Apple Pay on the drawing, whose proceeds will benefit the Virgil Abloh Foundation. Here's what you could score",
-    "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/basic-space-apple-pay-virgil-abloh-foundation-drawing"
   }
 ]
