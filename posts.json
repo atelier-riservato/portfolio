@@ -1,5 +1,17 @@
 [
   {
+    "id": "343422b244",
+    "date_iso": "2026-11-12T18:00:02.791617",
+    "date_pt": "12 de novembro de 2026",
+    "date_en": "November 12, 2026",
+    "title_pt": "ROOM’s Designers on Design Series Returns with A Story of Hospitality and Human Connection",
+    "title_en": "ROOM’s Designers on Design Series Returns with A Story of Hospitality and Human Connection",
+    "text_pt": "In the latest episode, industry icon Anda Andrei and award-winning designer Matthew Goodrich discuss the ups and downs of hospitality design, creative inspirations, and more",
+    "text_en": "In the latest episode, industry icon Anda Andrei and award-winning designer Matthew Goodrich discuss the ups and downs of hospitality design, creative inspirations, and more",
+    "img": "https://images.pexels.com/photos/39142251/pexels-photo-39142251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/rooms-designers-on-design-series-returns-with-a-story-of-hospitality-and-human-connection/"
+  },
+  {
     "id": "38c60b3004",
     "date_iso": "2026-11-12T09:00:01.396620",
     "date_pt": "12 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Architecture Office The post Cairngorm Cottage appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/39078818/pexels-photo-39078818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/cairngorm-cottage/"
-  },
-  {
-    "id": "85fa902527",
-    "date_iso": "2026-10-13T18:00:03.662127",
-    "date_pt": "13 de outubro de 2026",
-    "date_en": "October 13, 2026",
-    "title_pt": "KatNap House / Nutum Estudio",
-    "title_en": "KatNap House / Nutum Estudio",
-    "text_pt": "We find ourselves on the coast of Sisal , an ancient fishing and commercial port bathed by the waters of the Gulf of Mexico. Upon its sand, a small residence stands as a contemporary refuge anchored in the fragile beauty of the Yucatecan dune.",
-    "text_en": "We find ourselves on the coast of Sisal , an ancient fishing and commercial port bathed by the waters of the Gulf of Mexico. Upon its sand, a small residence stands as a contemporary refuge anchored in the fragile beauty of the Yucatecan dune.",
-    "img": "https://images.pexels.com/photos/3385354/pexels-photo-3385354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1186760/katnap-house-nutum-estudio"
   }
 ]
