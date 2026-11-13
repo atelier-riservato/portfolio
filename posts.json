@@ -1,5 +1,17 @@
 [
   {
+    "id": "d9e8cd3bf2",
+    "date_iso": "2026-11-13T18:00:03.562363",
+    "date_pt": "13 de novembro de 2026",
+    "date_en": "November 13, 2026",
+    "title_pt": "25 Years of Bilibo: The Toy That Lets Imagination Lead",
+    "title_en": "25 Years of Bilibo: The Toy That Lets Imagination Lead",
+    "text_pt": "Swiss designer Alex Hochstrasser reflects on the creation of Bilibo, the deceptively simple toy that has inspired open-ended play for 25 years",
+    "text_en": "Swiss designer Alex Hochstrasser reflects on the creation of Bilibo, the deceptively simple toy that has inspired open-ended play for 25 years",
+    "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/bilibo-toy-25th-anniversary/"
+  },
+  {
     "id": "9304a6d779",
     "date_iso": "2026-11-13T09:00:01.629911",
     "date_pt": "13 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Photographer Barbara Karant documents the remarkably intact 1970s interiors of Johnson Publishing Company’s former Chicago headquarters in a new monograph",
     "img": "https://images.pexels.com/photos/33935830/pexels-photo-33935830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/820-ebony-jet-chicago-headquarters/"
-  },
-  {
-    "id": "2023190b9d",
-    "date_iso": "2026-10-14T18:00:02.675086",
-    "date_pt": "14 de outubro de 2026",
-    "date_en": "October 14, 2026",
-    "title_pt": "Sylvan Rock was designed by S3 Architecture with Aston Martin. Now the house is for sale",
-    "title_en": "Sylvan Rock was designed by S3 Architecture with Aston Martin. Now the house is for sale",
-    "text_pt": "A striking contemporary house in New York’s Hudson Valley, Sylvan Rock was a labour of love for the Aston Martin design team and S3 Architecture. The 55-acre estate is on the market, fully furnished",
-    "text_en": "A striking contemporary house in New York’s Hudson Valley, Sylvan Rock was a labour of love for the Aston Martin design team and S3 Architecture. The 55-acre estate is on the market, fully furnished",
-    "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/residential/sylvan-rock-was-designed-by-s3-architecture-with-aston-martin-now-the-house-is-for-sale"
   }
 ]
