@@ -1,5 +1,17 @@
 [
   {
+    "id": "dbeee9d76b",
+    "date_iso": "2026-11-14T09:00:02.025640",
+    "date_pt": "14 de novembro de 2026",
+    "date_en": "November 14, 2026",
+    "title_pt": "Vandeuren III-IV / P&P Architectes + Atelier d'Architecture A4",
+    "title_en": "Vandeuren III-IV / P&P Architectes + Atelier d'Architecture A4",
+    "text_pt": "Winner of the Be-Exemplary Award 2019, Vandeuren III and IV is part of an ambitious renovation strategy for social housing in Brussels. The project transforms 160 dwellings into 132 reconfigured units while integrating shared facilities and a reorganization of outdoor spaces.",
+    "text_en": "Winner of the Be-Exemplary Award 2019, Vandeuren III and IV is part of an ambitious renovation strategy for social housing in Brussels. The project transforms 160 dwellings into 132 reconfigured units while integrating shared facilities and a reorganization of outdoor spaces.",
+    "img": "https://images.pexels.com/photos/18074245/pexels-photo-18074245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes"
+  },
+  {
     "id": "d9e8cd3bf2",
     "date_iso": "2026-11-13T18:00:03.562363",
     "date_pt": "13 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "With thinner profiles, aluminum housing, redesigned displays, and a new color palette, Amazon’s latest Kindle lineup explores how small design changes can transform the reading experience",
     "img": "https://images.pexels.com/photos/28853343/pexels-photo-28853343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/kindle-redesign/"
-  },
-  {
-    "id": "bd2782d66b",
-    "date_iso": "2026-10-15T09:00:01.690555",
-    "date_pt": "15 de outubro de 2026",
-    "date_en": "October 15, 2026",
-    "title_pt": "A New Book Preserves the Lost Interiors of Ebony and Jet’s Chicago Headquarters",
-    "title_en": "A New Book Preserves the Lost Interiors of Ebony and Jet’s Chicago Headquarters",
-    "text_pt": "Photographer Barbara Karant documents the remarkably intact 1970s interiors of Johnson Publishing Company’s former Chicago headquarters in a new monograph",
-    "text_en": "Photographer Barbara Karant documents the remarkably intact 1970s interiors of Johnson Publishing Company’s former Chicago headquarters in a new monograph",
-    "img": "https://images.pexels.com/photos/33935830/pexels-photo-33935830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/820-ebony-jet-chicago-headquarters/"
   }
 ]
