@@ -1,5 +1,17 @@
 [
   {
+    "id": "7a6efee896",
+    "date_iso": "2026-11-15T18:00:02.167280",
+    "date_pt": "15 de novembro de 2026",
+    "date_en": "November 15, 2026",
+    "title_pt": "Agnews K12 Campus / LPA",
+    "title_en": "Agnews K12 Campus / LPA",
+    "text_pt": "'S.M.A.R.T.' Campus Combines Three Schools on One Site - The Agnews campus seamlessly integrates separate elementary, middle, and high schools on a single 55-acre site, which was once home to a historic mental health facility.",
+    "text_en": "'S.M.A.R.T.' Campus Combines Three Schools on One Site - The Agnews campus seamlessly integrates separate elementary, middle, and high schools on a single 55-acre site, which was once home to a historic mental health facility.",
+    "img": "https://images.pexels.com/photos/408847/pexels-photo-408847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1006617/agnews-k12-campus-lpa-design-studios"
+  },
+  {
     "id": "332e2f0d15",
     "date_iso": "2026-11-15T09:00:02.226162",
     "date_pt": "15 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Located on Guojin Street at the core of Changsha's Wuyi Square commercial district, the project sits within an underground retail spine linking street-level entrances with subterranean transit hubs, marked by crisscrossing interior corridors.",
     "img": "https://images.pexels.com/photos/19840855/pexels-photo-19840855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1186874/harmay-changsha-guojin-street-store-studio-splash"
-  },
-  {
-    "id": "70870546cd",
-    "date_iso": "2026-10-16T18:00:03.082031",
-    "date_pt": "16 de outubro de 2026",
-    "date_en": "October 16, 2026",
-    "title_pt": "There’s something ‘emotional and visceral’ about Robin Hunter-Blake's works at Studio Iron",
-    "title_en": "There’s something ‘emotional and visceral’ about Robin Hunter-Blake's works at Studio Iron",
-    "text_pt": "'Robin Hunter-Blake: Severe Mercy', presented by Isamaya Ffrench’s concept store and gallery in London, is a richly immersive experience",
-    "text_en": "'Robin Hunter-Blake: Severe Mercy', presented by Isamaya Ffrench’s concept store and gallery in London, is a richly immersive experience",
-    "img": "https://images.pexels.com/photos/5563473/pexels-photo-5563473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/art/exhibitions-shows/robin-hunter-blake-studio-iron-review"
   }
 ]
