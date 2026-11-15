@@ -1,5 +1,17 @@
 [
   {
+    "id": "332e2f0d15",
+    "date_iso": "2026-11-15T09:00:02.226162",
+    "date_pt": "15 de novembro de 2026",
+    "date_en": "November 15, 2026",
+    "title_pt": "Discover brutalism in Moldova, Europe’s lesser-known architectural gem",
+    "title_en": "Discover brutalism in Moldova, Europe’s lesser-known architectural gem",
+    "text_pt": "The small Eastern European nation is the least visited country in its region; but Moldova's history of Soviet-era modernism and brutalism is worth exploring",
+    "text_en": "The small Eastern European nation is the least visited country in its region; but Moldova's history of Soviet-era modernism and brutalism is worth exploring",
+    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/brutalism-in-moldova"
+  },
+  {
     "id": "b2e702f47e",
     "date_iso": "2026-11-14T18:00:02.181503",
     "date_pt": "14 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "'Robin Hunter-Blake: Severe Mercy', presented by Isamaya Ffrench’s concept store and gallery in London, is a richly immersive experience",
     "img": "https://images.pexels.com/photos/5563473/pexels-photo-5563473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/art/exhibitions-shows/robin-hunter-blake-studio-iron-review"
-  },
-  {
-    "id": "c6e49e4b5b",
-    "date_iso": "2026-10-16T09:00:02.428843",
-    "date_pt": "16 de outubro de 2026",
-    "date_en": "October 16, 2026",
-    "title_pt": "Rubio Y Galí",
-    "title_en": "Rubio Y Galí",
-    "text_pt": "De La Villa Studio The post Rubio Y Galí appeared first on Leibal .",
-    "text_en": "De La Villa Studio The post Rubio Y Galí appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/1188834/pexels-photo-1188834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/rubio-y-gali/"
   }
 ]
