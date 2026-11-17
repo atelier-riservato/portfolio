@@ -1,5 +1,17 @@
 [
   {
+    "id": "b13241283b",
+    "date_iso": "2026-11-17T09:00:01.795162",
+    "date_pt": "17 de novembro de 2026",
+    "date_en": "November 17, 2026",
+    "title_pt": "Precita House",
+    "title_en": "Precita House",
+    "text_pt": "Ryan Leidner Architecture The post Precita House appeared first on Leibal .",
+    "text_en": "Ryan Leidner Architecture The post Precita House appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/18074245/pexels-photo-18074245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/precita-house/"
+  },
+  {
     "id": "b0923b23b2",
     "date_iso": "2026-11-16T18:00:03.166417",
     "date_pt": "16 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "At Circle13 in London Fields, a century-old French sport gets a contemporary makeover, with design-led interiors, Basque-inspired small plates and a refreshing approach to drinking",
     "img": "https://images.pexels.com/photos/39675477/pexels-photo-39675477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/travel/bars/circle-13-petanque-bar-london-fields-review"
-  },
-  {
-    "id": "d5f819bcc2",
-    "date_iso": "2026-10-18T09:00:01.990437",
-    "date_pt": "18 de outubro de 2026",
-    "date_en": "October 18, 2026",
-    "title_pt": "From Spotlight to Soft-light: New Lighting by Coil + Drift",
-    "title_en": "From Spotlight to Soft-light: New Lighting by Coil + Drift",
-    "text_pt": "Drawing from theatrical spotlights and Catskill fire lookout towers, John Sorensen-Jolink creates two lighting collections that shape how we focus, unwind, and inhabit a room",
-    "text_en": "Drawing from theatrical spotlights and Catskill fire lookout towers, John Sorensen-Jolink creates two lighting collections that shape how we focus, unwind, and inhabit a room",
-    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/coil-drift-lighting-touch-strut/"
   }
 ]
