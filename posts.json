@@ -1,5 +1,17 @@
 [
   {
+    "id": "9f9cddd171",
+    "date_iso": "2026-11-18T09:00:02.294128",
+    "date_pt": "18 de novembro de 2026",
+    "date_en": "November 18, 2026",
+    "title_pt": "Welcome to the Kvareli Foundation, Georgia’s new art hub with an ‘emotional heart’",
+    "title_en": "Welcome to the Kvareli Foundation, Georgia’s new art hub with an ‘emotional heart’",
+    "text_pt": "Kvareli Foundation for Contemporary Art opens in Georgia, showing off its expansive collection in a brand-new building by Tbilisi-based architectural practice Midamo",
+    "text_en": "Kvareli Foundation for Contemporary Art opens in Georgia, showing off its expansive collection in a brand-new building by Tbilisi-based architectural practice Midamo",
+    "img": "https://images.pexels.com/photos/19740269/pexels-photo-19740269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/kvareli-foundation-georgia"
+  },
+  {
     "id": "750dbc2a8a",
     "date_iso": "2026-11-17T18:00:03.783051",
     "date_pt": "17 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Oxidation, corrosion, and chance shape three one-of-a-kind mirrors that blur the boundaries between functional design and sculptural art",
     "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/boldizar-senteski-erosion-collection-mirrors/"
-  },
-  {
-    "id": "873f8d517d",
-    "date_iso": "2026-10-19T09:00:01.679166",
-    "date_pt": "19 de outubro de 2026",
-    "date_en": "October 19, 2026",
-    "title_pt": "Art, design and industry collide in Antonio Colombo's newly-opened design archive",
-    "title_en": "Art, design and industry collide in Antonio Colombo's newly-opened design archive",
-    "text_pt": "Milanese creative entrepreneur Antonio Colombo opens his archive encapsulating a wonderful slice of 20th century design history, where design culture is surrounded by art and industry",
-    "text_en": "Milanese creative entrepreneur Antonio Colombo opens his archive encapsulating a wonderful slice of 20th century design history, where design culture is surrounded by art and industry",
-    "img": "https://images.pexels.com/photos/27604148/pexels-photo-27604148.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/colombo-archive-milan-opens"
   }
 ]
