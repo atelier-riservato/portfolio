@@ -1,5 +1,17 @@
 [
   {
+    "id": "2cd6480798",
+    "date_iso": "2026-11-18T18:00:03.865105",
+    "date_pt": "18 de novembro de 2026",
+    "date_en": "November 18, 2026",
+    "title_pt": "Discover the ‘Klismos’ chair and dive into a Greek-evocative design odyssey",
+    "title_en": "Discover the ‘Klismos’ chair and dive into a Greek-evocative design odyssey",
+    "text_pt": "We put contemporary reinterpretations of ancient classical designs on a pedestal for a Wallpaper* interiors shoot, an odyssey of Greek-evocative glory led by TH Robsjohn-Gibbings' ‘Klismos’ chair",
+    "text_en": "We put contemporary reinterpretations of ancient classical designs on a pedestal for a Wallpaper* interiors shoot, an odyssey of Greek-evocative glory led by TH Robsjohn-Gibbings' ‘Klismos’ chair",
+    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/furniture/klismos-chair"
+  },
+  {
     "id": "9f9cddd171",
     "date_iso": "2026-11-18T09:00:02.294128",
     "date_pt": "18 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Oak paneling, richly veined marble, and three distinctive fireplaces turn a California remodel into an inviting family retreat",
     "img": "https://images.pexels.com/photos/19740269/pexels-photo-19740269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/hommeboys-interiors-los-altos-hills-home/"
-  },
-  {
-    "id": "a2331262e6",
-    "date_iso": "2026-10-19T18:00:03.262045",
-    "date_pt": "19 de outubro de 2026",
-    "date_en": "October 19, 2026",
-    "title_pt": "Boldizar Senteski Explores the Beauty of Decay in the Erosion Collection",
-    "title_en": "Boldizar Senteski Explores the Beauty of Decay in the Erosion Collection",
-    "text_pt": "Oxidation, corrosion, and chance shape three one-of-a-kind mirrors that blur the boundaries between functional design and sculptural art",
-    "text_en": "Oxidation, corrosion, and chance shape three one-of-a-kind mirrors that blur the boundaries between functional design and sculptural art",
-    "img": "https://images.pexels.com/photos/5511295/pexels-photo-5511295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/boldizar-senteski-erosion-collection-mirrors/"
   }
 ]
