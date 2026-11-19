@@ -1,5 +1,17 @@
 [
   {
+    "id": "a1118de18e",
+    "date_iso": "2026-11-19T18:00:02.869711",
+    "date_pt": "19 de novembro de 2026",
+    "date_en": "November 19, 2026",
+    "title_pt": "How Klafs Is Rethinking the Sauna Through Design",
+    "title_en": "How Klafs Is Rethinking the Sauna Through Design",
+    "text_pt": "From retractable saunas to immersive ice rooms, the German company is exploring how engineering, materials, and technology can reshape traditional wellness rituals",
+    "text_en": "From retractable saunas to immersive ice rooms, the German company is exploring how engineering, materials, and technology can reshape traditional wellness rituals",
+    "img": "https://images.pexels.com/photos/13083032/pexels-photo-13083032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/klafs-sauna-design/"
+  },
+  {
     "id": "e09f4f6157",
     "date_iso": "2026-11-19T09:00:02.271978",
     "date_pt": "19 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "MF+Arquitetos has completed Casa Celeiro in Minas Gerais, featuring two connected pavilions embedded in the landscape",
     "img": "https://images.pexels.com/photos/29354637/pexels-photo-29354637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/architecture/residential/a-simple-timber-envelope-conceals-the-scale-and-drama-of-this-waterfront-house-in-brazil"
-  },
-  {
-    "id": "22566f91c6",
-    "date_iso": "2026-10-20T18:00:03.668848",
-    "date_pt": "20 de outubro de 2026",
-    "date_en": "October 20, 2026",
-    "title_pt": "The Limen Bar by CLLC is a new creative approach to the genre",
-    "title_en": "The Limen Bar by CLLC is a new creative approach to the genre",
-    "text_pt": "Max Radford worked with Charlotte Taylor and Pauline Leprince, of design studio CLLC, to conceive a nomadic bar that explores a new creative, material and collaborative approach to the genre",
-    "text_en": "Max Radford worked with Charlotte Taylor and Pauline Leprince, of design studio CLLC, to conceive a nomadic bar that explores a new creative, material and collaborative approach to the genre",
-    "img": "https://images.pexels.com/photos/11469002/pexels-photo-11469002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/design-events/limen-bar-max-radford-charlotte-taylor-pauline-leprince-cllc"
   }
 ]
