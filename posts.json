@@ -1,5 +1,17 @@
 [
   {
+    "id": "2d46858c4a",
+    "date_iso": "2026-11-20T18:00:02.872614",
+    "date_pt": "20 de novembro de 2026",
+    "date_en": "November 20, 2026",
+    "title_pt": "SR House Paros",
+    "title_en": "SR House Paros",
+    "text_pt": "SR Studio The post SR House Paros appeared first on Leibal .",
+    "text_en": "SR Studio The post SR House Paros appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/30776070/pexels-photo-30776070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/a-day-in/sr-house-paros/"
+  },
+  {
     "id": "5f293e5e77",
     "date_iso": "2026-11-20T09:00:02.095674",
     "date_pt": "20 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "From blood-dripping tumblers to reptilian rings and ghostly lamps, explore our spooky selection",
     "img": "https://images.pexels.com/photos/39142251/pexels-photo-39142251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/spooky-design-for-halloween"
-  },
-  {
-    "id": "52857d2849",
-    "date_iso": "2026-10-21T18:00:03.584034",
-    "date_pt": "21 de outubro de 2026",
-    "date_en": "October 21, 2026",
-    "title_pt": "Infiniti Carries Kyoto’s Bamboo Forests Into the Design of the 2027 QX80",
-    "title_en": "Infiniti Carries Kyoto’s Bamboo Forests Into the Design of the 2027 QX80",
-    "text_pt": "From a grille patterned after bamboo to hand-stitched seats, Japanese nature and hospitality shape Infiniti's full-size flagship SUV",
-    "text_en": "From a grille patterned after bamboo to hand-stitched seats, Japanese nature and hospitality shape Infiniti's full-size flagship SUV",
-    "img": "https://images.pexels.com/photos/212937/pexels-photo-212937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/2027-infiniti-qx80-design/"
   }
 ]
