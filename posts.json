@@ -1,5 +1,17 @@
 [
   {
+    "id": "5f293e5e77",
+    "date_iso": "2026-11-20T09:00:02.095674",
+    "date_pt": "20 de novembro de 2026",
+    "date_en": "November 20, 2026",
+    "title_pt": "Mexican Studio COLECTIVO C733 Named First Recipient of the Siza Award for Public Architecture",
+    "title_en": "Mexican Studio COLECTIVO C733 Named First Recipient of the Siza Award for Public Architecture",
+    "text_pt": "Mexico-based COLECTIVO C733 was named the inaugural recipient of the Siza Award for public architecture, established by the Serralves Foundation .",
+    "text_en": "Mexico-based COLECTIVO C733 was named the inaugural recipient of the Siza Award for public architecture, established by the Serralves Foundation .",
+    "img": "https://images.pexels.com/photos/36631701/pexels-photo-36631701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1188983/mexican-studio-colectivo-c733-named-first-recipient-of-the-siza-award-for-public-architecture"
+  },
+  {
     "id": "a1118de18e",
     "date_iso": "2026-11-19T18:00:02.869711",
     "date_pt": "19 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "From a grille patterned after bamboo to hand-stitched seats, Japanese nature and hospitality shape Infiniti's full-size flagship SUV",
     "img": "https://images.pexels.com/photos/212937/pexels-photo-212937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/2027-infiniti-qx80-design/"
-  },
-  {
-    "id": "4d82ae7a32",
-    "date_iso": "2026-10-21T09:00:01.994167",
-    "date_pt": "21 de outubro de 2026",
-    "date_en": "October 21, 2026",
-    "title_pt": "A simple timber envelope conceals the scale and drama of this waterfront house in Brazil",
-    "title_en": "A simple timber envelope conceals the scale and drama of this waterfront house in Brazil",
-    "text_pt": "MF+Arquitetos has completed Casa Celeiro in Minas Gerais, featuring two connected pavilions embedded in the landscape",
-    "text_en": "MF+Arquitetos has completed Casa Celeiro in Minas Gerais, featuring two connected pavilions embedded in the landscape",
-    "img": "https://images.pexels.com/photos/29354637/pexels-photo-29354637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/architecture/residential/a-simple-timber-envelope-conceals-the-scale-and-drama-of-this-waterfront-house-in-brazil"
   }
 ]
