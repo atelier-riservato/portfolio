@@ -1,5 +1,17 @@
 [
   {
+    "id": "f1d6299c29",
+    "date_iso": "2026-11-21T18:00:01.883908",
+    "date_pt": "21 de novembro de 2026",
+    "date_en": "November 21, 2026",
+    "title_pt": "House AL / N2B Arquitetura",
+    "title_en": "House AL / N2B Arquitetura",
+    "text_pt": "Located in the Vila do Golf area, House AL was designed to take advantage of the terrain's slope. Divided into three levels, the residence offers privileged views of the landscape, both above and below the treetops, integrating its outdoor area, situated on the lower level, with...",
+    "text_en": "Located in the Vila do Golf area, House AL was designed to take advantage of the terrain's slope. Divided into three levels, the residence offers privileged views of the landscape, both above and below the treetops, integrating its outdoor area, situated on the lower level, with...",
+    "img": "https://images.pexels.com/photos/36631701/pexels-photo-36631701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1036137/house-al-n2b-arquitetura"
+  },
+  {
     "id": "a020e88bcb",
     "date_iso": "2026-11-21T09:00:01.686818",
     "date_pt": "21 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "With references that range from Venice to David Lynch, this enveloping New York boutique, with interiors by Tutto Bene and Silka Rittson-Thomas, feels like a sophisticated art gallery",
     "img": "https://images.pexels.com/photos/20047163/pexels-photo-20047163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/interior-design/le-monde-beryl-nyc-flagship-store"
-  },
-  {
-    "id": "b5c5d0402c",
-    "date_iso": "2026-10-22T18:00:02.975261",
-    "date_pt": "22 de outubro de 2026",
-    "date_en": "October 22, 2026",
-    "title_pt": "OKA’s Mori is a magic mushroom for the home with a personality shaped by robotics and AI",
-    "title_en": "OKA’s Mori is a magic mushroom for the home with a personality shaped by robotics and AI",
-    "text_pt": "More than just a fun guy, Mori is a digital companion designed to brighten up solo living, encourage mindful thinking and generally just hang around to light up your life",
-    "text_en": "More than just a fun guy, Mori is a digital companion designed to brighten up solo living, encourage mindful thinking and generally just hang around to light up your life",
-    "img": "https://images.pexels.com/photos/40318841/pexels-photo-40318841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/tech/oka-mori-companion-robot"
   }
 ]
