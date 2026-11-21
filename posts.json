@@ -1,5 +1,17 @@
 [
   {
+    "id": "a020e88bcb",
+    "date_iso": "2026-11-21T09:00:01.686818",
+    "date_pt": "21 de novembro de 2026",
+    "date_en": "November 21, 2026",
+    "title_pt": "Exhibition Artifact / Configuración Visual",
+    "title_en": "Exhibition Artifact / Configuración Visual",
+    "text_pt": "The Exhibition Artifact (Artefacto Expositivo) arose from a commission to build a temporary support to exhibit architectural models developed by students of the UNIACC School of Architecture during a celebration of the academic community.",
+    "text_en": "The Exhibition Artifact (Artefacto Expositivo) arose from a commission to build a temporary support to exhibit architectural models developed by students of the UNIACC School of Architecture during a celebration of the academic community.",
+    "img": "https://images.pexels.com/photos/14779072/pexels-photo-14779072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1188961/exhibition-artifact-configuracion-visual"
+  },
+  {
     "id": "2d46858c4a",
     "date_iso": "2026-11-20T18:00:02.872614",
     "date_pt": "20 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "More than just a fun guy, Mori is a digital companion designed to brighten up solo living, encourage mindful thinking and generally just hang around to light up your life",
     "img": "https://images.pexels.com/photos/40318841/pexels-photo-40318841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/tech/oka-mori-companion-robot"
-  },
-  {
-    "id": "5f54114634",
-    "date_iso": "2026-10-22T09:00:01.987511",
-    "date_pt": "22 de outubro de 2026",
-    "date_en": "October 22, 2026",
-    "title_pt": "Discover five sinister designs for Halloween – if you dare",
-    "title_en": "Discover five sinister designs for Halloween – if you dare",
-    "text_pt": "From blood-dripping tumblers to reptilian rings and ghostly lamps, explore our spooky selection",
-    "text_en": "From blood-dripping tumblers to reptilian rings and ghostly lamps, explore our spooky selection",
-    "img": "https://images.pexels.com/photos/39142251/pexels-photo-39142251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/spooky-design-for-halloween"
   }
 ]
