@@ -1,5 +1,17 @@
 [
   {
+    "id": "f8a447c38a",
+    "date_iso": "2026-11-22T18:00:02.876591",
+    "date_pt": "22 de novembro de 2026",
+    "date_en": "November 22, 2026",
+    "title_pt": "The Best Coffee Table Books for Design Enthusiasts",
+    "title_en": "The Best Coffee Table Books for Design Enthusiasts",
+    "text_pt": "Beautifully produced books that invite a closer look at art, architecture, design, and the creative minds behind them",
+    "text_en": "Beautifully produced books that invite a closer look at art, architecture, design, and the creative minds behind them",
+    "img": "https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/best-coffee-table-books/"
+  },
+  {
     "id": "68c8702d6f",
     "date_iso": "2026-11-22T09:00:02.124992",
     "date_pt": "22 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Elmo Studios The post Greenwich Street Loft appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/greenwich-street-loft/"
-  },
-  {
-    "id": "187417c566",
-    "date_iso": "2026-10-23T18:00:03.666481",
-    "date_pt": "23 de outubro de 2026",
-    "date_en": "October 23, 2026",
-    "title_pt": "Highlights from Dutch Design Week 2026: 'Eindhoven isn’t a backdrop, it’s a co-curator'",
-    "title_en": "Highlights from Dutch Design Week 2026: 'Eindhoven isn’t a backdrop, it’s a co-curator'",
-    "text_pt": "The fair, now on view until until 25 October, is a celebration of rebellious design spirits everywhere. Here are the best things we saw",
-    "text_en": "The fair, now on view until until 25 October, is a celebration of rebellious design spirits everywhere. Here are the best things we saw",
-    "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026"
   }
 ]
