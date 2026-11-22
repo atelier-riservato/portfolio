@@ -1,5 +1,17 @@
 [
   {
+    "id": "68c8702d6f",
+    "date_iso": "2026-11-22T09:00:02.124992",
+    "date_pt": "22 de novembro de 2026",
+    "date_en": "November 22, 2026",
+    "title_pt": "Minimalist House",
+    "title_en": "Minimalist House",
+    "text_pt": "FORM/Kouichi Kimura Architects The post Minimalist House appeared first on Leibal .",
+    "text_en": "FORM/Kouichi Kimura Architects The post Minimalist House appeared first on Leibal .",
+    "img": "https://images.pexels.com/photos/39801631/pexels-photo-39801631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://leibal.com/interiors/minimalist-house/"
+  },
+  {
     "id": "f1d6299c29",
     "date_iso": "2026-11-21T18:00:01.883908",
     "date_pt": "21 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "The fair, now on view until until 25 October, is a celebration of rebellious design spirits everywhere. Here are the best things we saw",
     "img": "https://images.pexels.com/photos/37982071/pexels-photo-37982071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026"
-  },
-  {
-    "id": "54e2e5cfba",
-    "date_iso": "2026-10-23T09:00:01.658374",
-    "date_pt": "23 de outubro de 2026",
-    "date_en": "October 23, 2026",
-    "title_pt": "For its debut boutique, cult slipper brand Le Monde Béryl puts its best foot forward",
-    "title_en": "For its debut boutique, cult slipper brand Le Monde Béryl puts its best foot forward",
-    "text_pt": "With references that range from Venice to David Lynch, this enveloping New York boutique, with interiors by Tutto Bene and Silka Rittson-Thomas, feels like a sophisticated art gallery",
-    "text_en": "With references that range from Venice to David Lynch, this enveloping New York boutique, with interiors by Tutto Bene and Silka Rittson-Thomas, feels like a sophisticated art gallery",
-    "img": "https://images.pexels.com/photos/20047163/pexels-photo-20047163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/interior-design/le-monde-beryl-nyc-flagship-store"
   }
 ]
