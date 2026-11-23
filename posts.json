@@ -1,5 +1,17 @@
 [
   {
+    "id": "4a0dfd38ff",
+    "date_iso": "2026-11-23T18:00:03.675174",
+    "date_pt": "23 de novembro de 2026",
+    "date_en": "November 23, 2026",
+    "title_pt": "TS Building / De Rungs Arquitectos",
+    "title_en": "TS Building / De Rungs Arquitectos",
+    "text_pt": "Built in the 1980s as an office building, the property on Tolstoi Street had fallen into a clear state of disrepair. However, its open-plan layout and the condition of its structure provided the necessary conditions for its adaptation to a new residential program.",
+    "text_en": "Built in the 1980s as an office building, the property on Tolstoi Street had fallen into a clear state of disrepair. However, its open-plan layout and the condition of its structure provided the necessary conditions for its adaptation to a new residential program.",
+    "img": "https://images.pexels.com/photos/41174013/pexels-photo-41174013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1189081/ts-building-de-rungs-arquitectos"
+  },
+  {
     "id": "b121e58d55",
     "date_iso": "2026-11-23T09:00:02.368292",
     "date_pt": "23 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "In 1972, Robert Venturi, Denise Scott Brown , and Steven Izenour published Learning from Las Vegas , challenging architects to reconsider the underappreciated, largely dismissed commercial landscape in the United States .",
     "img": "https://images.pexels.com/photos/1955549/pexels-photo-1955549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1187113/learning-from-capitalism-how-postmodern-architecture-became-the-language-of-american-business"
-  },
-  {
-    "id": "190e2b06ae",
-    "date_iso": "2026-10-24T18:00:01.981814",
-    "date_pt": "24 de outubro de 2026",
-    "date_en": "October 24, 2026",
-    "title_pt": "Napa Valley Meets Paris in This Charlotte Bistro by FictionWorks",
-    "title_en": "Napa Valley Meets Paris in This Charlotte Bistro by FictionWorks",
-    "text_pt": "A former taco spot, the restaurant is now a layered interior of warm woods, stained glass, and intimate dining spaces",
-    "text_en": "A former taco spot, the restaurant is now a layered interior of warm woods, stained glass, and intimate dining spaces",
-    "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/napa-bistro-charlotte-fictionworks/"
   }
 ]
