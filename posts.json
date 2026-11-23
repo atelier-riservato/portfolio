@@ -1,5 +1,17 @@
 [
   {
+    "id": "b121e58d55",
+    "date_iso": "2026-11-23T09:00:02.368292",
+    "date_pt": "23 de novembro de 2026",
+    "date_en": "November 23, 2026",
+    "title_pt": "A furniture collection inspired by the streets of Rome",
+    "title_en": "A furniture collection inspired by the streets of Rome",
+    "text_pt": "Gustav Craft, winner of the inaugural Fendi Design Prize, is paving the way for a bright future with a showcase at Design Miami 2026",
+    "text_en": "Gustav Craft, winner of the inaugural Fendi Design Prize, is paving the way for a bright future with a showcase at Design Miami 2026",
+    "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/design-interiors/furniture/a-furniture-collection-inspired-by-the-streets-of-rome"
+  },
+  {
     "id": "f8a447c38a",
     "date_iso": "2026-11-22T18:00:02.876591",
     "date_pt": "22 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A former taco spot, the restaurant is now a layered interior of warm woods, stained glass, and intimate dining spaces",
     "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://design-milk.com/napa-bistro-charlotte-fictionworks/"
-  },
-  {
-    "id": "1001053cff",
-    "date_iso": "2026-10-24T09:00:01.494098",
-    "date_pt": "24 de outubro de 2026",
-    "date_en": "October 24, 2026",
-    "title_pt": "Greenwich Street Loft",
-    "title_en": "Greenwich Street Loft",
-    "text_pt": "Elmo Studios The post Greenwich Street Loft appeared first on Leibal .",
-    "text_en": "Elmo Studios The post Greenwich Street Loft appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/10903305/pexels-photo-10903305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/greenwich-street-loft/"
   }
 ]
