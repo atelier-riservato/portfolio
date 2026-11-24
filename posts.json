@@ -1,5 +1,17 @@
 [
   {
+    "id": "2c338b10af",
+    "date_iso": "2026-11-24T09:00:02.033842",
+    "date_pt": "24 de novembro de 2026",
+    "date_en": "November 24, 2026",
+    "title_pt": "Private House in Kaklebi / Werkraum Design Architecture",
+    "title_en": "Private House in Kaklebi / Werkraum Design Architecture",
+    "text_pt": "The private house in Kaklebi, near Tbilisi , is composed of a series of timber-clad volumes rather than a single block, arranged to follow the slope of a wooded site and to preserve its existing mature trees.",
+    "text_en": "The private house in Kaklebi, near Tbilisi , is composed of a series of timber-clad volumes rather than a single block, arranged to follow the slope of a wooded site and to preserve its existing mature trees.",
+    "img": "https://images.pexels.com/photos/5825574/pexels-photo-5825574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.archdaily.com/1188266/private-house-in-kaklebi"
+  },
+  {
     "id": "4a0dfd38ff",
     "date_iso": "2026-11-23T18:00:03.675174",
     "date_pt": "23 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "In gold and set with estate diamonds and colourful gems, Prounis’ new jewellery designs nod to art deco art, architecture and culture",
     "img": "https://images.pexels.com/photos/33217595/pexels-photo-33217595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/watches-jewellery/jean-prounis-moderne-jewellery-collection"
-  },
-  {
-    "id": "73a8615178",
-    "date_iso": "2026-10-25T09:00:01.965155",
-    "date_pt": "25 de outubro de 2026",
-    "date_en": "October 25, 2026",
-    "title_pt": "Learning from Capitalism: How Postmodern Architecture Became the Language of American Business",
-    "title_en": "Learning from Capitalism: How Postmodern Architecture Became the Language of American Business",
-    "text_pt": "In 1972, Robert Venturi, Denise Scott Brown , and Steven Izenour published Learning from Las Vegas , challenging architects to reconsider the underappreciated, largely dismissed commercial landscape in the United States .",
-    "text_en": "In 1972, Robert Venturi, Denise Scott Brown , and Steven Izenour published Learning from Las Vegas , challenging architects to reconsider the underappreciated, largely dismissed commercial landscape in the United States .",
-    "img": "https://images.pexels.com/photos/1955549/pexels-photo-1955549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1187113/learning-from-capitalism-how-postmodern-architecture-became-the-language-of-american-business"
   }
 ]
