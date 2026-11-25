@@ -1,5 +1,17 @@
 [
   {
+    "id": "2468371159",
+    "date_iso": "2026-11-25T09:00:01.869903",
+    "date_pt": "25 de novembro de 2026",
+    "date_en": "November 25, 2026",
+    "title_pt": "The Volvo EX60 Draws on Forest Walks and Nordic Seas",
+    "title_en": "The Volvo EX60 Draws on Forest Walks and Nordic Seas",
+    "text_pt": "Volvo Cars’ Sara Erichsen Susnjar explains how the Scandinavian landscape informed the colors, materials, patterns, and lighting of the all-electric SUV",
+    "text_en": "Volvo Cars’ Sara Erichsen Susnjar explains how the Scandinavian landscape informed the colors, materials, patterns, and lighting of the all-electric SUV",
+    "img": "https://images.pexels.com/photos/14613821/pexels-photo-14613821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/volvo-ex60-interior-design/"
+  },
+  {
     "id": "316f4995ff",
     "date_iso": "2026-11-24T18:00:03.471079",
     "date_pt": "24 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Most of Arizona's streams run only after a storm. Oak Creek is one of the few that flows all year and the water changes everything around it.",
     "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1187398/ironwood-the-ranch-mine"
-  },
-  {
-    "id": "a9f9650258",
-    "date_iso": "2026-10-26T09:00:02.105154",
-    "date_pt": "26 de outubro de 2026",
-    "date_en": "October 26, 2026",
-    "title_pt": "Marfa Stance’s debut furniture is dressed in Gee’s Bend quilts",
-    "title_en": "Marfa Stance’s debut furniture is dressed in Gee’s Bend quilts",
-    "text_pt": "The British outerwear brand makes its first foray into furniture with a series of seats designed by Stephen Kenn Studio and upholstered in Gee’s Bend quilts",
-    "text_en": "The British outerwear brand makes its first foray into furniture with a series of seats designed by Stephen Kenn Studio and upholstered in Gee’s Bend quilts",
-    "img": "https://images.pexels.com/photos/30776070/pexels-photo-30776070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/furniture/marfa-stance-furniture-stephen-kenn-studio-gees-bend"
   }
 ]
