@@ -1,5 +1,17 @@
 [
   {
+    "id": "2c3f366824",
+    "date_iso": "2026-11-25T18:00:03.076253",
+    "date_pt": "25 de novembro de 2026",
+    "date_en": "November 25, 2026",
+    "title_pt": "David Rockwell Takes Us Inside the Design of Skywalker Grill",
+    "title_en": "David Rockwell Takes Us Inside the Design of Skywalker Grill",
+    "text_pt": "In the latest episode of 'Once Upon a Project,' AJ Paron speaks with Rockwell about how he created a warm, intimate restaurant inside a futuristic museum",
+    "text_en": "In the latest episode of 'Once Upon a Project,' AJ Paron speaks with Rockwell about how he created a warm, intimate restaurant inside a futuristic museum",
+    "img": "https://images.pexels.com/photos/31735042/pexels-photo-31735042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/david-rockwell-skywalker-grill/"
+  },
+  {
     "id": "2468371159",
     "date_iso": "2026-11-25T09:00:01.869903",
     "date_pt": "25 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "A canyon is a space no one designed. Its walls expose layers of rock deposited over millions of years, and the passage between them exists because water slowly wore that rock away. Glaciers shaped valleys in a similar way, leaving slopes behind as the ice retreated.",
     "img": "https://images.pexels.com/photos/13012256/pexels-photo-13012256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.archdaily.com/1187166/form-follows-formation-how-architecture-works-with-geological-shapes"
-  },
-  {
-    "id": "e4a7ff8b41",
-    "date_iso": "2026-10-26T18:00:03.068796",
-    "date_pt": "26 de outubro de 2026",
-    "date_en": "October 26, 2026",
-    "title_pt": "Ironwood Retreat / The Ranch Mine",
-    "title_en": "Ironwood Retreat / The Ranch Mine",
-    "text_pt": "Most of Arizona's streams run only after a storm. Oak Creek is one of the few that flows all year and the water changes everything around it.",
-    "text_en": "Most of Arizona's streams run only after a storm. Oak Creek is one of the few that flows all year and the water changes everything around it.",
-    "img": "https://images.pexels.com/photos/37857082/pexels-photo-37857082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1187398/ironwood-the-ranch-mine"
   }
 ]
