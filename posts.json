@@ -1,5 +1,17 @@
 [
   {
+    "id": "821f62fd83",
+    "date_iso": "2026-11-26T09:00:02.076071",
+    "date_pt": "26 de novembro de 2026",
+    "date_en": "November 26, 2026",
+    "title_pt": "The Best Gifts Under $50 for Design Enthusiasts",
+    "title_en": "The Best Gifts Under $50 for Design Enthusiasts",
+    "text_pt": "Clever, colorful, and thoughtfully designed finds that make a big impression on a limited budget",
+    "text_en": "Clever, colorful, and thoughtfully designed finds that make a big impression on a limited budget",
+    "img": "https://images.pexels.com/photos/10568025/pexels-photo-10568025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/best-gifts-under-50/"
+  },
+  {
     "id": "2c3f366824",
     "date_iso": "2026-11-25T18:00:03.076253",
     "date_pt": "25 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Jessica Gersten Design The post Historic Westchester Estate appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/29354637/pexels-photo-29354637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/historic-westchester-estate/"
-  },
-  {
-    "id": "fcdce08083",
-    "date_iso": "2026-10-27T09:00:02.015625",
-    "date_pt": "27 de outubro de 2026",
-    "date_en": "October 27, 2026",
-    "title_pt": "Form Follows Formation: How Architecture Works with Geological Shapes",
-    "title_en": "Form Follows Formation: How Architecture Works with Geological Shapes",
-    "text_pt": "A canyon is a space no one designed. Its walls expose layers of rock deposited over millions of years, and the passage between them exists because water slowly wore that rock away. Glaciers shaped valleys in a similar way, leaving slopes behind as the ice retreated.",
-    "text_en": "A canyon is a space no one designed. Its walls expose layers of rock deposited over millions of years, and the passage between them exists because water slowly wore that rock away. Glaciers shaped valleys in a similar way, leaving slopes behind as the ice retreated.",
-    "img": "https://images.pexels.com/photos/13012256/pexels-photo-13012256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.archdaily.com/1187166/form-follows-formation-how-architecture-works-with-geological-shapes"
   }
 ]
