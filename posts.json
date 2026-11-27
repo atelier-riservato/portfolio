@@ -1,5 +1,17 @@
 [
   {
+    "id": "362054ad4c",
+    "date_iso": "2026-11-27T09:00:02.430977",
+    "date_pt": "27 de novembro de 2026",
+    "date_en": "November 27, 2026",
+    "title_pt": "Burlwood Is Making a Comeback With a Modern Twist",
+    "title_en": "Burlwood Is Making a Comeback With a Modern Twist",
+    "text_pt": "4 interior designers share their thoughts on burlwood’s enduring appeal, their favorite material pairings, and how to incorporate it into contemporary spaces",
+    "text_en": "4 interior designers share their thoughts on burlwood’s enduring appeal, their favorite material pairings, and how to incorporate it into contemporary spaces",
+    "img": "https://images.pexels.com/photos/12277197/pexels-photo-12277197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/burlwood-modern-interiors/"
+  },
+  {
     "id": "b8ed3e1777",
     "date_iso": "2026-11-26T18:00:03.077062",
     "date_pt": "26 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Office of Tangible Space The post Clinton Hill Residence appeared first on Leibal .",
     "img": "https://images.pexels.com/photos/16615211/pexels-photo-16615211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://leibal.com/interiors/clinton-hill-residence/"
-  },
-  {
-    "id": "ca760f446f",
-    "date_iso": "2026-10-28T09:00:01.661227",
-    "date_pt": "28 de outubro de 2026",
-    "date_en": "October 28, 2026",
-    "title_pt": "The Up Studio Designs a Hamptons Home for Living Well and Aging in Place",
-    "title_en": "The Up Studio Designs a Hamptons Home for Living Well and Aging in Place",
-    "text_pt": "Set on a wooded Long Island property, the 7,000-square-foot residence with a flexible layout designed to evolve with its owners",
-    "text_en": "Set on a wooded Long Island property, the 7,000-square-foot residence with a flexible layout designed to evolve with its owners",
-    "img": "https://images.pexels.com/photos/37066113/pexels-photo-37066113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://design-milk.com/the-up-studio-hamptons-home/"
   }
 ]
