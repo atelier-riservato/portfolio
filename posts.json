@@ -1,5 +1,17 @@
 [
   {
+    "id": "be44467219",
+    "date_iso": "2026-11-28T18:00:02.182329",
+    "date_pt": "28 de novembro de 2026",
+    "date_en": "November 28, 2026",
+    "title_pt": "A Former Appliance Store Becomes a Hong Kong Cocktail Bar",
+    "title_en": "A Former Appliance Store Becomes a Hong Kong Cocktail Bar",
+    "text_pt": "Kevin Yiu of Minus Workshop pairs mid-century modern influences with warm wood, metallic finishes, and clever spatial solutions at Mius",
+    "text_en": "Kevin Yiu of Minus Workshop pairs mid-century modern influences with warm wood, metallic finishes, and clever spatial solutions at Mius",
+    "img": "https://images.pexels.com/photos/36241380/pexels-photo-36241380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://design-milk.com/mius-hong-kong-cocktail-bar/"
+  },
+  {
     "id": "e9c9531b37",
     "date_iso": "2026-11-28T09:00:02.664690",
     "date_pt": "28 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "At Orgatec 2026, Brunner and Doshi Levien present the ‘Session’ collection, a series of flexible furniture elements that respond to the needs of a contemporary workspace",
     "img": "https://images.pexels.com/photos/705194/pexels-photo-705194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/furniture/brunner-group-doshi-levien-session-collection-office-furniture"
-  },
-  {
-    "id": "1e7d64fa24",
-    "date_iso": "2026-10-29T18:00:03.873895",
-    "date_pt": "29 de outubro de 2026",
-    "date_en": "October 29, 2026",
-    "title_pt": "How Aldo Bakker's ambiguous designs merge sculpture and function",
-    "title_en": "How Aldo Bakker's ambiguous designs merge sculpture and function",
-    "text_pt": "Aldo Bakker's latest exhibition, titled ‘Strangely Familiar’, is currently on view in Amsterdam at Looiersgracht 60 until 23 December 2026. Nick Vinson spoke to the designer about materials and forms",
-    "text_en": "Aldo Bakker's latest exhibition, titled ‘Strangely Familiar’, is currently on view in Amsterdam at Looiersgracht 60 until 23 December 2026. Nick Vinson spoke to the designer about materials and forms",
-    "img": "https://images.pexels.com/photos/16808496/pexels-photo-16808496.png?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://www.wallpaper.com/design-interiors/aldo-bakker-strangely-familiar"
   }
 ]
