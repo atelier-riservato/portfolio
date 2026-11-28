@@ -1,5 +1,17 @@
 [
   {
+    "id": "e9c9531b37",
+    "date_iso": "2026-11-28T09:00:02.664690",
+    "date_pt": "28 de novembro de 2026",
+    "date_en": "November 28, 2026",
+    "title_pt": "Fran Silvestre Arquitectos has completed the first house at The Roca Views in Ibiza",
+    "title_en": "Fran Silvestre Arquitectos has completed the first house at The Roca Views in Ibiza",
+    "text_pt": "A white ribbon that steps down the slopes of Ibiza’s southern coast, this new villa from Fran Silvestre Arquitectos promises immersion in the island’s spectacular landscape",
+    "text_en": "A white ribbon that steps down the slopes of Ibiza’s southern coast, this new villa from Fran Silvestre Arquitectos promises immersion in the island’s spectacular landscape",
+    "img": "https://images.pexels.com/photos/15273748/pexels-photo-15273748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "source": "https://www.wallpaper.com/architecture/residential/fran-silvestre-arquitectos-roca-views-ibiza"
+  },
+  {
     "id": "defb947375",
     "date_iso": "2026-11-27T18:00:03.693672",
     "date_pt": "27 de novembro de 2026",
@@ -706,17 +718,5 @@
     "text_en": "Aldo Bakker's latest exhibition, titled ‘Strangely Familiar’, is currently on view in Amsterdam at Looiersgracht 60 until 23 December 2026. Nick Vinson spoke to the designer about materials and forms",
     "img": "https://images.pexels.com/photos/16808496/pexels-photo-16808496.png?auto=compress&cs=tinysrgb&h=650&w=940",
     "source": "https://www.wallpaper.com/design-interiors/aldo-bakker-strangely-familiar"
-  },
-  {
-    "id": "e8396331f7",
-    "date_iso": "2026-10-29T09:00:01.869146",
-    "date_pt": "29 de outubro de 2026",
-    "date_en": "October 29, 2026",
-    "title_pt": "Chalet Moraine",
-    "title_en": "Chalet Moraine",
-    "text_pt": "Appareil Architecture The post Chalet Moraine appeared first on Leibal .",
-    "text_en": "Appareil Architecture The post Chalet Moraine appeared first on Leibal .",
-    "img": "https://images.pexels.com/photos/5563473/pexels-photo-5563473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "source": "https://leibal.com/interiors/chalet-moraine/"
   }
 ]
